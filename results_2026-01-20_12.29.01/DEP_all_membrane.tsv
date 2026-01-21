@@ -1,0 +1,527 @@
+Protein.ID	intersections	location_membrane
+Q501E6	rbohC-rbohF-WT	Cell membrane
+Q9LD40	rbohC-rbohF	Cell membrane
+Q9SLG3	rbohC-rbohF	Cell membrane
+Q9LK88	rbohC-rbohF	Cell membrane
+Q9M7K4	rbohC-WT	Cell membrane
+Q9CAH5	rbohC-WT	Cell membrane
+Q8W4J9	rbohC-WT	Cell membrane
+F4IZ80	rbohF-WT	Cell membrane
+Q9LFG1	rbohF-WT	Cell membrane
+Q9MAX3	rbohF-WT	Cell membrane
+Q94AZ2	rbohF-WT	Cell membrane
+Q9FE29	rbohF-WT	Cell membrane
+P93046	rbohF-WT	Cell membrane
+O48963	rbohF-WT	Cell membrane
+Q9ZU91	rbohF-WT	Cell membrane
+Q9LFV3	rbohF-WT	Cell membrane
+O64783	rbohC	Cell membrane
+Q96303	rbohC	Cell membrane
+Q9LSD8	rbohC	Cell membrane
+Q9SJE9	rbohC	Cell membrane
+Q9FIM9	rbohC	Cell membrane
+Q8RY65	rbohC	Cell membrane
+O82628	rbohC	Cell membrane
+Q9FE79	rbohC	Cell membrane
+Q9ZW09	rbohC	Cell membrane
+P92949	rbohC	Cell membrane
+Q38856	rbohC	Cell membrane
+Q941L3	rbohC	Cell membrane
+Q38873	rbohC	Cell membrane
+Q9FGK5	rbohC	Cell membrane
+Q9SJ81	rbohC	Cell membrane
+Q8L778	rbohC	Cell membrane
+A0A1P8AZV7	rbohC	Cell membrane
+Q9M0A4	rbohC	Cell membrane
+Q9LZX4	rbohC	Cell membrane
+F4IIM1	rbohC	Cell membrane
+Q93VD3	rbohC	Cell membrane
+Q8L7E9	rbohC	Cell membrane
+Q8GXN2	rbohF	Cell membrane
+Q9SNA3	rbohF	Cell membrane
+Q9FGL5	rbohF	Cell membrane
+Q9SF86	rbohF	Cell membrane
+F4JPX3	rbohF	Cell membrane
+Q9SIH4	rbohF	Cell membrane
+P47735	rbohF	Cell membrane
+Q8VYE5	rbohF	Cell membrane
+Q9SII6	rbohF	Cell membrane
+Q9S9U1	rbohF	Cell membrane
+Q9FY75	rbohF	Cell membrane
+Q8LPL2	rbohF	Cell membrane
+P21276	rbohF	Cell membrane
+F4K6B8	rbohF	Cell membrane
+Q9CAX3	rbohF	Cell membrane
+Q6R8G7	rbohF	Cell membrane
+Q39214	rbohF	Cell membrane
+Q9SU64	rbohF	Cell membrane
+Q9SJ52	rbohF	Cell membrane
+F4HWL3	rbohF	Cell membrane
+F4JN35	rbohF	Cell membrane
+F4JHN2	WT	Cell membrane
+Q84MA9	WT	Cell membrane
+Q9FHN6	WT	Cell membrane
+F4IB81	WT	Cell membrane
+Q84VZ5	WT	Cell membrane
+Q9ZPS9	WT	Cell membrane
+Q94AI6	WT	Cell membrane
+Q9FKM2	WT	Cell membrane
+Q9SYQ8	WT	Cell membrane
+Q8VZ80	WT	Cell membrane
+Q8VZF6	WT	Cell membrane
+F4J0D2	WT	Cell membrane
+Q9FKS8	WT	Cell membrane
+C0LGQ9	WT	Cell membrane
+Q9SIL7	WT	Cell membrane
+Q9SQG2	WT	Cell membrane
+O23006	WT	Cell membrane
+Q8W4I4	WT	Cell membrane
+Q9C9Z9	WT	Cell membrane
+Q9SN38	WT	Cell membrane
+Q42342	WT	Cell membrane
+A0A219HZH3	rbohC	Chloroplast membrane
+F4J3N2	rbohC	Chloroplast membrane
+P42804	rbohF	Chloroplast membrane
+P10795	rbohF	Chloroplast membrane
+P21276	rbohF	Chloroplast membrane
+P25857	WT	Chloroplast membrane
+Q7X6P3	WT	Chloroplast membrane
+Q9LH50	rbohF	Cytoplasmic vesicle membrane
+F4I1Z0	rbohC-rbohF	Endoplasmic reticulum membrane
+Q9LZG4	rbohF-WT	Endoplasmic reticulum membrane
+Q9C5U2	rbohF-WT	Endoplasmic reticulum membrane
+Q9SAH5	rbohC	Endoplasmic reticulum membrane
+P48623	rbohC	Endoplasmic reticulum membrane
+Q8VY98	rbohC	Endoplasmic reticulum membrane
+F4JGB4	rbohC	Endoplasmic reticulum membrane
+F4JIM7	rbohF	Endoplasmic reticulum membrane
+Q9FF17	rbohF	Endoplasmic reticulum membrane
+Q9ZTP3	rbohF	Endoplasmic reticulum membrane
+Q9SH59	rbohF	Endoplasmic reticulum membrane
+Q9LD45	rbohF	Endoplasmic reticulum membrane
+Q94AS5	rbohF	Endoplasmic reticulum membrane
+F4I4K5	rbohF	Endoplasmic reticulum membrane
+Q9LZN2	rbohF	Endoplasmic reticulum membrane
+F4JN35	rbohF	Endoplasmic reticulum membrane
+Q84MC9	rbohF	Endoplasmic reticulum membrane
+Q9M0A0	WT	Endoplasmic reticulum membrane
+A9X4U2	WT	Endoplasmic reticulum membrane
+F4ITL6	WT	Endoplasmic reticulum membrane
+Q8VZF6	WT	Endoplasmic reticulum membrane
+F4KGW0	WT	Endoplasmic reticulum membrane
+P48421	WT	Endoplasmic reticulum membrane
+Q0WPQ2	WT	Endoplasmic reticulum membrane
+Q42342	WT	Endoplasmic reticulum membrane
+P14891	WT	Endoplasmic reticulum membrane
+Q8W4C8	rbohC	Endosome membrane
+B9DFS6	rbohC	Endosome membrane
+Q0WUR5	rbohC	Endosome membrane
+Q4PSF4	WT	Endosome membrane
+Q8VZF6	WT	Endosome membrane
+Q8VZK9	rbohC-rbohF-WT	Golgi apparatus membrane
+Q9SH31	rbohC-rbohF	Golgi apparatus membrane
+Q5XEZ1	rbohC-rbohF	Golgi apparatus membrane
+A0A1P8AQC9	rbohC	Golgi apparatus membrane
+Q9T0F7	rbohC	Golgi apparatus membrane
+O22807	rbohC	Golgi apparatus membrane
+Q9C512	rbohC	Golgi apparatus membrane
+Q0WT40	rbohF	Golgi apparatus membrane
+Q9FKV1	rbohF	Golgi apparatus membrane
+Q8GWT1	rbohF	Golgi apparatus membrane
+Q9C9J1	rbohF	Golgi apparatus membrane
+Q9M9M4	rbohF	Golgi apparatus membrane
+O64884	rbohF	Golgi apparatus membrane
+W8QP14	rbohF	Golgi apparatus membrane
+Q9FZJ1	rbohF	Golgi apparatus membrane
+Q94AS5	rbohF	Golgi apparatus membrane
+Q8GWB7	rbohF	Golgi apparatus membrane
+Q9C9Q5	WT	Golgi apparatus membrane
+Q9SB75	WT	Golgi apparatus membrane
+B6ETT4	WT	Golgi apparatus membrane
+Q9SRE4	WT	Golgi apparatus membrane
+Q7XA86	WT	Golgi apparatus membrane
+A0A2H1ZEG1	WT	Golgi apparatus membrane
+F4ITL6	WT	Golgi apparatus membrane
+Q9FDZ5	WT	Golgi apparatus membrane
+Q9SQG2	WT	Golgi apparatus membrane
+Q9SV21	WT	Golgi apparatus membrane
+Q8RXL8	WT	Golgi apparatus membrane
+Q94A05	WT	Golgi apparatus membrane
+Q9M146	WT	Golgi apparatus membrane
+Q8W4C8	rbohC	Lysosome membrane
+Q501E6	rbohC-rbohF-WT	Membrane
+Q9FKH6	rbohC-rbohF-WT	Membrane
+Q8VZK9	rbohC-rbohF-WT	Membrane
+Q9LD40	rbohC-rbohF	Membrane
+Q501F8	rbohC-rbohF	Membrane
+Q9SLG3	rbohC-rbohF	Membrane
+Q9SH31	rbohC-rbohF	Membrane
+Q9FLD5	rbohC-rbohF	Membrane
+Q9LM78	rbohC-rbohF	Membrane
+Q949Z2	rbohC-rbohF	Membrane
+Q9LK88	rbohC-rbohF	Membrane
+Q9FN75	rbohC-rbohF	Membrane
+Q39219	rbohC-rbohF	Membrane
+A0A1P8B9Z4	rbohC-rbohF	Membrane
+Q5XEZ1	rbohC-rbohF	Membrane
+Q7FB56	rbohC-rbohF	Membrane
+F4I1Z0	rbohC-rbohF	Membrane
+Q9LDH3	rbohC-WT	Membrane
+Q8VY27	rbohC-WT	Membrane
+Q9M7K4	rbohC-WT	Membrane
+Q9CAH5	rbohC-WT	Membrane
+Q8W4J9	rbohC-WT	Membrane
+Q4V3C8	rbohC-WT	Membrane
+Q0WTF4	rbohC-WT	Membrane
+Q9SY76	rbohC-WT	Membrane
+O65787	rbohC-WT	Membrane
+Q9LZG4	rbohF-WT	Membrane
+F4JY73	rbohF-WT	Membrane
+F4IZ80	rbohF-WT	Membrane
+Q7PC85	rbohF-WT	Membrane
+O49340	rbohF-WT	Membrane
+P60112	rbohF-WT	Membrane
+Q9LFG1	rbohF-WT	Membrane
+Q9SS48	rbohF-WT	Membrane
+O80823	rbohF-WT	Membrane
+Q9LW27	rbohF-WT	Membrane
+Q9C5U2	rbohF-WT	Membrane
+O64718	rbohF-WT	Membrane
+Q8LGA5	rbohF-WT	Membrane
+Q9MAX3	rbohF-WT	Membrane
+Q94AZ2	rbohF-WT	Membrane
+Q9FE29	rbohF-WT	Membrane
+P93046	rbohF-WT	Membrane
+Q9LTL8	rbohF-WT	Membrane
+F4K6P2	rbohF-WT	Membrane
+O48963	rbohF-WT	Membrane
+Q9ZU91	rbohF-WT	Membrane
+Q9LFV3	rbohF-WT	Membrane
+A0A1P8AQC9	rbohC	Membrane
+Q9SA25	rbohC	Membrane
+O64783	rbohC	Membrane
+Q9SEZ9	rbohC	Membrane
+A0A1P8AY30	rbohC	Membrane
+Q96303	rbohC	Membrane
+Q9LSD8	rbohC	Membrane
+F4JQE9	rbohC	Membrane
+Q9SJE9	rbohC	Membrane
+Q9T0F7	rbohC	Membrane
+Q8W4C8	rbohC	Membrane
+Q9CAL3	rbohC	Membrane
+Q9FG65	rbohC	Membrane
+Q9XIM7	rbohC	Membrane
+Q9FIM9	rbohC	Membrane
+B9DFS6	rbohC	Membrane
+Q8RY65	rbohC	Membrane
+O22807	rbohC	Membrane
+Q67XP8	rbohC	Membrane
+A0A1P8B5K3	rbohC	Membrane
+O82628	rbohC	Membrane
+Q39079	rbohC	Membrane
+Q9FE79	rbohC	Membrane
+P0CW98	rbohC	Membrane
+O80695	rbohC	Membrane
+Q9ZW09	rbohC	Membrane
+Q9SAH5	rbohC	Membrane
+Q9M173	rbohC	Membrane
+A0A219HZH3	rbohC	Membrane
+P92949	rbohC	Membrane
+B9DFU2	rbohC	Membrane
+Q38856	rbohC	Membrane
+P48623	rbohC	Membrane
+A5PHT0	rbohC	Membrane
+Q941L3	rbohC	Membrane
+Q94K78	rbohC	Membrane
+P93313	rbohC	Membrane
+Q38873	rbohC	Membrane
+F4IBS8	rbohC	Membrane
+Q9FGK5	rbohC	Membrane
+Q9SJ81	rbohC	Membrane
+Q9C512	rbohC	Membrane
+O64474	rbohC	Membrane
+Q8L778	rbohC	Membrane
+Q949U9	rbohC	Membrane
+A0A1P8AZV7	rbohC	Membrane
+Q9M0A4	rbohC	Membrane
+Q0WUR5	rbohC	Membrane
+Q9LZX4	rbohC	Membrane
+O23596	rbohC	Membrane
+F4IIM1	rbohC	Membrane
+Q8VY98	rbohC	Membrane
+F4JGB4	rbohC	Membrane
+Q9SKU2	rbohC	Membrane
+Q93VD3	rbohC	Membrane
+Q8L6Z2	rbohC	Membrane
+Q9FL51	rbohC	Membrane
+Q9C6L5	rbohC	Membrane
+F4J3N2	rbohC	Membrane
+Q9SJA1	rbohC	Membrane
+C0LGT5	rbohC	Membrane
+Q39191	rbohC	Membrane
+O64725	rbohC	Membrane
+Q9C9Z1	rbohC	Membrane
+Q8L7E9	rbohC	Membrane
+Q41951	rbohC	Membrane
+Q0WT40	rbohF	Membrane
+Q7XZP5	rbohF	Membrane
+Q8GXN2	rbohF	Membrane
+Q9FKV1	rbohF	Membrane
+Q9SG91	rbohF	Membrane
+A0A1P8B4V5	rbohF	Membrane
+F4JIM7	rbohF	Membrane
+A0A1I9LQR2	rbohF	Membrane
+Q9FF17	rbohF	Membrane
+Q9SNA3	rbohF	Membrane
+F4HPH5	rbohF	Membrane
+Q9FGL5	rbohF	Membrane
+Q9SUQ3	rbohF	Membrane
+Q9SF86	rbohF	Membrane
+F4JPX3	rbohF	Membrane
+Q8GWT1	rbohF	Membrane
+Q9C9J1	rbohF	Membrane
+Q9ZTP3	rbohF	Membrane
+Q9M9M4	rbohF	Membrane
+Q8LLD0	rbohF	Membrane
+Q8GW96	rbohF	Membrane
+Q9SZ46	rbohF	Membrane
+Q9SH59	rbohF	Membrane
+Q8GYF5	rbohF	Membrane
+Q9LVD6	rbohF	Membrane
+O64884	rbohF	Membrane
+Q9SIH4	rbohF	Membrane
+Q940H3	rbohF	Membrane
+Q9LMM1	rbohF	Membrane
+P47735	rbohF	Membrane
+Q9LH50	rbohF	Membrane
+Q8VYE5	rbohF	Membrane
+Q9SII6	rbohF	Membrane
+Q9SKT7	rbohF	Membrane
+P60300	rbohF	Membrane
+Q9LD45	rbohF	Membrane
+W8QP14	rbohF	Membrane
+Q9S9U1	rbohF	Membrane
+Q9FZJ1	rbohF	Membrane
+P42804	rbohF	Membrane
+A0A1P8B395	rbohF	Membrane
+P10795	rbohF	Membrane
+Q9FY75	rbohF	Membrane
+Q9SYZ0	rbohF	Membrane
+Q9LFS3	rbohF	Membrane
+Q9CAD6	rbohF	Membrane
+A0A1P8B5S3	rbohF	Membrane
+F4IXH3	rbohF	Membrane
+Q8LPL2	rbohF	Membrane
+Q8VYR3	rbohF	Membrane
+Q8LBL1	rbohF	Membrane
+P21276	rbohF	Membrane
+F4K6B8	rbohF	Membrane
+Q9CAX3	rbohF	Membrane
+Q94AS5	rbohF	Membrane
+Q9LTD8	rbohF	Membrane
+Q6R8G7	rbohF	Membrane
+O64635	rbohF	Membrane
+Q9SAC9	rbohF	Membrane
+F4I4K5	rbohF	Membrane
+Q9LUC6	rbohF	Membrane
+Q8S8Q6	rbohF	Membrane
+Q8GWB7	rbohF	Membrane
+Q8GUK1	rbohF	Membrane
+Q39214	rbohF	Membrane
+A0A1P8B6W3	rbohF	Membrane
+A0A1P8ARJ0	rbohF	Membrane
+Q39141	rbohF	Membrane
+O49394	rbohF	Membrane
+O04086	rbohF	Membrane
+Q8L850	rbohF	Membrane
+Q9SU64	rbohF	Membrane
+Q9SJ52	rbohF	Membrane
+Q8RY60	rbohF	Membrane
+Q9T0K0	rbohF	Membrane
+Q9M076	rbohF	Membrane
+F4JSQ2	rbohF	Membrane
+Q9LZN2	rbohF	Membrane
+Q8GUI9	rbohF	Membrane
+F4HWL3	rbohF	Membrane
+Q8GWR0	rbohF	Membrane
+F4JN35	rbohF	Membrane
+A0A1P8B7U8	rbohF	Membrane
+Q8W110	rbohF	Membrane
+Q9LK64	rbohF	Membrane
+Q0WNY5	rbohF	Membrane
+Q9FMA0	rbohF	Membrane
+O23482	rbohF	Membrane
+Q84MC9	rbohF	Membrane
+Q9FLW0	rbohF	Membrane
+P25857	WT	Membrane
+Q6NQK0	WT	Membrane
+F4JHN2	WT	Membrane
+A0A1P8AS27	WT	Membrane
+Q84MA9	WT	Membrane
+Q9FHN6	WT	Membrane
+Q9C9Q5	WT	Membrane
+A0A1P8B4R8	WT	Membrane
+Q9SB75	WT	Membrane
+B6ETT4	WT	Membrane
+Q9M0A0	WT	Membrane
+Q8GXA4	WT	Membrane
+Q9LUZ6	WT	Membrane
+A0A1P8ATB0	WT	Membrane
+F4IB81	WT	Membrane
+Q9SSQ9	WT	Membrane
+F4HX45	WT	Membrane
+Q9ZQR4	WT	Membrane
+Q9SRE4	WT	Membrane
+A0A1I9LPC2	WT	Membrane
+Q84VZ5	WT	Membrane
+Q9C5L6	WT	Membrane
+Q38903	WT	Membrane
+O82251	WT	Membrane
+Q9ZPS9	WT	Membrane
+Q7XA86	WT	Membrane
+F4JV35	WT	Membrane
+A9X4U2	WT	Membrane
+A0A2H1ZEG1	WT	Membrane
+Q4PSF4	WT	Membrane
+Q9SVC2	WT	Membrane
+F4ITL6	WT	Membrane
+Q7X6P3	WT	Membrane
+C0LGJ9	WT	Membrane
+Q94AI6	WT	Membrane
+Q4V3A2	WT	Membrane
+Q6DST1	WT	Membrane
+Q9FKM2	WT	Membrane
+Q9LU41	WT	Membrane
+Q9FRK5	WT	Membrane
+Q9M393	WT	Membrane
+Q9FI39	WT	Membrane
+Q9M028	WT	Membrane
+Q9SYQ8	WT	Membrane
+Q9XES1	WT	Membrane
+Q9SAE3	WT	Membrane
+Q9SH30	WT	Membrane
+A0A1I9LN01	WT	Membrane
+F4IAN4	WT	Membrane
+Q8VZ80	WT	Membrane
+Q8VZF6	WT	Membrane
+F4IE35	WT	Membrane
+F4J0D2	WT	Membrane
+O04308	WT	Membrane
+Q9FKS8	WT	Membrane
+Q9FDZ5	WT	Membrane
+Q9LPL6	WT	Membrane
+Q9S9N4	WT	Membrane
+Q6ICY4	WT	Membrane
+C0LGQ9	WT	Membrane
+A0A2H1ZE60	WT	Membrane
+F4JLJ2	WT	Membrane
+A8MQN4	WT	Membrane
+Q9SIL7	WT	Membrane
+Q29Q26	WT	Membrane
+F4KGW0	WT	Membrane
+Q9SQG2	WT	Membrane
+Q9LYS2	WT	Membrane
+Q9LTI3	WT	Membrane
+Q8RX67	WT	Membrane
+Q9SV21	WT	Membrane
+Q8RXL8	WT	Membrane
+O23006	WT	Membrane
+Q9XF67	WT	Membrane
+Q9M1Q9	WT	Membrane
+A0A1P8B1L7	WT	Membrane
+Q94A05	WT	Membrane
+Q9FIJ0	WT	Membrane
+Q8RY80	WT	Membrane
+Q9SVZ8	WT	Membrane
+Q8W4I4	WT	Membrane
+Q7Y1W1	WT	Membrane
+Q9C9Z9	WT	Membrane
+Q9FX97	WT	Membrane
+Q9M146	WT	Membrane
+P48421	WT	Membrane
+Q42602	WT	Membrane
+A0A1P8B8H5	WT	Membrane
+Q9SN38	WT	Membrane
+Q9FNL3	WT	Membrane
+Q9ASS7	WT	Membrane
+Q9C8H0	WT	Membrane
+Q0WPQ2	WT	Membrane
+Q84WU8	WT	Membrane
+Q9STY7	WT	Membrane
+Q42342	WT	Membrane
+Q9SZR1	WT	Membrane
+C0LGU1	WT	Membrane
+P14891	WT	Membrane
+Q9T051	WT	Membrane
+O80946	WT	Membrane
+Q9FLD5	rbohC-rbohF	Mitochondrion membrane
+P60112	rbohF-WT	Mitochondrion membrane
+Q8LLD0	rbohF	Nucleus membrane
+Q8GXA4	WT	Nucleus membrane
+Q7XZP5	rbohF	Peroxisome membrane
+Q9FLD5	rbohC-rbohF	Single-pass membrane protein
+Q9FN75	rbohC-rbohF	Single-pass membrane protein
+Q0WTF4	rbohC-WT	Single-pass membrane protein
+O65787	rbohC-WT	Single-pass membrane protein
+F4IZ80	rbohF-WT	Single-pass membrane protein
+O49340	rbohF-WT	Single-pass membrane protein
+Q9LFG1	rbohF-WT	Single-pass membrane protein
+O80823	rbohF-WT	Single-pass membrane protein
+Q9LW27	rbohF-WT	Single-pass membrane protein
+O64718	rbohF-WT	Single-pass membrane protein
+Q8LGA5	rbohF-WT	Single-pass membrane protein
+Q9LTL8	rbohF-WT	Single-pass membrane protein
+Q9LFV3	rbohF-WT	Single-pass membrane protein
+Q9T0F7	rbohC	Single-pass membrane protein
+Q9CAL3	rbohC	Single-pass membrane protein
+Q9FG65	rbohC	Single-pass membrane protein
+O22807	rbohC	Single-pass membrane protein
+Q39079	rbohC	Single-pass membrane protein
+P0CW98	rbohC	Single-pass membrane protein
+B9DFU2	rbohC	Single-pass membrane protein
+Q94K78	rbohC	Single-pass membrane protein
+Q8VY98	rbohC	Single-pass membrane protein
+Q9SJA1	rbohC	Single-pass membrane protein
+O64725	rbohC	Single-pass membrane protein
+Q8L7E9	rbohC	Single-pass membrane protein
+Q7XZP5	rbohF	Single-pass membrane protein
+Q9SG91	rbohF	Single-pass membrane protein
+Q9FGL5	rbohF	Single-pass membrane protein
+Q9SUQ3	rbohF	Single-pass membrane protein
+Q9C9J1	rbohF	Single-pass membrane protein
+Q8GW96	rbohF	Single-pass membrane protein
+Q9SZ46	rbohF	Single-pass membrane protein
+Q9LVD6	rbohF	Single-pass membrane protein
+Q9LMM1	rbohF	Single-pass membrane protein
+A0A1P8B395	rbohF	Single-pass membrane protein
+Q9SYZ0	rbohF	Single-pass membrane protein
+Q9CAD6	rbohF	Single-pass membrane protein
+O64635	rbohF	Single-pass membrane protein
+Q9LUC6	rbohF	Single-pass membrane protein
+O49394	rbohF	Single-pass membrane protein
+Q9SJ52	rbohF	Single-pass membrane protein
+Q9T0K0	rbohF	Single-pass membrane protein
+Q8GWR0	rbohF	Single-pass membrane protein
+F4JN35	rbohF	Single-pass membrane protein
+A0A1P8B4R8	WT	Single-pass membrane protein
+B6ETT4	WT	Single-pass membrane protein
+Q8GXA4	WT	Single-pass membrane protein
+F4IB81	WT	Single-pass membrane protein
+Q6DST1	WT	Single-pass membrane protein
+Q9FI39	WT	Single-pass membrane protein
+Q9SAE3	WT	Single-pass membrane protein
+A0A1I9LN01	WT	Single-pass membrane protein
+Q8VZF6	WT	Single-pass membrane protein
+P48421	WT	Single-pass membrane protein
+Q42602	WT	Single-pass membrane protein
+A0A1P8B8H5	WT	Single-pass membrane protein
+Q84WU8	WT	Single-pass membrane protein
+Q42342	WT	Single-pass membrane protein
+O82628	rbohC	Vacuole membrane
+Q41951	rbohC	Vacuole membrane
+Q9SH59	rbohF	Vacuole membrane
+Q8LBL1	rbohF	Vacuole membrane
+Q7XA86	WT	Vacuole membrane
+Q6ICY4	WT	Vacuole membrane
+Q9FNL3	WT	Vacuole membrane
+Q9ASS7	WT	Vacuole membrane

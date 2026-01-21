@@ -1,0 +1,93 @@
+Amyloplast membrane
+Autophagosome
+Bacterial flagellum
+Bacterial microcompartment
+Cell junction
+Cell membrane
+Cell projection
+Cell septum
+Cell wall
+Chloroplast membrane
+Cilium
+Cilium axoneme
+Cilium basal body
+Cilium membrane
+Coated pit
+Cyanelle membrane
+Cytoplasm
+Cytoplasmic ribonucleoprotein granule
+Cytoplasmic vesicle
+Cytoplasmic vesicle lumen
+Cytoplasmic vesicle membrane
+Early endosome
+Endoplasmic reticulum
+Endoplasmic reticulum lumen
+Endoplasmic reticulum membrane
+Endosome
+Endosome lumen
+Endosome membrane
+Extracellular matrix
+Extracellular space
+Extracellular vesicle
+Forespore membrane
+Golgi apparatus
+Golgi apparatus lumen
+Golgi apparatus membrane
+Host cell junction
+Host cell membrane
+Host cell projection
+Host cytoplasmic vesicle
+Host cytoplasmic vesicle membrane
+Host endoplasmic reticulum membrane
+Host endosome membrane
+Host Golgi apparatus membrane
+Host membrane
+Host mitochondrion membrane
+Host nucleus membrane
+Host pathogen-containing vacuole
+Host peroxisome
+Host secretory vesicle
+Host thylakoid
+Late endosome
+Lipid-anchor
+Lysosome
+Lysosome lumen
+Lysosome membrane
+Membrane
+Midbody
+Mitochondrion membrane
+Mitosome membrane
+Neuron projection
+Nuclear body
+Nucleus membrane
+Organellar chromatophore membrane
+Peroxisome
+Peroxisome matrix
+Peroxisome membrane
+Plastid
+Plastid envelope
+Plastid inner membrane
+Plastid intermembrane space
+Plastid membrane
+Plastid outer membrane
+Plastid stroma
+Plastid thylakoid
+Plastid thylakoid lumen
+Plastid thylakoid membrane
+Postsynapse
+Postsynaptic cell membrane
+Postsynaptic endosome
+Recycling endosome
+Sarcoplasm
+Secretory vesicle
+Secretory vesicle lumen
+Secretory vesicle membrane
+Single-pass membrane protein
+Synaptic cell membrane
+Target cell
+Target membrane
+Thylakoid
+Vacuole
+Vacuole lumen
+Vacuole membrane
+Vesicle

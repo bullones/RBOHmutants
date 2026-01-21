@@ -1,0 +1,1056 @@
+Protein	Subcellular.location	Transmembrane	log2_rbohC	log2_rbohF	log2_WT	Protein.names
+O49652	Chloroplast	TRUE	6.64	6.64	6.64	Cytochrome P450 - like protein (Cytochrome P450, family 706, subfamily A, polypeptide 2) (Cytochrome P450-like protein)
+Q9SKC1	Chloroplast		-6.64	-6.64	-6.64	UDP-glycosyltransferase 74C1 (EC 2.4.1.-)
+P50700	Extracellular		3.31	3.63	5.73	Osmotin-like protein OSM34
+O82264	Unknown		-3.2	-2.09	2.45	NPL4-like protein 2
+O81888	Extracellular		2.44	1.42	2.36	AT4g33720 (AT4g33720/T16L1_210) (CAP (Cysteine-rich secretory proteins, Antigen 5, and Pathogenesis-related 1 protein) superfamily protein) (Pathogenesis-related protein 1, 19.3K) (Putative pathogenesis-related protein 1, 19.3K)
+O04193	Cytoplasm, cytoskeleton.		-1.83	-1.16	-1.46	LIM domain-containing protein WLIM2a (Widely-expressed LIM protein 2) (AtWLIM2)
+Q9FX85	Secreted.		1.94	2.03	1.73	Peroxidase 10 (Atperox P10) (EC 1.11.1.7) (ATP5a)
+F4JLY4	Chloroplast		1.22	2.6	2.7	Cytochrome P450, family 706, subfamily A, polypeptide 1
+Q84JE8	Nucleus, nucleoplasm. Not found in the nucleolus (PubMed:22325353). Co-localizes in nucleoplasmic foci with APE1L and ROS1, two components of the DNA demethylase machinery (PubMed:25569774).		2.14	3.11	-3.2	Polynucleotide 3'-phosphatase ZDP (EC 3.1.3.32) (DNA nick sensor protein)
+Q9SUT2	Secreted.		1.32	1.78	2.17	Peroxidase 39 (Atperox P39) (EC 1.11.1.7) (ATP19a)
+Q9LMA1	Chloroplast		2.45	2.44	2.26	Probable flavin-containing monooxygenase 1 (EC 1.14.13.-)
+Q501E6	Cell membrane; Lipid-anchor. Membrane, caveola.		1.54	1.71	2.7	Flotillin-like protein 1 (AtFLOT1) (Nodulin-like protein 1)
+O82659	Unknown		1.69	1.49	2.88	Probable calcium-binding protein CML20 (Calmodulin-like protein 20) (Centrin 1) (AtCEN1)
+A8MQL8	Secreted.		-1.78	-2.52	-2.87	GAST1 protein homolog 4
+Q9M1Q4	Unknown		-2.8	3.7	2.94	Endonuclease or glycosyl hydrolase (Uncharacterized protein T17J13.160)
+A0A1P8B3U2	Mitochondrion		1	1.49	1.98	glucan endo-1,3-beta-D-glucosidase (EC 3.2.1.39)
+O48723	Cytoplasm.		1.45	3.53	1.89	Patatin-like protein 2 (AtPLP2) (EC 3.1.1.-) (Patatin-related phospholipase A IIalpha) (pPLAIIa) (Phospholipase A IIA) (AtPLAIIA)
+O23264	Nucleus		0.95	-1.34	3.01	Selenium-binding protein 1 (AtSBP1)
+Q9ZV49	Unknown	TRUE	0.93	2.03	2.07	Expressed protein (Transmembrane protein)
+O23547	Secreted.		1.91	2.37	4.3	Expansin-like B1 (At-EXPR1) (AtEXLB1) (AtEXPR1) (Ath-ExpBeta-3.1)
+Q9FKH6	Membrane; Multi-pass membrane protein.	TRUE	1.6	1.9	3.04	Cytochrome b561 and DOMON domain-containing protein At5g35735 (Protein b561A.tha16)
+P02663	Secreted.		-1.08	-1.77	-1.28	Alpha-S2-casein [Cleaved into: Casocidin-1 (Casocidin-I)]
+Q8VZK9	Golgi apparatus membrane; Multi-pass membrane protein.	TRUE	0.77	1.29	1.36	Cellulose synthase-like protein E1 (AtCslE1) (EC 2.4.1.-)
+Q9FNA3	Chloroplast		-6.64	0	6.64	Alpha-N-acetylglucosaminidase (EC 3.2.1.50) (N-acetyl-glucosaminidase) (AtNAGLU) (Protein CYCLOPS 1)
+Q9FMK7	Nucleus. Cytoplasm.		-6.64	0	-6.64	BTB/POZ and TAZ domain-containing protein 1 (BTB and TAZ domain protein 1)
+F4IUN0	Chloroplast		-6.64	0	6.64	Transducin family protein / WD-40 repeat family protein
+Q9LDH3	Membrane; Multi-pass membrane protein.	TRUE	-5.78	0	6.64	Probable sugar phosphate/phosphate translocator At1g12500
+Q9CAV7	Nucleus		1.37	0	-2.13	Probable transcription factor At3g04930 (Storekeeper-like protein At3g04930)
+Q0WTB4	Plastid, chloroplast.		-1.97	0	2.86	GTP-binding protein At3g49725, chloroplastic
+Q8LA16	Nucleus.		-2.43	0	-2	PHD finger protein ALFIN-LIKE 7 (Protein AL7)
+Q8VY27	Cytoplasmic vesicle, phagosome. Cytoplasm. Nucleus. Endomembrane system. Localized in the vesicle-like structures in a peri-nuclear and nuclear pattern.		-3.33	0	5.01	Exocyst complex component EXO70H1 (AtExo70h1) (Exocyst subunit Exo70 family protein H1)
+Q9M7K4	Cell membrane; Multi-pass membrane protein.	TRUE	3.47	0	2.88	Potassium transporter 5 (AtHAK1) (AtHAK5) (AtPOT5)
+Q94C74	Mitochondrion.		1.24	0	2.08	Serine hydroxymethyltransferase 2, mitochondrial (AtSHMT2) (EC 2.1.2.1) (Glycine hydroxymethyltransferase 2) (Serine methylase 2)
+Q9XI90	Nucleus.		2.7	0	-3.17	Probable WRKY transcription factor 4 (WRKY DNA-binding protein 4)
+Q8W4J9	Cell membrane.		-3.16	0	6.64	Disease resistance protein RPP8 (Resistance to Peronospora parasitica protein 8)
+O81488	Nucleus.		-1.74	0	-1.34	PHD finger protein ALFIN-LIKE 4 (Protein AL4)
+Q9CAH5	Cell membrane; Multi-pass membrane protein.	TRUE	2.64	0	2.96	Polyprenol reductase 1 (EC 1.3.1.94)
+Q9C8G6	Unknown		-2.21	0	3.26	Alpha/beta-Hydrolases superfamily protein (Lipase, putative)
+Q8L607	Mitochondrion.		-0.92	0	5.06	Short integuments 2, mitochondrial (DAR GTPase 1)
+A0A1P8BDS3	Golgi_body	TRUE	0.95	0	1.51	NAD(P)-binding Rossmann-fold superfamily protein
+Q9SZJ5	Mitochondrion. Cytoplasm.		1.05	0	1.4	Serine hydroxymethyltransferase 1, mitochondrial (AtSHMT1) (EC 2.1.2.1) (Glycine hydroxymethyltransferase 1) (Serine Transhydroxymethyltransferase) (STM) (Serine methylase 1)
+Q9SY76	Membrane; Multi-pass membrane protein.	TRUE	1.7	0	3.12	Ankyrin repeat family protein (At1g10340/F14N23_22) (F14N23.22)
+Q9M2H7	Nucleus. Cytoplasm.		2.78	0	-2.11	Protein PELOTA 2 (AtPelota2) (EC 3.1.-.-)
+O65787	Membrane; Single-pass membrane protein.	TRUE	0.75	0	1.28	Cytochrome P450 71B6 (EC 1.14.-.-)
+Q4V3C8	Cytoplasm. Membrane; Peripheral membrane protein. Membrane-associated after cell stimulation leading to its translocation.		-1.7	0	-2.42	3-phosphoinositide-dependent protein kinase 2 (AtPDK2) (EC 2.7.11.1)
+Q43731	Secreted.		0.97	0	1.94	Peroxidase 50 (Atperox P50) (EC 1.11.1.7) (ATP9a) (PRXR2)
+F4IN63	Nucleus		0.72	0	4.8	Oxidoreductase, 2OG-Fe(II) oxygenase family protein
+Q0WTF4	Membrane; Single-pass membrane protein.	TRUE	-1.1	0	1.87	Cytochrome P450 81F3 (EC 1.14.-.-)
+F4IHR4	Plastid, chloroplast stroma. Targeted to the chloroplast via a protein-targeting pathway that uses the secretory system.		1.76	0	2.72	Alpha carbonic anhydrase 2 (AtaCA2) (AtalphaCA2) (EC 4.2.1.1) (Alpha carbonate dehydratase 2)
+F4JZQ4	Extracellular		1.47	0	2.67	CAP (Cysteine-rich secretory proteins, Antigen 5, and Pathogenesis-related 1 protein) superfamily protein
+Q9ZQ38	Unknown		0	6.64	6.64	Expressed protein (Ubiquitin-associated protein (DUF1068)) (Uncharacterized protein At2g24290)
+Q9LFG1	Cell membrane; Single-pass membrane protein.	TRUE	0	3.14	-6.64	Putative leucine-rich repeat receptor-like serine/threonine-protein kinase At3g53590 (EC 2.7.11.1)
+Q9SX79	Nucleus. Cytoplasmic granule.		0	-6.64	-2.58	Polyadenylate-binding protein RBP47C (Poly(A)-binding protein RBP47C) (RNA-binding protein 47C) (AtRBP47C)
+Q8GXC5	Nucleus		0	-6.33	-2.57	DNA-binding protein (Putative DNA-binding protein) (Zinc knuckle (CCHC-type) family protein)
+A0A2H1ZE50	Extracellular	TRUE	0	6.64	-6.64	Lectin receptor kinase a4.1
+Q9LZG4	Endoplasmic reticulum membrane. Membrane; Multi-pass membrane protein.	TRUE	0	-6.64	6.64	Polyprenol reductase (EC 1.3.1.94)
+F4JY73	Membrane; Multi-pass membrane protein.	TRUE	0	-6.64	6.64	Rhomboid-related intramembrane serine protease family protein
+P02666	Secreted.		0	-3.32	-1.67	Beta-casein [Cleaved into: Casoparan; Antioxidant peptide; Casohypotensin]
+F4IZ80	Cell membrane; Single-pass membrane protein. Cytoplasm.	TRUE	0	6.64	-2.08	Protein CYSTEINE-RICH TRANSMEMBRANE MODULE 10 (AthCYSTM10) (Protein WINDHOSE 3)
+Q7PC85	Membrane; Multi-pass membrane protein.	TRUE	0	-4.24	-2.38	ABC transporter G family member 38 (ABC transporter ABCG.38) (AtABCG38) (Pleiotropic drug resistance protein 10)
+O49340	Membrane; Single-pass membrane protein.	TRUE	0	2.76	2.51	Cytochrome P450 71A12 (EC 1.14.-.-)
+Q8LGA5	Membrane; Single-pass membrane protein.	TRUE	0	2.44	2.05	E3 ubiquitin-protein ligase ATL31 (EC 2.3.2.27) (Protein CARBON/NITROGEN INSENSITIVE 1) (Protein SUPER SURVIVAL 1) (RING-H2 finger protein ATL31) (RING-type E3 ubiquitin transferase ATL31)
+Q9LII1	Unknown		0	-3.35	-3.49	Nucleic acid-binding, OB-fold-like protein
+F4J3F3	Mitochondrion		0	3.59	-1.82	ARM repeat superfamily protein
+C0Z2A9	Unknown		0	-2.59	4.4	AT1G29120 protein (Hydrolase-like protein family)
+B3H5W6	Nucleus		0	2	2.19	AT5G35180 protein (ENHANCED DISEASE RESISTANCE protein (DUF1336))
+P60112	Mitochondrion membrane; Multi-pass membrane protein.	TRUE	0	4.71	-2.74	ATP synthase subunit 9, mitochondrial (Lipid-binding protein)
+A0A1I9LN67	Extracellular	TRUE	0	4	2.97	Major facilitator superfamily protein
+F4I0N7	Secreted.		0	-2.04	-1.64	GAST1 protein homolog 1
+Q9FGV4	Cytoplasm		0	-2.6	2.36	Acetyl-CoA:benzylalcohol acetyltranferase-like protein (At5g47950) (HXXXD-type acyl-transferase family protein) (Putative acetyl-CoA:benzylalcohol acetyltranferase)
+Q9SS48	Mitochondrion inner membrane; Peripheral membrane protein.		0	-1.59	1.66	Glycerol-3-phosphate dehydrogenase SDP6, mitochondrial (EC 1.1.5.3) (Protein SUGAR-DEPENDENT 6)
+O80823	Membrane; Single-pass membrane protein.	TRUE	0	3.04	3.59	Cytochrome P450 86A8 (EC 1.14.14.1) (Protein LACERATA)
+F4JWQ4	Nucleus		0	-3.07	-2.3	Ubiquitin-like superfamily protein
+Q9LW27	Membrane; Single-pass membrane protein.	TRUE	0	1.77	1.46	Bifunctional dihydrocamalexate synthase/camalexin synthase (EC 1.14.19.52) (Cytochrome P450 71B15) (Dihydrocamalexate:NADP(+) oxidoreductase (decarboxylating)) (Protein PHYTOALEXIN DEFICIENT 3)
+Q9LTL8	Membrane; Single-pass membrane protein.	TRUE	0	-1.67	6.64	Cytochrome P450 71B24 (EC 1.14.-.-)
+P19171	Vacuole.		0	1.79	2.19	Basic endochitinase B (EC 3.2.1.14) (Pathogenesis-related protein 3) (AtChiB) (PR-3)
+Q9C5U2	Endoplasmic reticulum membrane; Multi-pass membrane protein.	TRUE	0	2.62	3.08	Histidine kinase 2 (EC 2.7.13.3) (Arabidopsis histidine kinase 2) (AtHK2) (Protein AUTHENTIC HIS-KINASE 2)
+Q8GX94	Chloroplast, Nucleus	TRUE	0	-2.03	2.52	Leucine-rich repeat protein kinase family protein (Leucine-rich repeat receptor-like protein kinase) (Putative receptor like protein kinase)
+O22224	Nucleus envelope. Nucleus, nuclear pore complex.		0	-1.03	1.62	Nuclear pore complex protein NUP93A (Nucleoporin 93A)
+Q9LEX5	Mitochondrion.		0	-1.67	2.16	Pentatricopeptide repeat-containing protein At3g60980, mitochondrial
+O64718	Membrane; Single-pass membrane protein.	TRUE	0	1.79	1.94	Cytochrome P450 71B9 (EC 1.14.-.-)
+Q9C911	Nucleus.		0	3.02	4.63	DNAJ protein JJJ1 homolog (AtJJJ1)
+O24658	Extracellular		0	-3.11	2.49	Endochitinase At2g43590 (EC 3.2.1.14)
+F4K6P2	Membrane; Multi-pass membrane protein.	TRUE	0	2.14	4.94	Respiratory burst oxidase homolog A
+Q43387	Secreted.		0	2.47	2.91	Peroxidase 71 (Atperox P71) (EC 1.11.1.7) (ATP15a) (ATPO2)
+Q6NMS0	Nucleus.		0	1.79	2.09	Glutathione S-transferase U12 (AtGSTU12) (EC 2.5.1.18) (GST class-tau member 12)
+Q9FEA2	Plastid, chloroplast. Mitochondrion.		0	-1.15	2.11	Glutamate--tRNA ligase, chloroplastic/mitochondrial (EC 6.1.1.17) (AtERS) (Glutamyl-tRNA synthetase) (GluRS) (Protein OVULE ABORTION 3)
+Q9MAX3	Cell membrane; Multi-pass membrane protein.	TRUE	0	1.27	1.81	Sulfate transporter 1.2
+Q9SH66	Secreted, extracellular space, apoplast.		0	1.62	1.85	Dirigent protein 5 (AtDIR5)
+A0A1P8B3K8	Mitochondrion, Chloroplast		0	1.97	-4.99	Protein phosphatase 2C family protein
+P42760	Cytoplasm, cytosol.		0	1.89	2.55	Glutathione S-transferase F6 (AtGSTF6) (EC 2.5.1.18) (AtGSTF3) (GST class-phi member 6) (Glutathione S-transferase 1) (AtGST1) (Protein EARLY RESPONSE TO DEHYDRATION 11)
+P92995	Secreted, extracellular space, apoplast.		0	1.51	3.26	Germin-like protein subfamily T member 1
+Q94AZ2	Cell membrane; Multi-pass membrane protein.	TRUE	0	1.91	2.16	Sugar transport protein 13 (Hexose transporter 13) (Multicopy suppressor of snf4 deficiency protein 1)
+Q9FE29	Cell membrane; Multi-pass membrane protein.	TRUE	0	1.33	2.13	CASP-like protein 1D1 (AtCASPL1D1)
+P93046	Secreted, cell wall. Secreted, extracellular space, apoplast. Cell membrane.		0	-1.35	-1.78	Xyloglucan endotransglucosylase/hydrolase protein 31 (At-XTH31) (AtXTR8) (XTH-31) (EC 2.4.1.207) (EC 3.2.1.151)
+Q9LFV3	Cell membrane; Single-pass membrane protein.	TRUE	0	1.24	1.83	Calcium/calmodulin-regulated receptor-like kinase 2 (AtCRLK2) (EC 2.7.11.1)
+Q9M3C8	Secreted, extracellular space, apoplast.		0	-2.28	5.93	Dirigent protein 24 (AtDIR24)
+C0SUW7	Nucleus.		0	1.7	-2.95	AT-rich interactive domain-containing protein 6 (ARID domain-containing protein 6)
+F4K4E3	Cytoplasm. Nucleus.		0	-1.01	-1.35	Sm-like protein LSM4 (AtLSM4) (Protein EMBRYO DEFECTIVE 1644) (U6 snRNA-associated Sm-like protein LSM4)
+Q9SRY5	Cytoplasm, cytosol.		0	1.21	2.34	Glutathione S-transferase F7 (EC 2.5.1.18) (AtGSTF8) (GST class-phi member 7) (Glutathione S-transferase 11)
+O48963	Cell membrane; Peripheral membrane protein. Cytoplasm.		0	-1.95	-3.13	Phototropin-1 (EC 2.7.11.1) (Non-phototropic hypocotyl protein 1) (Root phototropism protein 1)
+Q9ZU91	Cell membrane; Lipid-anchor, GPI-anchor.		0	-1.56	-2.43	Glucan endo-1,3-beta-glucosidase 3 (EC 3.2.1.39) ((1->3)-beta-glucan endohydrolase 3) ((1->3)-beta-glucanase 3) (Beta-1,3-endoglucanase 3) (Beta-1,3-glucanase 3)
+P11832	Chloroplast		0	-0.97	-1.41	Nitrate reductase [NADH] 1 (NR1) (EC 1.7.1.1)
+Q9FNG3	Cytoplasm.		0	2.18	6.64	Protein RISC-INTERACTING CLEARING 3'-5' EXORIBONUCLEASE 2 (EC 3.1.13.1) (DnaQ-like 3'-5' exonuclease domain-containing protein) (AtDECP)
+O22718	Cytoplasm, cytosol.		0	-1.52	-2.38	ATP-citrate synthase alpha chain protein 2 (ATP-citrate synthase A-2) (EC 2.3.3.8) (ATP-citrate lyase A-2) (Citrate cleavage enzyme A-2)
+Q8L9Y2	Cytoplasm. Nucleus.		-4.49	0	0	Elongator complex protein 6 (AtELP6) (Elongator component 6) (UPF0405 protein ELP6)
+Q8LDK5	Chloroplast		5.24	6.22	0	At5g27820 (Ribosomal L18p/L5e family protein)
+Q9LD40	Cell membrane; Multi-pass membrane protein.	TRUE	6.64	2.25	0	Putative cyclic nucleotide-gated ion channel 13 (Cyclic nucleotide- and calmodulin-regulated ion channel 13)
+Q501F8	Membrane; Multi-pass membrane protein.	TRUE	-6.64	-6.64	0	WAT1-related protein At4g08300
+Q9FIM9	Cell membrane; Lipid-anchor; Cytoplasmic side.		-2.16	0	0	CDPK-related kinase 4 (AtCRK4) (EC 2.7.11.1) (Calcium/calmodulin-dependent protein kinase CRK4)
+O64380	Cytoplasm. Nucleus.		-6.64	-6.64	0	Polyadenylate-binding protein 3 (PABP-3) (Poly(A)-binding protein 3)
+Q1PE83	Nucleus	TRUE	3.72	3.36	0	ARM repeat superfamily protein
+Q9SLG3	Cell membrane; Multi-pass membrane protein.	TRUE	-5.76	-2.4	0	Zinc transporter 3 (ZRT/IRT-like protein 3)
+Q38896	Cytoplasm. Nucleus, nucleolus. Nucleus.		2.14	1.63	0	Cold shock domain-containing protein 4 (AtCSP4) (Glycine-rich protein 2b) (AtGRP2b)
+Q8RY65	Cell membrane; Single-pass type I membrane protein.	TRUE	3.18	0	0	Protein NSP-INTERACTING KINASE 2 (EC 2.7.11.1) (LRR receptor-like serine/threonine-protein kinase NIK2)
+Q9C5M5	Unknown		3.14	0	0	At1g27000/T7N9_6 (GRIP/coiled-coil protein, putative (DUF1664)) (Uncharacterized protein At1g27000)
+A0A178UE66	Unknown		-3.25	-2.47	0	Cysteine and histidine-rich domain-containing protein RAR1
+Q93WF1	Extracellular		-3.11	0	0	Probable pectate lyase 20 (EC 4.2.2.2)
+F4IUJ7	Nucleus. Nucleus, nucleolus.		-3.78	-1.77	0	Protein IQ-DOMAIN 4 (AtIQD4)
+Q9FMU5	Nucleus, nucleolus.		-1.26	0	0	U3 small nucleolar RNA-associated protein 18 homolog
+Q9SH31	Golgi apparatus membrane; Single-pass type II membrane protein.	TRUE	-3.64	-1.86	0	Xyloglucan-specific galacturonosyltransferase 1 (EC 2.4.1.-) (Glycosyltransferase 16) (Protein ROOT HAIR SPECIFIC 8) (Protein exostosin)
+O23177	Unknown		-0.92	0	0	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate-2, 6-diaminopimelate ligase (Uncharacterized protein At4g37090) (Uncharacterized protein At4g37090/C7A10_270)
+Q9XID0	Nucleus		2.06	0	0	Putative 1-phosphatidylinositol-3-phosphate 5-kinase FAB1D (Phosphatidylinositol 3-phosphate 5-kinase) (EC 2.7.1.150) (Phosphatidylinositol 3-phosphate 5-kinase type III) (PIPkin-III) (Type III PIP kinase) (Protein FORMS APLOID AND BINUCLEATE CELLS 1D)
+Q9C950	Nucleus.		-2.11	0	0	Protein RTF1 homolog (Protein VERNALIZATION INDEPENDENCE 5)
+F4JN13	Nucleus, Cytoplasm		2.23	1.86	0	Ankyrin repeat-containing protein 2
+Q3MK94	Nucleus. Cytoplasm. Localizes predominantly in the nucleus.		-1.2	-0.95	0	YTH domain-containing protein ECT1 (Protein EVOLUTIONARILY CONSERVED C-TERMINAL REGION 1)
+Q9LUD4	Cytoplasm		-1.2	0	0	60S ribosomal protein L18a-3
+Q1H595	Cytoplasm. Nucleus.		1.35	-2.83	0	Sm-like protein LSM2 (AtLSM2) (U6 snRNA-associated Sm-like protein LSM2)
+Q94K76	Extracellular		2.04	4.02	0	Curculin-like (Mannose-binding) lectin family protein (Uncharacterized protein At5g18470)
+Q9STX2	Unknown		-0.98	0	0	3-oxo-Delta(4,5)-steroid 5-beta-reductase (EC 1.3.1.3) (Delta(4)-3-oxosteroid 5-beta-reductase) (Delta-4,5-steroid 5-beta-reductase) (At5beta-StR) (Progesterone 5-beta-reductase) (5beta-POR) (Protein VEIN PATTERNING 1)
+Q9FJB5	Unknown		-1.47	0	0	Disease resistance RPP8-like protein 3
+Q9FLD5	Mitochondrion membrane; Single-pass membrane protein.	TRUE	1.21	1.93	0	AAA-ATPase ASD, mitochondrial (EC 3.6.1.-) (AAA-ATPase 1) (Protein ATPASE-IN-SEED-DEVELOPMENT)
+Q9LLC1	Plastid, chloroplast.		0.98	0	0	Biotin carboxyl carrier protein of acetyl-CoA carboxylase 2, chloroplastic (AtBCCP2) (BCCP-2)
+Q9LM78	Cell_membrane		-1.02	-0.98	0	Calcium-binding EF hand family protein (F2D10.25) (Uncharacterized protein At1g20760)
+Q8LCE1	Cytoplasm.		1.08	0	0	Glutamine synthetase cytosolic isozyme 1-2 (EC 6.3.1.2) (Glutamate--ammonia ligase GLN1;2) (GLN1;2)
+Q67XP8	Cell_membrane		1.6	0	0	Calcium-dependent lipid-binding (CaLB domain) family protein (NTMC2T6.2 protein) (Uncharacterized protein At3g14590)
+Q949Z2	Membrane; Multi-pass membrane protein.	TRUE	1.05	-1.62	0	AT5G26740 protein (Organic solute transporter ostalpha protein (DUF300)) (Uncharacterized protein At5g26734)
+Q9FXB0	Cytoplasm		-1.37	-1.06	0	At1g56580/F25P12_18 (F25P12.97 protein)
+Q8W4I9	Nucleus		2.1	0	0	Protein MEI2-like 1 (AML1) (MEI2-like protein 1)
+Q9LK88	Cell membrane.		-1.07	1.33	0	NADPH:quinone oxidoreductase (EC 1.6.5.2)
+Q9FN75	Membrane; Single-pass membrane protein.	TRUE	2.62	2.37	0	AAA-ATPase At5g17760 (EC 3.6.1.-)
+O82628	Cell membrane. Vacuole membrane; Peripheral membrane protein.		1.32	0	0	V-type proton ATPase subunit G1 (V-ATPase subunit G1) (Vacuolar H(+)-ATPase subunit G isoform 1) (Vacuolar proton pump subunit G1)
+Q8RXW8	Unknown		2.57	0	0	Uncharacterized protein At5g65207
+Q9FN19	Nucleus.		0.83	1.48	0	WD40 repeat-containing protein HOS15 (HIGH OSMOTIC STRESS GENE EXPRESSION 15)
+Q39219	Mitochondrion inner membrane; Multi-pass membrane protein. Mitochondrial, possibly in the inner surface of the inner mitochondrial membrane.	TRUE	1.39	2.41	0	Ubiquinol oxidase 1a, mitochondrial (EC 1.10.3.11) (Alternative oxidase 1a)
+Q39079	Membrane; Single-pass membrane protein.	TRUE	1.19	0	0	Chaperone protein dnaJ 13 (AtDjB13) (AtJ13)
+Q8H1U4	Nucleus.		2.82	0	0	Anaphase-promoting complex subunit 5 (Cyclosome subunit 5)
+A0A1P8B9Z4	Membrane; Multi-pass membrane protein.	TRUE	1.07	1.97	0	Ferric reduction oxidase 5
+O82504	Nucleus, nucleoplasm. Nucleus, nucleolus. Nucleus. In the nucleolus, localized in a ring or crescent around the inner periphery and to a distinctive nucleolar dot.		1.59	-2.14	0	RNA-dependent RNA polymerase 2 (AtRDRP2) (EC 2.7.7.48) (Protein SILENCING MOVEMENT DEFICIENT 1) (RNA-directed RNA polymerase 2)
+O49596	Nucleus. Cytoplasm, cytosol.		2.44	2.15	0	High mobility group B protein 2 (High mobility group protein B 1) (AtHMGbeta1) (HMG beta 1) (Nucleosome/chromatin assembly factor group D 02) (Nucleosome/chromatin assembly factor group D 2)
+Q0WUR5	Endosome membrane; Peripheral membrane protein.		-1.18	0	0	1-phosphatidylinositol-3-phosphate 5-kinase FAB1A (Phosphatidylinositol 3-phosphate 5-kinase) (EC 2.7.1.150) (FYVE finger-containing phosphoinositide kinase) (PIKfyve) (Phosphatidylinositol 3-phosphate 5-kinase type III) (PIPkin-III) (Type III PIP kinase) (Protein FORMS APLOID AND BINUCLEATE CELLS 1A)
+Q9SDM9	Cytoplasm		0.99	1.23	0	Nitrile-specifier protein 1 (AtNSP1) (Jacalin-related lectin 28)
+Q5XEZ1	Golgi apparatus membrane; Single-pass type II membrane protein.	TRUE	-1.87	2.17	0	Hydroxyproline O-galactosyltransferase HPGT3 (EC 2.4.1.-) (Beta-1,3-galactosyltransferase 9)
+Q7FB56	Membrane; Multi-pass membrane protein.	TRUE	-2.18	-4.58	0	Putative ABC transporter C family member 15 (ABC transporter ABCC.15) (AtABCC15) (EC 7.6.2.2) (ATP-energized glutathione S-conjugate pump 15) (Glutathione S-conjugate-transporting ATPase 15) (Putative multidrug resistance-associated protein 15)
+F4I1Z0	Endoplasmic reticulum membrane; Multi-pass membrane protein. Membrane; Multi-pass membrane protein.	TRUE	-1.29	-1.36	0	GPI transamidase subunit PIG-U
+Q9T019	Secreted, extracellular space, apoplast.		-1.34	1.98	0	Dirigent protein 14 (AtDIR14)
+Q9ZW09	Cell membrane; Single-pass type I membrane protein.	TRUE	1.32	0	0	Probable inactive L-type lectin-domain containing receptor kinase III.1 (LecRK-III.1)
+F4J865	Chloroplast	TRUE	1.91	-1.58	0	Cytochrome P450, family 76, subfamily G, polypeptide 1
+Q56YT0	Secreted, extracellular space, apoplast.		-0.73	-1.24	0	Laccase-3 (EC 1.10.3.2) (Benzenediol:oxygen oxidoreductase 3) (Diphenol oxidase 3) (Urishiol oxidase 3)
+Q8GY58	Secreted.		-1.35	2.26	0	Endoglucanase 23 (EC 3.2.1.4) (Endo-1,4-beta glucanase 23)
+F4IBS8	Membrane; Multi-pass membrane protein.	TRUE	1.5	0	0	Protein VTE6, chloroplastic
+Q9SHH6	Cytoplasm, cytosol.		1.7	1.86	0	Glutathione S-transferase U24 (AtGSTU24) (EC 2.5.1.18) (GST class-tau member 24)
+A0A1P8ATG5	Nucleus.	TRUE	6.64	0	0	High mobility group B3
+Q9LTI5	Nucleus.		2.61	0	0	Scarecrow-like protein 11 (AtSCL11) (GRAS family protein 31) (AtGRAS-31)
+F4K265	Cytoplasmic vesicle, autophagosome.		-6.64	0	0	Autophagy-related protein 101
+O22822	Unknown		1.57	0	0	UDP-glycosyltransferase 74F2 (EC 2.4.1.-) (AtSGT1) (Salicylic acid glucosyltransferase 1)
+A0A1P8AQC9	Golgi apparatus membrane; Single-pass type II membrane protein. Membrane; Single-pass type II membrane protein.		-6.64	0	0	Exostosin family protein
+Q9ZVX3	Nucleus		6.64	0	0	Expressed protein (Phospholipase-like protein (PEARLI 4) family protein)
+Q9SA25	Membrane; Single-pass type I membrane protein.	TRUE	6.64	0	0	Wall-associated receptor kinase-like 8 (EC 2.7.11.-)
+O22254	Cytoplasm		2.54	0	0	Putative 60S ribosomal protein L18-1
+Q9M047	Cytoplasm, cytoskeleton.		-1.36	0	0	LIM domain-containing protein WLIM2b (Widely-expressed LIM protein 2B)
+Q9FG54	Extracellular		1.89	0	0	At5g54370 (Late embryogenesis abundant (LEA) protein-like protein) (Root cap protein 2-like protein)
+O22241	Plastid, chloroplast stroma.		6.64	0	0	Arogenate dehydratase 4, chloroplastic (AtADT4) (EC 4.2.1.91)
+O64783	Cell membrane; Single-pass type I membrane protein.	TRUE	-6.64	0	0	G-type lectin S-receptor-like serine/threonine-protein kinase At1g61370 (EC 2.7.11.1)
+Q6ICW8	Nucleus.		-6.64	0	0	At4g25180 (RNA polymerase III RPC4) (Uncharacterized protein At4g25180)
+Q9SEZ9	Membrane; Single-pass type II membrane protein.	TRUE	6.64	0	0	Protein trichome birefringence-like 30
+Q9SJD4	Mitochondrion		2.03	0	0	Long chain acyl-CoA synthetase 8 (EC 6.2.1.3)
+F4KHL6	Chloroplast		6.64	0	0	Heavy metal-associated isoprenylated plant protein 10 (AtHIP10)
+P55852	Nucleus. Cytoplasm.		-2.78	0	0	Small ubiquitin-related modifier 1 (AtSUMO1) (Ubiquitin-like protein SMT3)
+Q3E7C8	Unknown		6.64	0	0	Uncharacterized protein
+Q9CAL3	Membrane; Single-pass membrane protein.	TRUE	1.82	0	0	Cysteine-rich receptor-like protein kinase 2 (Cysteine-rich RLK2) (EC 2.7.11.-)
+Q84W43	Extracellular		6.64	0	0	Proline-tRNA ligase (DUF1680) (Uncharacterized protein At5g12960)
+Q9LVI8	Cytoplasm.		0.91	0	0	Glutamine synthetase cytosolic isozyme 1-3 (GS1) (EC 6.3.1.2) (Glutamate--ammonia ligase GLN1;3) (GLN1;3)
+A0A1P8B9C1	Cytoplasm, Nucleus		-6.64	0	0	glutathione transferase (EC 2.5.1.18)
+A0A1P8AY30	Membrane; Multi-pass membrane protein.	TRUE	-6.64	0	0	Auxin efflux carrier component
+O23357	Secreted.		-6.64	0	0	Subtilisin-like protease SBT4.2 (EC 3.4.21.-) (Subtilase subfamily 4 member 2) (AtSBT4.2)
+O64580	Unknown		6.64	0	0	At2g19460 (DUF3511 domain protein (DUF3511)) (Expressed protein) (Uncharacterized protein At2g19460)
+Q8L7T5	Cytoplasm, Chloroplast		4.42	0	0	At1g07990/T6D22_5 (SIT4 phosphatase-associated family protein)
+Q8L517	Mitochondrion		-6.64	0	0	AFG1-like ATPase family protein (Uncharacterized protein At4g30490)
+Q96303	Cell membrane; Multi-pass membrane protein. Localizes at the plasma membrane, where it interacts with NLA.	TRUE	-6.64	0	0	Inorganic phosphate transporter 1-4 (AtPht1;4) (H(+)/Pi cotransporter)
+Q9LSD8	Cell membrane; Lipid-anchor.		-6.64	0	0	Membrane-anchored ubiquitin-fold protein 4 (AtMUB4) (Membrane-anchored ub-fold protein 4)
+Q66GP5	Cytoplasm, cytoskeleton, microtubule organizing center, centrosome. Cytoplasm, cytoskeleton, spindle pole.		-6.64	0	0	TBCC domain-containing protein 1
+A0A1P8BEE3	Nucleus.	TRUE	6.64	0	0	Cam-binding protein 60-like G
+Q9SI67	Unknown		-6.64	0	0	Ankyrin repeat/KH domain protein (DUF1442) (At1g62840) (F23N19.19) (Uncharacterized protein At1g62840)
+A0A1I9LLC5	Nucleus		-6.64	0	0	Stress response protein nst1
+Q9SJ96	Nucleus.		6.64	0	0	DNA-directed RNA polymerases II and V subunit 6B
+Q9C5I1	Chloroplast		6.64	0	0	UDP-sugar pyrophosphorylase (AtUSP) (EC 2.7.7.64)
+F4JQE9	Cell_membrane		-6.64	0	0	AAA-type ATPase family protein
+Q9SJA6	Nucleus.		2.22	0	0	Serine/arginine-rich splicing factor RSZ22A (RS-containing zinc finger protein 22A) (At-RSZ22a) (At-RSZp22a) (AtRSZ22a)
+Q9SJE9	Cell membrane; Multi-pass membrane protein.	TRUE	-6.64	0	0	Aluminum-activated malate transporter 1 (AtALMT1)
+Q9T0F7	Golgi apparatus membrane; Single-pass membrane protein.	TRUE	-4.56	0	0	Glucuronoxylan 4-O-methyltransferase 2 (EC 2.1.1.112)
+Q9SSC1	Unknown		2.15	0	0	MAPK kinase substrate protein At1g80180
+Q8H1F1	Nucleus, Mitochondrion		2.61	0	0	AP-5 complex subunit zeta-1 (Uncharacterized protein At3g15160)
+O22807	Golgi apparatus membrane; Single-pass membrane protein.	TRUE	-2.62	0	0	Galactan beta-1,4-galactosyltransferase GALS1 (EC 2.4.1.-) (Beta-1,4-galactan synthase) (Galactan synthase 1)
+P02769	Secreted.		1.84	0	0	Albumin (BSA) (allergen Bos d 6)
+O64651	Unknown		-2.83	0	0	ARM repeat superfamily protein (At2g45720) (Uncharacterized protein At2g45720)
+Q9LJG8	Nucleus.		3.15	0	0	Trihelix transcription factor ASIL2 (6B-interacting protein 1-like 2) (Trihelix DNA-binding protein ASIL2)
+O48726	Cytoplasm. Nucleus.		-3.97	0	0	26S proteasome regulatory subunit RPN13 (AtRPN13) (26S proteasome non-ATPase regulatory subunit 13)
+Q9M1J9	Nucleus, nucleolus.		-1.6	0	0	AT3g56990/F24I3_70 (Embryo sac development arrest 7) (Uncharacterized protein F24I3.70)
+A0A1P8APR1	Mitochondrion	TRUE	2.12	0	0	tRNA-processing ribonuclease BN
+P38666	Cytoplasm. Nucleus. Nucleus, nucleolus. Nucleus, nucleoplasm.		-0.79	0	0	60S ribosomal protein L24-2 (Protein SHORT VALVE 1)
+Q0WVM7	Nucleus.		1.19	0	0	Probable transcriptional regulator SLK1 (AtSLK1) (Protein SEUSS-like 1)
+F4HPA7	Nucleus.		3.27	0	0	Mediator of RNA polymerase II transcription subunit 10b
+A8MR92	Mitochondrion		3.37	0	0	Iron-sulfur cluster biosynthesis family protein
+Q8W4C8	Late endosome membrane. Lysosome membrane. Cytoplasm, cytoskeleton, spindle. Localizes with microtubules at the spindle mid-zone during mitosis.		2.7	0	0	ADP-ribosylation factor-like protein 8c (AtARL8c) (ADP-ribosylation factor-like A1A) (AtARLA1A)
+Q8H1Q4	Mitochondrion		-3.74	0	0	Leucine-rich repeat family protein (Uncharacterized protein At1g15740)
+Q949U9	Membrane; Multi-pass membrane protein.	TRUE	-0.78	0	0	Mitochondrial substrate carrier family protein (Putative mitochondrial carrier protein)
+A0A1P8B5K3	Membrane; Multi-pass membrane protein.	TRUE	-1.73	0	0	NOD26-like major intrinsic protein 1
+Q8LC40	Unknown		-1.22	0	0	IGR motif protein (Uncharacterized protein At3g05810) (Uncharacterized protein At3g05810/F10A16_10)
+Q06588	Cytoplasm		3.15	0	0	1-aminocyclopropane-1-carboxylate oxidase 4 (ACC oxidase) (EC 1.14.17.4) (Ethylene-forming enzyme) (EFE)
+Q9SXC0	Unknown		1.37	0	0	NAD(P)-linked oxidoreductase superfamily protein (Putative Aldo/keto reductase)
+Q9LJ42	Extracellular		-3.03	0	0	Probable pectate lyase 10 (EC 4.2.2.2)
+Q9FG65	Membrane; Single-pass membrane protein.	TRUE	-2.3	0	0	Cytochrome P450 81D1 (EC 1.14.-.-)
+F4J1N5	Cytoplasm.		-3.88	0	0	Eukaryotic translation initiation factor 3 subunit C (eIF3c) (Eukaryotic translation initiation factor 3 subunit 8) (eIF3 p110)
+Q9SLV3	Unknown	TRUE	1.36	0	0	At1g58270/F19C14_8 (F19C14.11 protein) (TRAF-like family protein) (Uncharacterized protein At1g58270) (ZW9 protein)
+Q94K78	Mitochondrion inner membrane; Single-pass membrane protein.	TRUE	0.96	0	0	Cytochrome b-c1 complex subunit 10, mitochondrial (Complex III subunit 10) (Complex III subunit XI) (Ubiquinol-cytochrome c oxidoreductase subunit 10)
+Q9FZ82	Unknown		0	-6.64	0	F25I16.5 protein (Galactose oxidase/kelch repeat superfamily protein)
+Q9CAI3	Chloroplast		2.21	0	0	Probable cinnamyl alcohol dehydrogenase 1 (AtCAD1) (EC 1.1.1.195)
+Q41951	Vacuole membrane; Multi-pass membrane protein. Tonoplast. It is specifically located in the tonoplast of protein storage vacuoles (PSV) (By similarity).	TRUE	-0.71	0	0	Aquaporin TIP2-1 (Delta-tonoplast intrinsic protein) (Delta-TIP) (Tonoplast intrinsic protein 2-1) (AtTIP2;1) [Cleaved into: Aquaporin TIP2-1, N-terminally processed]
+Q9XIM7	Membrane; Multi-pass membrane protein.	TRUE	2.43	0	0	Cold-regulated 413 plasma membrane protein 1 (AtCOR413-PM1) (WCOR413-like protein)
+P54969	Endoplasmic reticulum lumen.		0	1.84	0	IAA-amino acid hydrolase ILR1-like 1 (EC 3.5.1.-)
+Q38950	Cytoplasm, cytosol. Nucleus. Peroxisome. Interacts with B'THETA in the cytosol and peroxisomal import occurs by a piggybacking transport.		-1.33	0	0	Serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A beta isoform (AtA beta) (PP2A, subunit A, beta isoform)
+B9DFS6	Cytoplasm. Endosome membrane; Peripheral membrane protein; Cytoplasmic side. Prevacuolar compartment membrane; Peripheral membrane protein; Cytoplasmic side. Golgi apparatus, trans-Golgi network membrane; Peripheral membrane protein; Cytoplasmic side.		-1.38	0	0	Sorting nexin 2B
+Q8RWW8	Cytoplasm.		-1.14	0	0	Rab3 GTPase-activating protein catalytic subunit
+Q9SGA6	Nucleus		-0.9	0	0	40S ribosomal protein S19-1
+Q9FGL5	Cell membrane; Single-pass membrane protein.	TRUE	0	5.21	0	Receptor protein-tyrosine kinase CEPR1 (EC 2.7.10.1) (Protein C-TERMINALLY ENCODED PEPTIDE RECEPTOR 1) (Protein XYLEM INTERMIXED WITH PHLOEM 1)
+Q9M9N1	Golgi apparatus.		-1.49	0	0	ADP-ribosylation factor
+Q8H1E1	Unknown		-1.88	0	0	DNA-directed RNA polymerase II protein (Uncharacterized protein At4g08540)
+Q9FPW6	Cytoplasm		0.96	0	0	BTB/POZ domain-containing protein POB1 (POZ/BTB CONTAINING-PROTEIN 1) (AtPOB1)
+Q8GUN7	Chloroplast		-3.95	0	0	Adenylosuccinate lyase (ASL) (EC 4.3.2.2) (Adenylosuccinase)
+Q9LET7	Nucleus		-1.32	0	0	Calmodulin-interacting protein 111 (CaM-interacting protein 111) (ATPase family AAA domain-containing protein CIP111)
+Q41188	Cytoplasm. Nucleus, nucleolus.		1.22	0	0	Cold shock protein 2 (AtCSP2) (Cold shock domain-containing protein 2) (Glycine-rich protein 2) (AtGRP2)
+Q9M173	Membrane; Multi-pass membrane protein.	TRUE	-2.43	0	0	Protein NRT1/ PTR FAMILY 2.4 (AtNPF2.4) (Probable nitrate excretion transporter 5) (Protein NAXT1-like 4)
+P92980	Plastid, chloroplast.		1.46	0	0	5'-adenylylsulfate reductase 3, chloroplastic (EC 1.8.4.9) (3'-phosphoadenosine-5'-phosphosulfate reductase homolog 26) (PAPS reductase homolog 26) (Prh-26) (Adenosine 5'-phosphosulfate 5'-adenylylsulfate sulfotransferase 3) (APS sulfotransferase 3) (Thioredoxin-independent APS reductase 3)
+Q42538	Cytoplasm.		1.18	0	0	Serine acetyltransferase 5 (AtSAT-5) (EC 2.3.1.30) (AtSERAT1;1) (SAT-c)
+Q9SHZ5	Nucleus.		-1.92	0	0	UBP1-associated proteins 1B
+A0A219HZH3	Membrane; Multi-pass membrane protein. Plastid, chloroplast membrane; Multi-pass membrane protein.	TRUE	2.47	0	0	Glucose-6-phosphate/phosphate translocator-like protein
+F4HTY0	Unknown		-0.82	0	0	SNARE-like superfamily protein
+O23596	Membrane; Multi-pass membrane protein.	TRUE	-1.42	0	0	Putative glycerol-3-phosphate transporter 4 (G-3-P transporter 4) (Glycerol-3-phosphate permease 4) (AtG3Pp4) (G-3-P permease 4)
+Q9FMA9	Secreted, extracellular space, apoplast.		0.86	0	0	Germin-like protein subfamily 1 member 10
+Q9SF87	Nucleus		-1.77	0	0	AT3g09850/F8A24_10 (D111/G-patch domain-containing protein) (F8A24.10 protein)
+Q8L778	Cell membrane; Multi-pass membrane protein.	TRUE	-1.23	0	0	Cellulose synthase A catalytic subunit 5 [UDP-forming] (AtCesA5) (EC 2.4.1.12)
+Q8W0Z1	Unknown		2.47	0	0	AT3g20360/MQC12_11 (TRAF-like family protein)
+Q8VY98	Endoplasmic reticulum membrane; Single-pass membrane protein. Membrane; Single-pass membrane protein. Under favorable growth conditions, partially associated with the endoplasmic reticulum (ER) membrane network. Upon exposure to carbon starvation, mainly associated with newly identified spherical compartments that dynamically move along the ER network and reach the lytic vacuole.	TRUE	1.86	0	0	ATG8-interacting protein 2
+Q9M339	Unknown		-0.94	0	0	40S ribosomal protein S3-2
+F4JL28	Nucleus.		-1.44	0	0	Chromatin remodeling protein EBS (Protein EARLY BOLTING IN SHORT DAYS)
+F4JGB4	Endoplasmic reticulum membrane; Multi-pass membrane protein. Membrane; Multi-pass membrane protein.	TRUE	-1.7	0	0	Signal peptidase complex subunit 2
+F4I7P0	Unknown		-2.03	0	0	Apoptosis inhibitory protein
+P92949	Cell membrane; Multi-pass membrane protein.	TRUE	-1	0	0	Ferric reduction oxidase 2 (AtFRO2) (EC 1.16.1.7) (Ferric-chelate reductase 2) (Protein FERRIC CHELATE REDUCTASE DEFECTIVE 1)
+Q9FRS7	Unknown		-1.42	0	0	At1g08580 (F22O13.6)
+Q9FUP0	Peroxisome.		2.37	0	0	12-oxophytodienoate reductase 3 (EC 1.3.1.42) (12-oxophytodienoate-10,11-reductase 3) (AtOPR3) (OPDA-reductase 3) (Protein DELAYED DEHISCENCE 1) [Cleaved into: 12-oxophytodienoate reductase 3, N-terminally processed]
+P00883	Cytoplasm, myofibril, sarcomere, I band. Cytoplasm, myofibril, sarcomere, M line. In skeletal muscle, accumulates around the M line and within the I band, colocalizing with FBP2 on both sides of the Z line in the absence of Ca(2+).		2.97	0	0	Fructose-bisphosphate aldolase A (EC 4.1.2.13) (Muscle-type aldolase)
+C0Z2J1	Unknown		-1.79	0	0	AT1G11360 protein (Adenine nucleotide alpha hydrolases-like superfamily protein)
+Q8L5Y9	Cytoplasm		0	-2.72	0	Pantothenate kinase 2 (AtPANK2) (Pantothenic acid kinase 2) [Includes: Pantothenate kinase (EC 2.7.1.33); 4'-phosphopantetheine phosphatase (EC 3.1.3.-)]
+F4K627	Extracellular		-3.42	0	0	Serine protease inhibitor, potato inhibitor I-type family protein
+Q9S9P0	Nucleus.		-2.29	0	0	Sister chromatid cohesion protein PDS5 homolog E (Precocious dissociation of sisters protein 5-E) (AtPDS5E)
+Q9FL51	Membrane; Single-pass type I membrane protein.	TRUE	-2.29	0	0	Probably inactive leucine-rich repeat receptor-like protein kinase At5g06940
+Q8L7E9	Cell membrane; Single-pass membrane protein.	TRUE	-2.16	0	0	Protein MID1-COMPLEMENTING ACTIVITY 1
+Q84TE2	Cytoplasm		-1.3	0	0	At4g33120 (S-adenosyl-L-methionine-dependent methyltransferases superfamily protein) (Uncharacterized protein At4g33120)
+Q9FE79	Cell membrane; Lipid-anchor; Cytoplasmic side.		-1.05	0	0	Ras-related protein RABA4c (AtRABA4c) (Ras-related protein SMG1)
+P0CW98	Membrane; Single-pass membrane protein.	TRUE	3.12	0	0	Protein PLANT CADMIUM RESISTANCE 9 (AtPCR9)
+Q9LZX4	Cell membrane; Lipid-anchor, GPI-anchor.		1.91	0	0	Fasciclin-like arabinogalactan protein 10
+O80695	Membrane; Multi-pass membrane protein.	TRUE	3.11	0	0	Protein DETOXIFICATION 37 (AtDTX37) (Multidrug and toxic compound extrusion protein 37) (MATE protein 37)
+Q9FGT3	Unknown		-2.52	0	0	AT5g58110/k21l19_90 (Chaperone binding / ATPase activator)
+O80912	Secreted. Vacuole. Carboxy-terminal extension appears to target the protein to vacuoles.		1.07	0	0	Peroxidase 23 (Atperox P23) (EC 1.11.1.7) (ATP34)
+Q9XI91	Cytoplasm		2.49	0	0	Eukaryotic translation initiation factor 5A-1 (AtELF5A-1) (eIF-5A-1)
+F4K124	Unknown	TRUE	-2.07	0	0	protein-serine/threonine phosphatase (EC 3.1.3.16)
+A0A1P8AYP0	Nucleus, Mitochondrion		-1.1	0	0	Stomatal closure actin-binding-like protein
+Q9FZ80	Cytoplasm.		-1.66	0	0	Cytosolic sulfotransferase 17 (AtSOT17) (EC 2.8.2.38) (Desulfoglucosinolate sulfotransferase C) (AtST5c)
+Q9M1E4	Unknown		-2.31	0	0	RNA binding (RRM/RBD/RNP motifs) family protein (Uncharacterized protein F9K21.210)
+Q9SAH5	Endoplasmic reticulum membrane; Multi-pass membrane protein.	TRUE	2.18	0	0	Phosphatidyl-N-methylethanolamine N-methyltransferase (EC 2.1.1.71) (Phospholipid methyltransferase) (PLMT)
+Q945Q1	Extracellular		-1.5	0	0	Cysteine proteinase inhibitor 1 (AtCYS-1)
+Q0WKV3	Mitochondrion.		0	-6.64	0	Pentatricopeptide repeat-containing protein At1g12300, mitochondrial
+Q9FGK5	Cell membrane; Lipid-anchor; Cytoplasmic side.		-0.84	0	0	Ras-related protein RABA5a (AtRABA5a)
+Q9SRT4	Unknown		1.23	0	0	glucan endo-1,3-beta-D-glucosidase (EC 3.2.1.39)
+Q93VD3	Cell membrane; Peripheral membrane protein. Associated to the plasma membrane when associated with AKT1, CBL1 and CBL9.		-0.74	0	0	CBL-interacting serine/threonine-protein kinase 23 (EC 2.7.11.1) (Protein LOW-K(+)-SENSITIVE 1) (SNF1-related kinase 3.23) (SOS2-like protein kinase PKS17)
+Q8LGG0	Cytoplasm.		0	2.29	0	Peptidyl-prolyl cis-trans isomerase FKBP12 (PPIase FKBP12) (EC 5.2.1.8) (12 kDa FK506-binding protein) (12 kDa FKBP) (FK506-binding protein 12) (AtFKBP12) (FKBP-12) (Immunophilin FKBP12) (Rotamase)
+P93043	Nucleus		1.1	0	0	Vacuolar protein sorting-associated protein 41 homolog
+O22270	Unknown		-0.99	0	0	AT4G08690 protein (At4g08690) (Putative phosphoglyceride transfer protein) (Sec14p-like phosphatidylinositol transfer family protein)
+F4JWY3	Extracellular		1.84	0	0	Myosin heavy chain-related protein
+A8MQR2	Nucleus	TRUE	-0.82	0	0	AT3G26440 protein (Transmembrane protein, putative (DUF707))
+F4IE17	Secreted, cell wall.		-1.62	0	0	Pectin lyase-like superfamily protein
+F4KDD7	Cytoplasm. Nucleus.		-2.78	0	0	KIN17-like protein KLP
+F4IIM1	Cell membrane; Peripheral membrane protein; Cytoplasmic side. Golgi apparatus. Endomembrane system. Cytoplasm, cytoskeleton. Undergoes dynamic changes in response to dehydration (PubMed:22427339). Colocalizes with cellulase synthase (CESA) complexes (CSCs) in a dynamic way, both at the plasma membrane and in post-Golgi compartments (PubMed:24368796, PubMed:20616083, PubMed:22294619, PubMed:22190487). Present in distinct punctae at the cell cortex, called microtubule-associated cellulose synthase compartments, that move with constant velocities of 200 to 300 nm/min (PubMed:22294619). Present with cortical microtubule depolymerizing ends (PubMed:22294619, PubMed:22190487).		-0.73	0	0	Protein CELLULOSE SYNTHASE INTERACTIVE 1 (Protein POM-POM 2)
+P48623	Endoplasmic reticulum membrane; Multi-pass membrane protein.	TRUE	-1.51	0	0	Acyl-lipid omega-3 desaturase (cytochrome b5), endoplasmic reticulum (EC 1.14.19.25) (Omega-3 fatty acid desaturase 3, endoplasmic reticulum)
+Q9C5M8	Extracellular		-1.82	0	0	Probable pectate lyase 18 (EC 4.2.2.2) (Pectate lyase A10)
+F4K3X8	Plastid, chloroplast.		1.05	0	0	Kinesin-like protein KIN-7L, chloroplastic
+A5PHT0	Membrane; Single-pass type I membrane protein.	TRUE	2.11	0	0	Uncharacterized protein At1g24485 (Arabidopsis thaliana envelope membrane integrase) (Protein ARTEMIS) (Receptor without kinase 1)
+A0A1I9LPZ1	Cytoplasm, Chloroplast		1.18	0	0	BAT2_N domain-containing protein
+Q94AX4	Mitochondrion.		2.52	0	0	D-lactate dehydrogenase [cytochrome], mitochondrial (AtD-LDH) (EC 1.1.2.4) (D-lactate ferricytochrome C oxidoreductase) (Glycolate dehydrogenase)
+O82266	Nucleus, nucleolus. Localized in the nucleolus in interphase cells.		-0.76	0	0	Protein SLOW WALKER 1 (Protein EMBRYO SAC DEVELOPMENT ARREST 13) (Protein EMBRYO SAC DEVELOPMENT ARREST 19)
+B9DFU2	Membrane; Single-pass membrane protein.	TRUE	2.31	0	0	Cytochrome P450 711A1 (EC 1.14.-.-) (Protein MORE AXILLARY BRANCHES 1)
+Q7G193	Cytoplasm.		0.95	0	0	Indole-3-acetaldehyde oxidase (IAA oxidase) (EC 1.2.3.7) (Aldehyde oxidase 1) (AO-1) (AtAO-1) (AtAO1)
+Q7XJN0	Nucleus		0	1.94	0	DEAD-box ATP-dependent RNA helicase 17 (EC 3.6.4.13)
+O48520	Nucleus.		-2.69	0	0	DNA polymerase delta small subunit (EC 2.7.7.7)
+Q8W4S6	Secreted, extracellular space, apoplast. Secreted, cell wall. Associated to the cell wall.		-1.31	0	0	Beta-fructofuranosidase, insoluble isoenzyme CWINV6 (6 and 1-fructan exohydrolase) (6&1-FEH) (EC 3.2.1.80) (Cell wall beta-fructosidase 6) (Cell wall invertase 6) (AtcwINV6) (Sucrose hydrolase 6)
+Q0WVJ5	Extracellular		1.02	0	0	At1g09850 (Papain-like cysteine peptidase XBCP3) (Xylem bark cysteine peptidase 3)
+Q8GUQ8	Unknown		0	-1.78	0	Xanthine dehydrogenase 1 (AtXDH1) (EC 1.17.1.4)
+F4JUL9	Cytoplasm, cytoskeleton. Cell projection.		1.89	0	0	Actin-related protein 2/3 complex subunit 4 (Actin-related protein C4) (Arp2/3 complex 20 kDa subunit) (p20-ARC)
+Q9FPF0	Cytoplasm, cytosol. Nucleus.		0	1.23	0	Protein DJ-1 homolog A (AtDJ1A)
+P10798	Plastid, chloroplast.		2.08	0	0	Ribulose bisphosphate carboxylase small subunit 3B, chloroplastic (RuBisCO small subunit 3B)
+A0A178VUM7	Cytoplasm.		-0.8	0	0	Methionine aminopeptidase 2 (MAP 2) (MetAP 2) (EC 3.4.11.18) (Peptidase M)
+O82772	Chloroplast		1.01	0	0	Probable inactive beta-glucosidase 25 (AtBGLU25)
+Q9LZQ7	Nucleus		1.59	0	0	At3g62330 (Uncharacterized protein T12C14_30) (Zinc knuckle (CCHC-type) family protein)
+Q9FJA6	Unknown		-0.77	0	0	40S ribosomal protein S3-3
+Q93YU8	Nucleus.		-1.01	0	0	Nitrate regulatory gene2 protein (NRG2 protein)
+Q38856	Cell membrane; Multi-pass membrane protein. Early endosome. Golgi apparatus, trans-Golgi network. Vacuole. Cycles constitutively between early endosomes and the plasma membrane and is targeted to the vacuole for degradation.	TRUE	-1.15	0	0	Fe(2+) transport protein 1 (Fe(II) transport protein 1) (Iron-regulated transporter 1)
+Q84K05	Nucleus		-1.69	0	0	Fcf2 pre-rRNA processing protein (Uncharacterized protein At1g54770)
+A0A1P8BHH8	Extracellular		1.83	0	0	Subtilase family protein
+Q38873	Cell membrane; Lipid-anchor.		1.43	0	0	Calcium-dependent protein kinase 7 (EC 2.7.11.1) (Calmodulin-domain protein kinase CDPK isoform 7)
+Q9FMT1	Plastid, chloroplast stroma.		1.04	0	0	3-isopropylmalate dehydrogenase 1, chloroplastic (3-IPM-DH 1) (AtIMDH1) (IMDH 1) (EC 1.1.1.85) (Beta-IPM dehydrogenase 1) (Isopropylmalate dehydrogenase 1) (AtIMD1) (Methylthioalkylmalate dehydrogenase 1)
+Q8RVQ9	Chromosome, centromere, kinetochore. Localizes exclusively in the kinetochore domain of centromeres (PubMed:12034896, PubMed:17028205). Localized at centromeres in both mitotic and meiotic cells (PubMed:21695238).		-2.03	0	0	Histone H3-like centromeric protein CENH3 (Centromeric histone CENH3) (Centromeric histone H3) (Histone H3-like centromeric protein HTR12)
+Q8L9L9	Unknown		-1.34	0	0	At5g18940 (Mo25 family protein)
+Q67Z52	Cytoplasm. Not associated with microtubular arrays.		2.43	0	0	Tubulin-folding cofactor B (AtTFCB) (Protein EMBRYO DEFECTIVE 2804)
+Q9SJ81	Cell membrane; Lipid-anchor, GPI-anchor.		-0.86	0	0	Fasciclin-like arabinogalactan protein 7
+Q9C512	Golgi apparatus membrane; Single-pass type II membrane protein.	TRUE	0.99	0	0	Mannosyl-oligosaccharide 1,2-alpha-mannosidase MNS1 (AtMANIb) (EC 3.2.1.113) (EC 3.2.1.209) (Alpha-mannosidase IB)
+F4JWW6	Cytoplasm		1.32	0	0	HXXXD-type acyl-transferase family protein
+Q9FHM5	Nucleus.		2.4	0	0	AT-hook motif nuclear-localized protein 4
+O64474	Membrane; Multi-pass membrane protein.	TRUE	1	0	0	Putative cadmium/zinc-transporting ATPase HMA4 (EC 7.2.2.12) (EC 7.2.2.21) (Protein HEAVY METAL ATPASE 4) (Putative cadmium/zinc-transporting ATPase 2)
+Q8RWN5	Nucleus.		1.16	0	0	Glycine-rich RNA-binding protein RZ1C (AtRZ-1C)
+Q8W0Z9	Nucleus. Cytoplasm.		1.51	0	0	Carbon catabolite repressor protein 4 homolog 1 (CCR4 homolog 1) (EC 3.1.13.4)
+Q9LFH5	Cytoplasm		0	-3.66	0	60S ribosomal protein L12-2 (ABI1-binding protein 11)
+Q93YQ3	Mitochondrion.		0	6.64	0	Formyltetrahydrofolate deformylase 1, mitochondrial (EC 3.5.1.10)
+A0A1I9LTQ6	Mitochondrion, Chloroplast		0	3.51	0	DNA gyrase subunit B (EC 5.6.2.2)
+P42645	Cytoplasm. Nucleus. Not associated with microtubules (PubMed:21558460). Translocates from the cytosol to the nucleus when phosphorylated (By similarity).		0.86	0	0	14-3-3-like protein GF14 upsilon (General regulatory factor 5)
+A0A1P8B4V5	Membrane; Multi-pass membrane protein.	TRUE	0	-6.64	0	CURVATURE THYLAKOID 1D-like protein
+P93313	Mitochondrion inner membrane; Multi-pass membrane protein.	TRUE	-1.13	0	0	NADH-ubiquinone oxidoreductase chain 4 (EC 7.1.1.2) (NADH dehydrogenase subunit 4)
+F4JIM7	Endoplasmic reticulum membrane; Multi-pass membrane protein. Membrane; Multi-pass membrane protein.	TRUE	0	6.64	0	Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 2 (Ribophorin-2)
+A0A1P8AZV7	Cell membrane; Multi-pass membrane protein. Membrane; Multi-pass membrane protein.		-1.11	0	0	CASP-like protein
+F4J7G5	Extracellular		-1.41	0	0	MD-2-related lipid recognition domain-containing protein / ML domain-containing protein
+Q5HZ38	Nucleus		-0.9	0	0	Serine/threonine-protein kinase GRIK2 (EC 2.7.11.1) (Protein GEMINIVIRUS REP INTERACTING KINASE 2) (Protein GRIK2) (SnRK1-activating protein kinase 1) (AtSnAK1)
+Q0WNC2	Chloroplast	TRUE	-2.63	0	0	Chitinase-like protein (Uncharacterized protein At1g08530)
+Q94AD1	Nucleus.		1.21	0	0	Putative DNA-binding protein At1g48610 (AT-hook DNA-binding motif-containing protein At1g48610)
+O81472	Nucleus		1.74	0	0	Mitogen-activated protein kinase kinase kinase 9 (MAP kinase kinase kinase 9) (EC 2.7.11.24) (MAPK/ERK kinase kinase 2) (AtMEKK2) (Protein SUPPRESSOR OF MKK1 MKK2 1)
+Q941L3	Cell membrane; Lipid-anchor. Calcium enhances the association with membranes.		1.02	0	0	Protein BONZAI 1 (COPINE 1)
+F4JMW3	Extracellular	TRUE	1.75	0	0	Root hair specific 16
+Q9FF17	Endoplasmic reticulum membrane; Multi-pass membrane protein.	TRUE	0	6.64	0	Probable dolichyl pyrophosphate Man9GlcNAc2 alpha-1,3-glucosyltransferase (EC 2.4.1.267) (Asparagine-linked glycosylation protein 6 homolog) (Dol-P-Glc:Man(9)GlcNAc(2)-PP-Dol alpha-1,3-glucosyltransferase) (Dolichyl-P-Glc:Man9GlcNAc2-PP-dolichyl glucosyltransferase)
+Q9SII6	Cell membrane; Lipid-anchor. Nucleus. Predominantly localized at the plasma membrane.		0	3.49	0	Probable serine/threonine-protein kinase PIX13 (EC 2.7.11.1)
+F4HWS5	Nucleus		2.66	0	0	Evolutionarily conserved C-terminal region 7
+Q9FV70	Cytoplasm. Interaction with either DPA or DPB are unable to induce a nuclear localization.		0	-6.64	0	Transcription factor E2FC (E2F transcription factor-2) (AtE2F2)
+Q8LDQ8	Chloroplast		0.99	0	0	At5g24165 (Uncharacterized protein At5g24165)
+Q39100	Extracellular		0	-1.81	0	Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin superfamily protein (ExtA) (ExtA protein)
+Q9SZ21	Unknown		-1.95	0	0	At4g26810 (SWIB/MDM2 domain superfamily protein) (Uncharacterized protein AT4g26810) (Uncharacterized protein F10M23.150)
+F4JI14	Nucleus		-1.37	0	0	Cysteine/Histidine-rich C1 domain family protein
+F4HV67	Unknown		0	-3.28	0	Oligouridylate-binding protein 1A
+Q9SRX5	Extracellular		1.17	0	0	F22D16.19 protein (Uncharacterized protein F22D16.19)
+Q1ECK0	Chloroplast	TRUE	0	2.39	0	At1g03730 (Pyrroline-5-carboxylate reductase)
+Q9S9Z8	Nucleus. Cytoplasm. Translocates from the cytosol to the nucleus when phosphorylated.		0	6.64	0	14-3-3-like protein GF14 omicron (General regulatory factor 11)
+P57751	Cytoplasm.		1.94	0	0	UTP--glucose-1-phosphate uridylyltransferase 1 (EC 2.7.7.9) (UDP-glucose pyrophosphorylase 1) (AtUGP1) (UDPGP 1) (UGPase 1)
+Q9SUQ3	Membrane; Single-pass membrane protein.	TRUE	0	-6.64	0	Probable inactive receptor kinase At4g23740
+P0CJ46	Cytoplasm, cytoskeleton.		-0.86	0	0	Actin-1 (EC 3.6.4.-)
+Q9FGM9	Mitochondrion.		0	6.64	0	23.5 kDa heat shock protein, mitochondrial (AtHsp23.5)
+Q8GYF5	Membrane; Single-pass type I membrane protein.	TRUE	0	4.99	0	Wall-associated receptor kinase-like 21 (EC 2.7.11.-)
+Q9LE22	Nucleus		0.96	0	0	Probable calcium-binding protein CML27 (Calmodulin-like protein 27)
+F4JPX3	Cell membrane; Lipid-anchor.		0	6.64	0	Probable serine/threonine-protein kinase PBL20 (EC 2.7.11.1) (PBS1-like protein 20)
+A8MS85	Nucleus.		0	-2.94	0	Transcription elongation factor SPT6 homolog (AtSPT6)
+F4JKB6	Nucleus.		-0.96	0	0	Proteinaceous RNase P 3 (EC 3.1.26.5)
+Q9FZH0	Cytoplasm		-0.9	0	0	60S ribosomal protein L35a-2
+Q8LEZ4	Mitochondrion.		0	-1.04	0	Protein NUCLEAR FUSION DEFECTIVE 5, mitochondrial
+Q9LHR4	Plastid, chloroplast.		0	-6.64	0	Geranylgeranyl pyrophosphate synthase 12, chloroplastic (GGPP synthase 12) (GGPS12) (EC 2.5.1.-) ((2E,6E)-farnesyl diphosphate synthase 12) (Dimethylallyltranstransferase 12) (EC 2.5.1.1) (Farnesyl diphosphate synthase 12) (Farnesyltranstransferase 12) (EC 2.5.1.29) (Geranyltranstransferase 12) (EC 2.5.1.10)
+Q9FJL8	Nucleus.		0	6.46	0	DNA-directed RNA polymerase subunit 5-like protein 1
+Q9FIK0	Cytoplasm.		0	6.64	0	ATP-dependent 6-phosphofructokinase 2 (ATP-PFK 2) (Phosphofructokinase 2) (EC 2.7.1.11) (Phosphohexokinase 2)
+Q6NQ63	Unknown		0	-5.25	0	At1g01440
+F4JCX1	Unknown		-1.98	0	0	beta-galactosidase (EC 3.2.1.23) (Lactase)
+Q9CA59	Cytoplasm. Nucleus.		0	-1.46	0	NAP1-related protein 1 (Nucleosome/chromatin assembly factor group A6) (Protein SET homolog 1)
+Q9M0A4	Cell membrane; Multi-pass membrane protein.	TRUE	-0.87	0	0	Putative cyclic nucleotide-gated ion channel 9 (Cyclic nucleotide- and calmodulin-regulated ion channel 9)
+A0A1P8AZ96	Nucleus.		0	-4.77	0	Transcription elongation factor SPT5
+Q9M9M4	Golgi apparatus membrane; Multi-pass membrane protein.	TRUE	0	2.63	0	Cellulose synthase-like protein D3 (AtCslD3) (EC 2.4.1.-) (Protein KOJAK)
+Q93VP3	Cytoplasm. Nucleus.		0.73	0	0	Eukaryotic translation initiation factor 5A-2 (AtELF5A-2) (eIF-5A-2) (Protein FUMONISIN B1-RESISTANT 12)
+Q9FZD1	Mitochondrion.		0.91	0	0	Pentatricopeptide repeat-containing protein At1g26460, mitochondrial
+Q9FY88	Unknown	TRUE	0	2.38	0	Transmembrane protein (Uncharacterized protein At5g09270) (Uncharacterized protein At5g09270/T5E8_70) (Uncharacterized protein T5E8_70)
+O23049	Plastid, chloroplast.		-1.21	0	0	50S ribosomal protein L6, chloroplastic (Protein EMBRYO DEFECTIVE 2394)
+Q9XEX2	Cytoplasm.		-0.85	0	0	Peroxiredoxin-2B (EC 1.11.1.25) (Glutaredoxin-dependent peroxiredoxin) (Peroxiredoxin IIB) (Peroxiredoxin TPx1) (Thioredoxin peroxidase 2B) (Thioredoxin-dependent peroxidase 1)
+Q9FFE9	Chloroplast		0	-2.72	0	Probable acyl-activating enzyme 6 (EC 6.2.1.-) (AMP-binding protein 6) (AtAMPBP6)
+Q8RWI0	Chloroplast	TRUE	0	2.51	0	Myelin-associated oligodendrocyte basic protein (Uncharacterized protein At1g54520)
+Q9LEX2	Extracellular		2	0	0	Cytochrome P450 monooxygenase-like protein (Cytochrome P450, family 76, subfamily C, polypeptide 7)
+Q8W4E1	Mitochondrion.		0	-3.25	0	DEAD-box ATP-dependent RNA helicase 47, mitochondrial (EC 3.6.4.13) (Protein EMBRYO DEFECTIVE 1586) (Protein INCREASED SIZE EXCLUSION LIMIT 1)
+Q9FKN5	Nucleus	TRUE	0	-2.31	0	Cardiomyopathy-associated protein (Gb|AAC35233.1|)
+A0A1P8B6W3	Membrane.		0	-2.21	0	monogalactosyldiacylglycerol synthase (EC 2.4.1.46)
+Q9C6L5	Membrane; Multi-pass membrane protein.	TRUE	-1.59	0	0	3-ketoacyl-CoA synthase 5 (KCS-5) (EC 2.3.1.199) (Eceriferum 60) (Very long-chain fatty acid condensing enzyme 5) (VLCFA condensing enzyme 5)
+Q9FFE6	Peroxisome.		1.46	0	0	Probable acyl-activating enzyme 5, peroxisomal (EC 6.2.1.-) (AMP-binding protein 5) (AtAMPBP5)
+Q0WVH0	Nucleus. Nucleus, nucleolus. Nucleus, nucleoplasm. Observed in the nucleolus of root cells in interphase and colocalizes with DNA in dividing root cells.		-0.82	0	0	Protein REBELOTE
+Q9S7U3	Extracellular		0	-2.03	0	At4g12520 (Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin superfamily protein) (PEARLI 1-like protein)
+O03042	Plastid, chloroplast.		-0.71	0	0	Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39)
+Q9FLX9	Nucleus, nucleolus.		-0.94	0	0	Notchless protein homolog
+O22703	Nucleus.		0.98	0	0	Glycine-rich RNA-binding protein RZ1B (AtRZ-1a)
+Q9SCV8	Secreted, extracellular space, apoplast.		-1.03	0	0	Beta-galactosidase 4 (Lactase 4) (EC 3.2.1.23)
+Q8L6Z2	Membrane; Multi-pass membrane protein.		1.79	0	0	At1g07030 (Mitochondrial carrier protein, putative) (Mitochondrial substrate carrier family protein)
+Q9FJF1	Unknown		0	-2.93	0	Putative GTP-binding protein ara-3 (Rab-type small GTP-binding protein-like) (Ras-related small GTP-binding family protein)
+O81806	Unknown		-1.83	0	0	At4g35750 (SEC14 cytosolic factor family protein / phosphoglyceride transfer family protein) (Uncharacterized protein AT4g35750) (Uncharacterized protein At4g35750; F8D20.260) (Uncharacterized protein F8D20.260)
+E0X9N4	Nucleus.		-1.4	0	0	Putative RING-type E3 ubiquitin transferase C3H69 (EC 2.3.2.27) (Zinc finger CCCH domain-containing protein 69) (AtC3H69)
+Q9LZI9	Cytoplasm, cytosol.		-1.05	0	0	Glutathione S-transferase F13 (AtGSTF13) (EC 2.5.1.18) (GST class-phi member 13)
+Q9FKV1	Golgi apparatus membrane; Multi-pass membrane protein.	TRUE	0	-6.64	0	Probable anion transporter 5 (Phosphate transporter PHT4;6)
+O04309	Cytoplasm		0	1.07	0	Jacalin-related lectin 35 (JA-responsive protein 1) (Myrosinase-binding protein-like At3g16470)
+Q9SVZ6	Unknown		-0.67	0	0	60S acidic ribosomal protein P3-1
+A0A2H1ZEJ0	Unknown		0	2.26	0	P-loop containing nucleoside triphosphate hydrolases superfamily protein
+Q9LVT8	Nucleus. Cytoplasm, perinuclear region.		0	-2.08	0	RGG repeats nuclear RNA binding protein C
+Q9FUS6	Cytoplasm, cytosol.		0	1.29	0	Glutathione S-transferase U13 (AtGSTU13) (EC 2.5.1.18) (GST class-tau member 13) (Glutathione S-transferase 12)
+Q9SGA5	Cytoplasm		1.02	0	0	OVARIAN TUMOR DOMAIN-containing deubiquitinating enzyme 12 (OTU domain-containing protein 12) (EC 3.4.19.12) (Deubiquitinating enzyme OTU12)
+Q9C9Z1	Membrane; Multi-pass membrane protein.	TRUE	1.49	0	0	Putative zinc transporter At3g08650
+Q9SAZ5	Cytoplasm, cytosol. Nucleus.		-2.22	0	0	Histidine-containing phosphotransfer protein 3
+P0CZ23	Peroxisome.		0.67	0	0	Acyl-coenzyme A oxidase 3, peroxisomal (AOX 3) (Acyl-CoA oxidase 3) (EC 1.3.3.6) (Medium-chain acyl-CoA oxidase) (AtCX3)
+Q9STF7	Secreted.		0	-4.16	0	Subtilisin-like protease SBT4.6 (EC 3.4.21.-) (Subtilase subfamily 4 member 6) (AtSBT4.6)
+F4IEC7	Cytoplasm, Nucleus		1.54	0	0	CTC-interacting domain 11
+Q8W1Y3	Cytoplasm, cytoskeleton. Mitochondrion. Associated with VDAC3 in mitochondrion.		0	-1.75	0	Kinesin-like protein KIN-14F (AtKIN14h) (Kinesin KP1) (Kinesin-like protein 1) (AtKP1)
+A0A1P8BEK7	Nucleus		-1.17	0	0	RING-H2 group F2A
+Q9SMX1	Nucleus. Mitochondrion matrix. Mitochondrion matrix, mitochondrion nucleoid.		-1.69	0	0	DExH-box ATP-dependent RNA helicase DExH16, mitochondrial (EC 3.6.4.13) (ATP-dependent RNA helicase SUV3) (AtSUV3) (Protein EMBRYO SAC DEVELOPMENT ARREST 15) (Protein POLLEN DEVELOPMENT DEFECTIVE 17) (Protein POLLEN DEVELOPMENT DEFECTIVE 26) (Protein SUPPRESSOR OF VAR 3)
+O64725	Mitochondrion inner membrane; Single-pass membrane protein; Matrix side.	TRUE	0.83	0	0	NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 3-A
+Q39191	Membrane; Single-pass type I membrane protein.	TRUE	2.16	0	0	Wall-associated receptor kinase 1 (EC 2.7.11.-)
+F4J3N2	Plastid, chloroplast membrane; Multi-pass membrane protein.	TRUE	-1.35	0	0	Probable inactive ATP-dependent zinc metalloprotease FTSHI 5, chloroplastic (AtFTSHI5) (Protein EMBRYO DEFECTIVE 2458) (Protein FTSH INACTIVE PROTEASE 5)
+C0LGT5	Membrane; Single-pass type I membrane protein.	TRUE	2.23	0	0	Probable LRR receptor-like serine/threonine-protein kinase At5g16900 (EC 2.7.11.1)
+Q9SJA1	Membrane; Single-pass membrane protein.	TRUE	-2.1	0	0	Ubiquitin carboxyl-terminal hydrolase 19 (EC 3.4.19.12) (Deubiquitinating enzyme 19) (AtUBP19) (Ubiquitin thioesterase 19) (Ubiquitin-specific-processing protease 19)
+Q9SRG3	Endoplasmic reticulum lumen.		0.74	0	0	Protein disulfide isomerase-like 1-2 (AtPDIL1-2) (EC 5.3.4.1) (Protein disulfide-isomerase 2) (PDI 2) (Protein disulfide-isomerase 6) (AtPDI6)
+Q9SKU2	Secreted, cell wall. Membrane; Peripheral membrane protein.		-1.38	0	0	Expansin-B1 (At-EXPB1) (AtEXPB1) (Ath-ExpBeta-1.5) (Beta-expansin-1)
+A2RVT9	Cytoplasm.		0	-1.43	0	AT5G38890 protein (At5g38890) (Nucleic acid-binding, OB-fold-like protein)
+Q7XJE6	Unknown		1.49	0	0	Metacaspase-1 (AtMC1) (EC 3.4.22.-) (Metacaspase 1b) (AtMCP1b) (Protein LSD ONE LIKE 3)
+Q84J77	Chloroplast	TRUE	-1.03	0	0	Altered inheritance of mitochondria protein 24, mitochondrial
+O64884	Golgi apparatus membrane; Single-pass type II membrane protein.	TRUE	0	-2.14	0	O-fucosyltransferase 20 (O-FucT-20) (EC 2.4.1.-) (O-fucosyltransferase family protein)
+O23482	Membrane; Multi-pass membrane protein.	TRUE	0	1.93	0	Oligopeptide transporter 3 (AtOPT3)
+Q944P7	Plastid, chloroplast.		0	5.49	0	Leucine aminopeptidase 2, chloroplastic (EC 3.4.11.1) (Leucyl aminopeptidase 2) (AtLAP2) (Proline aminopeptidase 2) (EC 3.4.11.5) (Prolyl aminopeptidase 2)
+A0A1P8ARJ0	Membrane; Multi-pass membrane protein.	TRUE	0	2.02	0	Iron regulated transporter 3
+Q949P3	Cytoplasm		0	-6.64	0	Damage-control phosphatase At2g17340 (EC 3.1.3.-) (Sugar phosphates phosphatase At2g17340)
+Q9SIH4	Cell membrane; Multi-pass membrane protein. Very restricted localization following a belt shape within the plasma membrane which coincides with the position of the Casparian strip membrane domain.	TRUE	0	-1.7	0	Casparian strip membrane protein 1 (AtCASP1)
+Q0WT40	Golgi apparatus membrane; Multi-pass membrane protein.	TRUE	0	-6.64	0	Cellulose synthase-like protein B5 (AtCslB5) (EC 2.4.1.-)
+Q9SLA7	Cytoplasm		0	-2.88	0	At2g25560/F13B15.22 (DNAJ heat shock N-terminal domain-containing protein) (Putative DnaJ protein)
+Q9LYG5	Unknown	TRUE	0	6.64	0	Alpha/beta-Hydrolases superfamily protein (At5g11650) (Lysophospholipase-like protein)
+Q9LXB5	Nucleus		0	6.64	0	Flowering-promoting factor 1-like protein 2 (FPF1-like protein 2)
+Q8L8Q8	Unknown		0	-6.64	0	Uncharacterized protein At5g64816
+Q7XZP5	Peroxisome membrane; Single-pass membrane protein.	TRUE	0	6.64	0	L-ascorbate peroxidase 5, peroxisomal (AtAPx04) (EC 1.11.1.11)
+Q8GXN2	Cell membrane; Multi-pass membrane protein.	TRUE	0	6.64	0	Protein NRT1/ PTR FAMILY 7.2 (AtNPF7.2) (Nitrate transporter 1.8)
+Q8RXV4	Unknown		0	-6.64	0	Serine esterase family protein (Uncharacterized protein At1g09990) (mRNA, clone: RAFL23-26-B05)
+O23523	Cytoplasm, perinuclear region. Nucleus.		0	-2.78	0	RGG repeats nuclear RNA binding protein A (AtRGGA)
+Q9SLM8	Secreted, cell wall.		0	-2.41	0	Pectin lyase-like superfamily protein (Putative polygalacturonase)
+A0A1P8AZD5	Chloroplast, Golgi_body, Cytoplasm		0	-2.93	0	Myosin XI D
+Q93VI4	Nucleus speckle. Cytoplasm. Shuttles between the nucleus and the cytoplasm but predominantly found in the nucleus.		0	3.57	0	Polyadenylate-binding protein 1 (AtPabN1) (Poly(A)-binding protein 1) (Nuclear poly(A)-binding protein 1) (Poly(A)-binding protein I) (PABI)
+Q9SG91	Mitochondrion inner membrane; Single-pass membrane protein.	TRUE	0	6.64	0	Cytochrome b-c1 complex subunit 8-1, mitochondrial (Complex III subunit 8-1) (Complex III subunit VIII) (Ubiquinol-cytochrome c oxidoreductase subunit 8-1) (Ubiquinol-cytochrome c reductase complex ubiquinone-binding protein QP-C)
+Q9SJU4	Plastid, chloroplast, plastoglobule. Plastid, chloroplast stroma.		0	-6.64	0	Fructose-bisphosphate aldolase 1, chloroplastic (AtFBA1) (EC 4.1.2.13)
+Q9FPH3	Nucleus		0	4.72	0	Probable low-specificity L-threonine aldolase 2 (EC 4.1.2.48) (Threonine aldolase 2)
+Q940H3	Membrane; Single-pass type II membrane protein.	TRUE	0	-2.89	0	Protein trichome birefringence-like 36
+Q9C8V1	Nucleus		0	6.64	0	Serine/Threonine-kinase ULK4-like protein (Uncharacterized protein T3M13.4)
+F4JHW1	Nucleus		0	6.64	0	Phenazine biosynthesis PhzC/PhzF protein
+Q944G9	Plastid, chloroplast, plastoglobule. Plastid, chloroplast stroma.		0	-6.64	0	Fructose-bisphosphate aldolase 2, chloroplastic (AtFBA2) (EC 4.1.2.13)
+Q9M120	Chloroplast, Nucleus		0	3.43	0	Polyketide cyclase / dehydrase and lipid transport protein (Uncharacterized protein AT4g01650)
+Q8LPL2	Cell membrane; Multi-pass membrane protein.	TRUE	0	-1.9	0	Protein NRT1/ PTR FAMILY 1.1 (AtNPF1.1) (Nitrate transporter 1.12)
+P56797	Plastid, chloroplast.		0	-0.94	0	30S ribosomal protein S2, chloroplastic
+Q84JR9	Nucleus		0	5.07	0	TPR repeat-containing thioredoxin TTL4 (Tetratricopeptide repeat thioredoxin-like 4)
+O22243	Nucleus		0	2.55	0	DExH-box ATP-dependent RNA helicase DExH8 (EC 3.6.4.13) (Zinc finger CCCH domain-containing protein 31) (AtC3H31) (EC 3.6.4.12)
+A0A1P8BBS3	Unknown	TRUE	0	6.64	0	Disease resistance protein (TIR-NBS-LRR class) family
+A0A1I9LMD3	Nucleus		0	2.55	0	Dicer-like 3
+Q9LZQ3	Unknown	TRUE	0	-3.35	0	Heme binding protein (Uncharacterized protein At3g62370) (Uncharacterized protein T12C14_70)
+Q84M89	Nucleus		0	-6.64	0	Alpha-glucosidase 2 (Glucosidase 2) (EC 3.2.1.-)
+O80713	Cytoplasm		0	3.7	0	Short-chain dehydrogenase reductase 3a (AtSDR3a) (EC 1.1.1.-)
+Q9LME7	Unknown		0	6.64	0	RNA-binding (RRM/RBD/RNP motifs) family protein (T16E15.6 protein)
+A0A1I9LQR2	Membrane; Multi-pass membrane protein.	TRUE	0	6.64	0	Phospholipid-transporting ATPase (EC 7.6.2.1)
+Q9FJ90	Nucleus.		0	-6.64	0	Ethylene-responsive transcription factor ERF025
+Q9ZUB2	Mitochondrion	TRUE	0	6.64	0	At1g23830/F5O8_36 (F5O8.39) (Transmembrane protein)
+Q8L7Y9	Secreted.		0	-1.63	0	Non-specific phospholipase C1 (EC 3.1.-.-)
+Q8VYE5	Secreted, cell wall. Cell membrane; Lipid-anchor, GPI-anchor; Extracellular side.		0	2.62	0	Glucan endo-1,3-beta-glucosidase 12 (EC 3.2.1.39) ((1->3)-beta-glucan endohydrolase 12) ((1->3)-beta-glucanase 12) (Beta-1,3-endoglucanase 12) (Beta-1,3-glucanase 12)
+Q94AS5	Endoplasmic reticulum membrane. Golgi apparatus membrane; Multi-pass membrane protein.	TRUE	0	1.84	0	Isoprenylcysteine alpha-carbonyl methylesterase ICME (EC 3.1.1.n2) (Isoprenylcysteine methylesterase) (Prenylcysteine methylesterase) (AtPCME)
+Q9SNA3	Cell membrane; Single-pass type I membrane protein.	TRUE	0	6.64	0	Putative receptor-like protein kinase At3g46340 (EC 2.7.11.1)
+Q9FE06	Secreted. Secreted, extracellular space. Secreted, extracellular space, apoplast.		0	-1.12	0	Protein EXORDIUM-like 2
+P0CH31	Unknown		0	6.64	0	Putative cullin-like protein 1
+Q9LXG8	Nucleus.		0	-3.61	0	Probable WRKY transcription factor 72 (WRKY DNA-binding protein 72)
+F4HPH5	Membrane; Multi-pass membrane protein.	TRUE	0	6.64	0	MATE efflux family protein
+Q9FM29	Nucleus		0	6.64	0	At5g40690 (Dbj|BAA95711.1) (Histone-lysine N-methyltransferase trithorax-like protein)
+Q6R8G7	Cell membrane; Multi-pass membrane protein.	TRUE	0	1.25	0	Phosphate transporter PHO1 homolog 3 (Protein PHO1 homolog 3) (AtPHO1;H3)
+Q9FG37	Cytoplasm, cytoskeleton, microtubule organizing center. Nucleus envelope. Cytoplasm. Cytoplasm, cell cortex. Cytoplasm, cytoskeleton, spindle. Associated to motile complexes in the cytosol that transiently stabilized at fixed locations in the cell cortex (e.g. along the outer periclinal edge of newly formed crosswalls) from which microtubules grow away prior to microtubules nucleation. Colocalizes with gamma-tubulin at the nuclear surface where microtubules are nucleated. Localizes to both cortical cytoplasm and mitotic microtubule arrays of the nematode feeding giant cells.		0	-1.42	0	Gamma-tubulin complex component 3 (AtGCP3) (GCP-3) (Spindle pole body component 98) (AtSPC98)
+Q6NLP2	Mitochondrion.		0	-2.09	0	Translation initiation factor IF3-1, mitochondrial (AtIF3-1) (AtINFC-1)
+Q8S8P5	Nucleus.		0	1.92	0	Probable WRKY transcription factor 33 (WRKY DNA-binding protein 33)
+P13114	Cytoplasm		0	-5.91	0	Chalcone synthase (EC 2.3.1.74) (Naringenin-chalcone synthase) (Protein TRANSPARENT TESTA 4)
+Q0WNY5	Membrane; Single-pass type I membrane protein.	TRUE	0	1.37	0	Wall-associated receptor kinase-like 18 (EC 2.7.11.-)
+Q9SF86	Cell membrane; Peripheral membrane protein.		0	3.47	0	Serine/threonine-protein kinase PCRK1 (EC 2.7.11.1) (Protein PTI-COMPROMISED RECEPTOR-LIKE CYTOPLASMIC KINASE 1)
+F4ITS6	Nucleus		0	3.83	0	Transmembrane protein, putative (DUF1068)
+O04086	Membrane; Single-pass type I membrane protein.	TRUE	0	1.98	0	Probable receptor-like protein kinase At1g11050 (EC 2.7.11.1)
+Q84K84	Unknown	TRUE	0	-2.45	0	Mitochondrial import inner membrane translocase subunit Tim17/Tim22/Tim23 family protein (Uncharacterized protein At5g63000)
+Q9SKT7	Mitochondrion inner membrane; Peripheral membrane protein; Intermembrane side. Peroxisome.		0	3.22	0	External alternative NAD(P)H-ubiquinone oxidoreductase B4, mitochondrial (EC 1.6.5.9) (External alternative NADH dehydrogenase NDB4) (NADH:ubiquinone reductase (non-electrogenic) NDB4)
+O80866	Nucleus		0	1.31	0	Oxysterol-binding protein-related protein 1A (OSBP-related protein 1A)
+Q8GWT1	Golgi apparatus membrane; Single-pass type II membrane protein.	TRUE	0	6.64	0	Probable galacturonosyltransferase 14 (EC 2.4.1.-)
+Q8VZ75	Cytoplasm.		0	-6.64	0	D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+F4I6M4	Cytoplasm, cytoskeleton. Bound to microtubules.		0	4.01	0	TORTIFOLIA1-like protein 1 (Microtubule-associated protein SPIRAL2-like)
+Q9LD45	Endoplasmic reticulum membrane; Multi-pass membrane protein.	TRUE	0	1.66	0	Bax inhibitor 1 (AtBI-1) (BI-1)
+Q8VZJ9	Cytoplasm.		0	-2	0	Calmodulin-binding receptor-like cytoplasmic kinase 2 (EC 2.7.11.1)
+Q9SJ20	Cytoplasm.		0	2.46	0	Ribonucleoside-diphosphate reductase large subunit (EC 1.17.4.1) (Protein DEFECTIVE IN POLLEN DNA DEGRADATION 2) (Ribonucleoside-diphosphate reductase R1 subunit) (AtRNR1)
+W8QP14	Golgi apparatus membrane; Single-pass type II membrane protein. Membrane; Single-pass type II membrane protein.		0	2.39	0	Hexosyltransferase (EC 2.4.1.-)
+Q9C9J1	Golgi apparatus membrane; Single-pass membrane protein. Membrane; Single-pass membrane protein.	TRUE	0	6.64	0	At1g71690 (Glucuronoxylan 4-O-methyltransferase-like protein (DUF579)) (Uncharacterized protein At1g71690) (Uncharacterized protein F26A9.8)
+Q39214	Endomembrane system; Peripheral membrane protein. Cell membrane; Peripheral membrane protein.		0	-1.4	0	Disease resistance protein RPM1 (Resistance to Pseudomonas syringae protein 3) (Resistance to Pseudomonas syringae pv. Maculicola protein 1)
+Q9ZTP3	Endoplasmic reticulum membrane; Multi-pass membrane protein.	TRUE	0	-3.26	0	Protein EIN4 (AtEIN4) (EC 2.7.11.-) (Protein ETHYLENE INSENSITIVE 4)
+F4HWC3	Nucleus	TRUE	0	-1.84	0	Calponin-like domain protein
+Q9S9U1	Cell membrane; Single-pass type I membrane protein.	TRUE	0	3.23	0	L-type lectin-domain containing receptor kinase VII.1 (LecRK-VII.1) (EC 2.7.11.1)
+Q9ZVL3	Nucleus.		0	6.36	0	Nuclear transcription factor Y subunit C-3 (AtNF-YC-3)
+A0A1P8BBP4	Nucleus		0	-4.59	0	Ran-binding protein in the microtubule-organising centre protein
+A0A1P8B7U8	Membrane; Single-pass type II membrane protein.	TRUE	0	-1.99	0	Core-2/I-branching beta-1,6-N-acetylglucosaminyltransferase family protein
+Q8RWN3	Nucleus		0	3.08	0	non-specific serine/threonine protein kinase (EC 2.7.11.1)
+Q43314	Cytoplasm		0	2.93	0	Glutamate dehydrogenase 1 (GDH 1) (EC 1.4.1.3)
+Q9C5H9	Cytoplasm, cytoskeleton, microtubule organizing center. Nucleus envelope. Cytoplasm. Cytoplasm, cell cortex. Associated to motile complexes in the cytosol that transiently stabilized at fixed locations in the cell cortex (e.g. along the outer periclinal edge of newly formed crosswalls) from which microtubules grow away prior to microtubules nucleation. Colocalizes with gamma-tubulin at the nuclear surface where microtubules are nucleated.		0	1.18	0	Gamma-tubulin complex component 2 (AtGCP2) (GCP-2) (Protein SPIRAL 3) (Spindle pole body protein Spc97 homolog) (AtSpc97)
+Q8S8Q6	Membrane; Multi-pass membrane protein.	TRUE	0	1.06	0	Tetraspanin-8
+Q8GWB7	Golgi apparatus membrane; Multi-pass membrane protein.	TRUE	0	1.09	0	Inositol phosphorylceramide glucuronosyltransferase 1 (EC 2.4.1.17) (Glycogenin-like protein 6) (Plant glycogenin-like starch initiation protein 6)
+Q8GUK1	Mitochondrion outer membrane; Multi-pass membrane protein.	TRUE	0	1.2	0	Protein DGS1, mitochondrial (Protein DGD1 SUPPRESSOR 1)
+Q9LV23	Extracellular	TRUE	0	-2.08	0	Glycosyltransferase family 61 protein
+F4JY12	Cytoplasm		0	-1.04	0	Protein GFS12 (EC 2.7.10.-) (BEACH domain-containing protein D) (BEACH-domain homolog D) (GREEN FLUORESCENT SEED 12)
+Q8RXD5	Endoplasmic reticulum.		0	1.55	0	Kunitz trypsin inhibitor 4 (AtKTI4) (Kunitz trypsin inhibitor 1) (AtKTI1) (Trypsin protease inhibitor)
+P02668	Secreted.		0	-2.32	0	Kappa-casein [Cleaved into: Casoxin-C; Casoxin-6; Casoxin-A; Casoxin-B; Casoplatelin]
+Q9CAD6	Membrane; Single-pass membrane protein.	TRUE	0	-2.51	0	Cytochrome P450 86A7 (EC 1.14.14.1)
+Q9LEQ9	Unknown		0	-1.33	0	ARM repeat superfamily protein (Uncharacterized protein At5g14790) (Uncharacterized protein T9L3_90)
+Q9LE15	Secreted.		0	2.23	0	Peroxidase 4 (Atperox P4) (EC 1.11.1.7) (ATP46)
+Q6NLY8	Unknown		0	3.64	0	HVA22-like protein k (AtHVA22k)
+Q8LLD0	Nucleus membrane; Peripheral membrane protein; Nucleoplasmic side. Nucleus, nuclear pore complex.		0	2.72	0	Nuclear pore complex protein NUP96 (AtNUP96) (Nucleoporin 96) (Nucleoporin PRECOCIOUS) (Nucleoporin PRECOZ) (Protein MODIFIER OF SNC1 3) (Protein SUPPRESSOR OF AUXIN RESISTANCE 3)
+O81027	Mitochondrion matrix.		0	1.97	0	Hydroxymethylglutaryl-CoA lyase, mitochondrial (HL) (HMG-CoA lyase) (EC 4.1.3.4) (3-hydroxy-3-methylglutarate-CoA lyase)
+Q8GW96	Membrane; Single-pass membrane protein.	TRUE	0	2.54	0	AAA-ATPase At2g18193 (EC 3.6.1.-)
+P19172	Secreted, extracellular space. Intercellular space of infected plants.		0	-1.91	0	Acidic endochitinase (EC 3.2.1.14)
+Q9SZ46	Membrane; Single-pass membrane protein.	TRUE	0	-2.24	0	Xanthotoxin 5-hydroxylase CYP82C4 (8-methoxypsoralen 5-hydroxylase CYP82C4) (EC 1.14.14.-) (Cytochrome P450 82C4) (Fraxetin 5-hydroxylase CYP82C4) (EC 1.14.14.164)
+Q9SH59	Endoplasmic reticulum membrane; Multi-pass membrane protein. Vacuole membrane; Multi-pass membrane protein.	TRUE	0	4.02	0	Reticulon-like protein B3 (AtRTNLB3)
+A0A1P8B5S3	Membrane; Multi-pass membrane protein.	TRUE	0	-1.89	0	Pleiotropic drug resistance 2
+Q9FVV7	Mitochondrion. Nucleus.		0	3.66	0	DNA repair RAD52-like protein 1, mitochondrial (Organellar DNA-binding protein 1)
+P50546	Plastid, chloroplast.		0	2.04	0	DNA-directed RNA polymerase subunit beta (EC 2.7.7.6) (PEP) (Plastid-encoded RNA polymerase subunit beta) (RNA polymerase subunit beta)
+Q9FLP0	Nucleus. Cytoplasm. Cytoplasm, cytoskeleton, spindle. Cytoplasm, cytoskeleton, phragmoplast. Cytoplasm, cell cortex. During interphase, binds cortical microtubules. In M-phase, locates to the preprophase band. Binds the preprophase band but does not accumulate at the prophase spindle microtubules that coexists within the same cell. In the metaphase and anaphase, localized to spindle. In the phragmoplast, concentrated at the midzone where vesicles guide by MT coalesce to form the cell plate. Present in MT cortical arrays. Concentrated in dots surrounding the nuclei.		0	-2.51	0	65-kDa microtubule-associated protein 1 (AtMAP65-1)
+Q9FY71	Secreted. Secreted, extracellular space. Secreted, extracellular space, apoplast.		0	-1.18	0	Protein EXORDIUM-like 4
+A0A1P8B395	Membrane; Single-pass membrane protein.	TRUE	0	2.03	0	Cysteine-rich RLK (RECEPTOR-like protein kinase) 30
+Q9SCW1	Secreted, extracellular space, apoplast.		0	-1.15	0	Beta-galactosidase 1 (Lactase 1) (EC 3.2.1.23)
+Q9LFX3	Nucleus		0	-2.55	0	Tetratricopeptide repeat protein 38
+Q9SWG0	Mitochondrion.		0	3.64	0	Isovaleryl-CoA dehydrogenase, mitochondrial (IVD) (EC 1.3.8.4)
+Q9LVD6	Membrane; Single-pass membrane protein.	TRUE	0	2.32	0	Cytochrome P450 81F2 (EC 1.14.-.-) (Protein INDOLE GLUCOSINOLATE MODIFIER 1)
+A0A178V841	Nucleus		0	-2.54	0	RING/FYVE/PHD-type zinc finger family protein
+Q9M2U5	Extracellular		0	-2.69	0	Endochitinase EP3 (EC 3.2.1.14) (Chitinase class IV) (AtchitIV) (Protein HOMOLOG OF CARROT EP3-3 CHITINASE) (AtEP3)
+Q9LHG9	Nucleus		0	-1.91	0	Nascent polypeptide-associated complex subunit alpha-like protein 1 (NAC-alpha-like protein 1) (Alpha-NAC-like protein 1)
+Q9LDI9	Cytoplasm		0	-1.77	0	At1g69250 (F4N2.20) (Nuclear transport factor 2 (NTF2) family protein with RNA binding (RRM-RBD-RNP motifs) domain-containing protein) (Putative RNA-binding protein; 63745-61607)
+Q9SSB7	Secreted, cell wall.		0	-1.83	0	Protein DUF642 L-GALACTONO-1,4-LACTONE-RESPONSIVE GENE 1 (DUF642 L-GalL-RESPONSIVE GENE 1)
+Q8VYR3	Membrane; Single-pass type II membrane protein.	TRUE	0	-1.98	0	Protein trichome birefringence-like 2
+O04373	Endoplasmic reticulum lumen.		0	2.19	0	IAA-amino acid hydrolase ILR1-like 4 (EC 3.5.1.-) (jasmonoyl-L-amino acid hydrolase) (EC 3.5.1.127)
+Q8H1Q6	Unknown		0	1.94	0	NAD(P)-binding Rossmann-fold superfamily protein (Uncharacterized protein At4g23420)
+Q9FT97	Secreted, cell wall. Secreted, extracellular space, apoplast.		0	-3.17	0	Alpha-galactosidase 1 (AtAGAL1) (EC 3.2.1.22) (Alpha-D-galactoside galactohydrolase 1) (Melibiase 1)
+F4HZI6	Nucleus		0	1.47	0	Protein-protein interaction regulator family protein
+Q94F20	Secreted, cell wall.		0	-1.65	0	Protein DUF642 L-GALACTONO-1,4-LACTONE-RESPONSIVE GENE 2 (DUF642 L-GalL-RESPONSIVE GENE 2)
+Q9FY75	Cell membrane; Multi-pass membrane protein.	TRUE	0	1.44	0	Potassium transporter 7 (AtHAK7) (AtPOT7)
+Q9LIB9	Secreted, extracellular space, apoplast. Secreted, cell wall. Associated to the cell wall.		0	-2.78	0	Beta-fructofuranosidase, insoluble isoenzyme CWINV5 (EC 3.2.1.26) (Cell wall beta-fructosidase 5) (Cell wall invertase 5) (AtcwINV5) (Sucrose hydrolase 5)
+Q9LFR9	Mitochondrion.		0	2.09	0	COX assembly mitochondrial protein
+Q43872	Secreted.		0	-1.66	0	Peroxidase 64 (Atperox P64) (EC 1.11.1.7) (ATP17a) (PRXR4)
+Q9XI29	Nucleus		0	2.13	0	Uncharacterized protein At1g15400
+F4K5M5	Nucleus.		0	-1.96	0	Auxin response factor
+Q9M076	Cytoplasm. May be associated with the outer membrane of mitochondria.		0	-1.47	0	ATP-dependent 6-phosphofructokinase 6 (ATP-PFK 6) (Phosphofructokinase 6) (EC 2.7.1.11) (Phosphohexokinase 6)
+Q9LFS3	Membrane; Multi-pass membrane protein.	TRUE	0	2.23	0	3-oxo-5-alpha-steroid 4-dehydrogenase family protein (AT5g16010/F1N13_150) (Steroid 5alpha-reductase-like protein)
+Q9FLW0	Membrane; Single-pass type I membrane protein.	TRUE	0	2.03	0	Probable receptor-like protein kinase At5g24010 (EC 2.7.11.-)
+A0A1P8AUH4	Nucleus		0	3.19	0	Zinc finger C-x8-C-x5-C-x3-H type family protein
+Q9FIA1	Secreted.		0	-1.73	0	GDSL esterase/lipase At5g55050 (EC 3.1.1.-) (Extracellular lipase At5g55050)
+Q1ECK2	Unknown		0	-2.79	0	At5g64650 (Ribosomal protein L17 family protein)
+P57750	Chloroplast		0	-2.87	0	Phosphoacetylglucosamine mutase (PAGM) (EC 5.4.2.3) (Acetylglucosamine phosphomutase) (DNA-damage-repair/toleration protein DRT101) (N-acetylglucosamine-phosphate mutase)
+Q9LV52	Nucleus.		0	2.92	0	Heat stress transcription factor C-1 (AtHsfC1) (AtHsf-08)
+Q39034	Secreted.		0	1.45	0	Peroxidase 59 (Atperox P59) (EC 1.11.1.7) (ATPN) (Peroxidase N)
+F4K0J3	Nucleus		0	2.01	0	Kinesin-like protein KIN-4C (AtKINESIN-4C)
+Q9FZJ1	Golgi apparatus membrane; Single-pass type II membrane protein.	TRUE	0	-2.68	0	Probable beta-1,4-xylosyltransferase IRX10 (EC 2.4.2.-) (Glucuronoxylan glucuronosyltransferase 1) (AtGUT1) (Glucuronoxylan glucuronosyltransferase 2) (Protein IRREGULAR XYLEM 10) (Xylan xylosyltransferase IRX10)
+A0A1P8AXP2	Unknown		0	1.81	0	Myosin-like protein XIF
+O23593	Nucleus. Cytoplasm, perinuclear region.		0	-1.55	0	RGG repeats nuclear RNA binding protein B
+Q9SRV5	Cytoplasm, cytosol.		0	-1.35	0	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase 2 (EC 2.1.1.14) (Cobalamin-independent methionine synthase 2) (AtMS2)
+Q9M123	Nucleus.		0	-2.26	0	DNA-directed RNA polymerase III subunit
+Q9FMA0	Secreted, cell wall. Membrane; Peripheral membrane protein.		0	-0.98	0	Expansin-A14 (AtEXPA14) (Alpha-expansin-14) (At-EXP14) (AtEx14) (Ath-ExpAlpha-1.5)
+Q1ECF5	Cytoplasm, cytoskeleton.		0	-1.77	0	LIM domain-containing protein PLIM2b (Pollen-expressed LIM protein 2B)
+F4HWL3	Cell membrane; Single-pass type I membrane protein.	TRUE	0	1.21	0	Receptor-like protein 4 (AtRLP4)
+Q9LVE2	Cytoplasm, cytosol. Mitochondrion.		0	-2.35	0	Serine/threonine protein phosphatase 2A 59 kDa regulatory subunit B' zeta isoform (AtB' zeta) (PP2A, B' subunit, zeta isoform)
+Q0WLY0	Nucleus		0	-2.07	0	KH domain-containing protein (Putative single-strand nucleic acid-binding protein)
+P60300	Membrane; Multi-pass membrane protein.	TRUE	0	-2.81	0	Putative chloride channel-like protein CLC-g (CBS domain-containing protein CBSCLC6)
+Q9FG91	Unknown		0	-2.32	0	Probable disease resistance protein At5g43730
+F4JD91	Chloroplast		0	-1.86	0	NHL domain-containing protein
+F4IXH3	Cell_membrane		0	-1.85	0	P-loop containing nucleoside triphosphate hydrolases superfamily protein
+Q8GWR0	Mitochondrion inner membrane; Single-pass membrane protein; Intermembrane side.	TRUE	0	1.88	0	Cytochrome c oxidase assembly protein COX11, mitochondrial
+Q9ZQH0	Peroxisome.		0	1.37	0	Dephospho-CoA kinase (EC 2.7.1.24) (AtCoaE) (Dephosphocoenzyme A kinase)
+Q9SAC9	Golgi apparatus. Cytoplasmic vesicle, clathrin-coated vesicle membrane; Peripheral membrane protein; Cytoplasmic side.		0	1.32	0	AP-1 complex subunit mu-1 (Adaptor protein complex AP-1 subunit mu-1) (Adaptor protein-1 mu-adaptin 1) (Adaptor-related protein complex 1 subunit mu-1) (At-muB1-Ad) (Clathrin assembly protein complex 1 mu-1 medium chain) (Mu1-adaptin 1)
+Q9LMM1	Membrane; Single-pass membrane protein.	TRUE	0	2.48	0	Cytochrome P450 86A4 (EC 1.14.14.1)
+Q8LAH7	Cytoplasm.		0	2.05	0	12-oxophytodienoate reductase 1 (EC 1.3.1.42) (12-oxophytodienoate-10,11-reductase 1) (AtOPR1) (OPDA-reductase 1) (FS-AT-I)
+Q8GWA5	Cytoplasm, cytoskeleton.		0	-2.02	0	Actin family protein
+Q8LBL1	Vacuole membrane; Multi-pass membrane protein. Tonoplast.	TRUE	0	2.34	0	Two-pore potassium channel 1 (AtTPK1) (Calcium-activated outward-rectifying potassium channel 1) (AtKCO1)
+Q9XIW1	Secreted, cell wall. Secreted, extracellular space, apoplast.		0	-1.68	0	Probable xyloglucan endotransglucosylase/hydrolase protein 5 (At-XTH5) (XTH-5) (EC 2.4.1.207)
+P47735	Cell membrane; Single-pass type I membrane protein.	TRUE	0	2.52	0	Receptor-like protein kinase 5 (EC 2.7.10.1) (EC 2.7.11.1) (Protein HAESA)
+Q9LH50	Cytoplasmic vesicle membrane; Lipid-anchor. Associated with membrane compartments that localize to the tips of growing pollen tubes.		0	3	0	Ras-related protein RABA4d (AtRABA4d)
+Q9S7U7	Unknown		0	1.89	0	Alpha/beta-Hydrolases superfamily protein (At3g01690) (F28J7.1 protein) (F4P13.23 protein) (Uncharacterized protein At3g01690)
+Q9T0K0	Membrane; Single-pass membrane protein.	TRUE	0	1.3	0	Cytochrome P450 71A19 (EC 1.14.-.-)
+Q84L31	Nucleus. Cytoplasm.		0	-2.39	0	Ubiquitin receptor RAD23c (AtRAD23c) (Putative DNA repair protein RAD23-3) (RAD23-like protein 3) (AtRAD23-3)
+F4KDB8	Cytoplasm		0	2.53	0	ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase (EC 3.2.2.6)
+Q9FWS4	Plastid, chloroplast.		0	-2.25	0	50S ribosomal protein L31, chloroplastic (CL31) (Protein EMBRYO DEFECTIVE 2184)
+Q9CAX3	Cell membrane; Multi-pass membrane protein. Very restricted localization following a belt shape within the plasma membrane which coincides with the position of the Casparian strip membrane domain.	TRUE	0	-1.38	0	Casparian strip membrane protein 2 (AtCASP2)
+Q8RWM9	Golgi_body	TRUE	0	2.14	0	Uncharacterized protein At5g38380 (Zinc transporter)
+Q9SFF9	Secreted, extracellular space, apoplast.		0	1.74	0	Germin-like protein subfamily 1 member 7
+Q8W110	Membrane; Multi-pass membrane protein.	TRUE	0	1.42	0	Ferric reduction oxidase 4 (AtFRO4) (EC 1.16.1.7) (Ferric-chelate reductase 4)
+Q9LZ25	Unknown		0	-1.81	0	Probable disease resistance protein At5g04720
+Q9FJY1	Unknown		0	-1.07	0	CAP (Cysteine-rich secretory proteins, Antigen 5, and Pathogenesis-related 1 protein) superfamily protein (Similarity to pathogenesis-related protein) (Uncharacterized protein At5g66590) (Uncharacterized protein K1F13.27)
+Q9FMP0	Nucleus.		0	-2.18	0	Mediator of RNA polymerase II transcription subunit 19a
+F4IV99	Nucleus.		0	2.2	0	Protein CHROMATIN REMODELING 5 (AtCHR5) (EC 3.6.4.-)
+F4HR96	Unknown		0	2.47	0	Non-lysosomal glucosylceramidase (NLGase) (EC 3.2.1.45)
+Q9FFP8	Secreted.		0	-2.3	0	Defensin-like protein 6 (Low-molecular-weight cysteine-rich protein 74) (Protein LCR74) (Plant defensin 2.5)
+Q8L6X7	Unknown	TRUE	0	2.07	0	At4g22290 (Ubiquitin-specific protease family C19-related protein)
+F4IBK9	Unknown	TRUE	0	1.48	0	Microsomal glutathione s-transferase
+A0A1P8B2C7	Cytoplasm		0	2.33	0	60S acidic ribosomal protein family
+P42804	Plastid, chloroplast membrane.		0	-1.93	0	Glutamyl-tRNA reductase 1, chloroplastic (GluTR) (EC 1.2.1.70)
+Q2V3L3	Nucleus.		0	2.27	0	Zinc finger transcription factor YY1 (Protein YIN YANG 1) (AtYY1)
+Q9LU46	Nucleus		0	-1.25	0	DEAD-box ATP-dependent RNA helicase 35 (EC 3.6.4.13)
+Q9SU64	Cell membrane; Multi-pass membrane protein.	TRUE	0	2.41	0	Probable cyclic nucleotide-gated ion channel 16 (Cyclic nucleotide- and calmodulin-regulated ion channel 16)
+Q8W4D0	Nucleus.		0	-0.98	0	Peptidyl-prolyl cis-trans isomerase CYP71 (PPIase CYP71) (EC 5.2.1.8) (Cyclophilin of 71 kDa) (Cyclophilin-71) (AtCYP71)
+P56764	Plastid, chloroplast.		0	1.21	0	DNA-directed RNA polymerase subunit beta'' (EC 2.7.7.6) (PEP) (Plastid-encoded RNA polymerase subunit beta'') (RNA polymerase subunit beta'')
+Q8RY60	Membrane; Multi-pass membrane protein.	TRUE	0	1.58	0	DUF21 domain-containing protein At1g47330 (CBS domain-containing protein CBSDUF7)
+Q8RXF2	Nucleus		0	-2.9	0	RING-type E3 ubiquitin transferase (EC 2.3.2.27)
+Q8GUH1	Nucleus		0	-2.38	0	U-box domain-containing protein 33 (Plant U-box protein 33) [Includes: E3 ubiquitin ligase (EC 2.3.2.27) (RING-type E3 ubiquitin transferase); Serine/threonine-protein kinase (EC 2.7.11.-)]
+B9DH36	Cytoplasm		0	1.95	0	GDP-L-fucose synthase (EC 1.1.1.271)
+A0A1P8AV11	Nucleus	TRUE	0	2.32	0	Trimethylguanosine synthase (DUF707)
+Q9SFF6	Secreted, cell wall.		0	-1.01	0	Pectin acetylesterase 12 (EC 3.1.1.-)
+A0A1P8BD18	Nucleus		0	-1.52	0	rRNA processing protein-like protein
+Q8W103	Nucleus.		0	-1.03	0	Protein CHROMATIN REMODELING 24 (AtCHR24) (EC 3.6.4.-) (DNA excision repair protein CHR24)
+F4IBR2	Nucleus		0	2.67	0	Nucleolar pre-ribosomal-associated protein
+Q8LBU2	Cytoplasm		0	-1.2	0	Probable glutathione peroxidase 8 (EC 1.11.1.9)
+Q9FJ32	Extracellular		0	-1.84	0	Geranylgeranyl transferase type-2 subunit alpha 2 (EC 2.5.1.60) (Geranylgeranyl transferase type II subunit alpha 2) (Rab geranylgeranyl transferase alpha subunit 2) (AtRGTA2) (Rab-GGT alpha 2)
+P10795	Plastid, chloroplast membrane; Peripheral membrane protein. Plastid, chloroplast stroma.		0	-1.73	0	Ribulose bisphosphate carboxylase small subunit 1A, chloroplastic (RuBisCO small subunit 1A)
+A0A1P8AYN1	Chloroplast	TRUE	0	2.23	0	Cytochrome P450, family 79, subfamily B, polypeptide 3
+F4HZE0	Chloroplast		0	2.97	0	ATP-dependent Clp protease proteolytic subunit
+Q9FKT4	Nucleus.		0	-2.18	0	KH domain-containing protein At5g56140 (Quaking-like protein 2)
+Q93V74	Secreted, extracellular space, extracellular matrix.		0	1.35	0	Cyclase-like protein 1
+O82656	Cytoplasm, cytosol. Nucleus.		0	-1.08	0	Protein-tyrosine-phosphatase PTP1 (EC 3.1.3.48) (Protein tyrosine phosphatase 1) (AtPTP1)
+Q9SR71	Nucleus.		0	-2.53	0	Transcription initiation factor TFIID subunit 12 (TBP-associated factor 12) (AtTAF12)
+A0A1P8B5L5	Extracellular		0	2.37	0	Cytochrome P450, family 702, subfamily A, polypeptide 2
+Q9CA57	Cytoplasm, cytosol.		0	2.04	0	Glutathione S-transferase U10 (AtGSTU10) (EC 2.5.1.18) (GST class-tau member 10)
+F4JD14	Nucleus, Chloroplast		0	-1.97	0	BEACH domain-containing protein C1 (BEACH-domain homolog C1)
+A0A1P8BAN2	Secreted, extracellular space, apoplast.		0	1.82	0	Laccase (EC 1.10.3.2) (Benzenediol:oxygen oxidoreductase) (Diphenol oxidase) (Urishiol oxidase)
+Q94K73	Plastid, chloroplast stroma. Mitochondrion matrix.		0	2.14	0	Phenylalanine--tRNA ligase, chloroplastic/mitochondrial (EC 6.1.1.20) (Phenylalanyl-tRNA synthetase) (PheRS)
+Q0WQH3	Nucleus		0	1.32	0	Actin cross-linking protein (At1g27100) (Uncharacterized protein At1g27100)
+Q38893	Plastid, chloroplast. Plastid, chromoplast.		0	2.04	0	Zeta-carotene desaturase, chloroplastic/chromoplastic (EC 1.3.5.6) (9,9'-di-cis-zeta-carotene desaturase) (Carotene 7,8-desaturase) (Protein CHLOROPLAST BIOGENESIS 5) (Protein PIGMENT DEFECTIVE 181) (Protein SPONTANEOUS CELL DEATH 1)
+Q84MC9	Endoplasmic reticulum membrane; Multi-pass membrane protein. Membrane; Multi-pass membrane protein.	TRUE	0	1.67	0	At4g40042 (Microsomal signal peptidase 12 kDa subunit (SPC12))
+A0A1P8B6F8	Unknown		0	-1.68	0	CTP synthase (EC 6.3.4.2) (UTP--ammonia ligase)
+F4JSQ2	Membrane; Multi-pass membrane protein.	TRUE	0	2.35	0	UDP-N-acetylglucosamine (UAA) transporter family
+Q6BDA0	Nucleus.		0	-2.01	0	Lysine-specific demethylase ELF6 (EC 1.14.11.-) (Early flowering 6) (Jumonji domain-containing protein 11) (AtJMJ11) (Protein JUMONJI 11) (Lysine-specific histone demethylase ELF6) ([histone H3]-trimethyl-L-lysine(27) monodemethylase JMJ11)
+Q96287	Nucleus		0	2.22	0	Shaggy-related protein kinase theta (EC 2.7.11.1) (ASK-theta) (Shaggy-related protein kinase 32) (AtSK32)
+Q39141	Plastid, chloroplast thylakoid membrane.		0	1.58	0	Chlorophyll a-b binding protein, chloroplastic
+Q9LZN2	Endoplasmic reticulum membrane; Multi-pass membrane protein.	TRUE	0	1.3	0	Protein PIN-LIKES 6 (Auxin efflux carrier-like protein 6)
+Q6NLH7	Nucleus		0	-1.84	0	At5g19300 (Methyltransferase C9orf114 protein) (Uncharacterized protein At5g19300)
+Q93VS6	Unknown		0	-2.29	0	At1g67870/T23K23_28 (Glycine-rich protein) (Uncharacterized protein At1g67870) (Uncharacterized protein T23K23.28)
+A0A1P8AMM7	Nucleus	TRUE	0	2.57	0	Secretory 1A
+F4ISN0	Nucleus		0	1.18	0	Zinc finger FYVE domain protein
+A8MRY1	Nucleus		0	2.03	0	RING/U-box superfamily protein
+Q8GW64	Plastid, chloroplast stroma.		0	-1.97	0	Peptidyl-tRNA hydrolase, chloroplastic (EC 3.1.1.29) (C-PTH)
+Q8GUI9	Cell_membrane		0	1.16	0	Non-lysosomal glucosylceramidase (NLGase) (EC 3.2.1.45)
+Q93W30	Unknown		0	-1.87	0	Expressed protein (SWIB/MDM2 domain superfamily protein) (Uncharacterized protein At2g35605) (Uncharacterized protein At2g35605/T20F21.29)
+O64635	Membrane; Single-pass membrane protein.	TRUE	0	1.44	0	Cytochrome P450 76C4 (EC 1.14.-.-)
+Q9SAF0	Nucleus		0	2.15	0	Oxysterol-binding protein-related protein 1D (OSBP-related protein 1D)
+Q9ZUL7	Secreted.		0	-1.36	0	Defensin-like protein 1 (Low-molecular-weight cysteine-rich protein 68) (Protein LCR68) (Plant defensin 2.3)
+A0A1P8B9D5	Nucleus, Chloroplast		0	2.39	0	Phototropic-responsive NPH3 family protein
+F4KIZ2	Nucleus		0	2.06	0	Casein kinase II subunit beta (CK II beta)
+Q9LUC6	Membrane; Single-pass membrane protein.	TRUE	0	1.24	0	Cytochrome P450 72A14 (EC 1.14.-.-)
+Q9M1V2	Cytoplasm.		0	-1.83	0	Cytosolic sulfotransferase 5 (AtSOT5) (EC 2.8.2.-) (Flavonoid 7-sulfotransferase 3a) (AtST3a)
+Q9SYZ0	Membrane; Single-pass membrane protein.	TRUE	0	2.51	0	3-ketoacyl-CoA synthase 16 (KCS-16) (EC 2.3.1.199) (Very long-chain fatty acid condensing enzyme 16) (VLCFA condensing enzyme 16)
+F4K6B8	Cell membrane; Single-pass type I membrane protein.	TRUE	0	-2.43	0	Leucine-rich repeat receptor-like serine/threonine-protein kinase RGI4 (EC 2.7.11.1) (Protein RECEPTOR OF RGF1 2) (Protein RGF1 INSENSITIVE 4) (Protein STERILITY-REGULATING KINASE MEMBER 2)
+Q9M1J6	Vacuole.		0	-0.95	0	Protein STRICTOSIDINE SYNTHASE-LIKE 9 (AtSSL9) (Strictosidine synthase 6) (AtSS6)
+F4I3G8	Chloroplast	TRUE	0	-1.65	0	Pyridoxal-5'-phosphate-dependent enzyme family protein
+Q84K90	Nucleus		0	1.08	0	RGS1-HXK1-interacting protein 1
+Q9SJ52	Cell membrane; Single-pass membrane protein.	TRUE	0	1.33	0	NDR1/HIN1-like protein 10 (AtNHL10) (Protein YELLOW-LEAF-SPECIFIC GENE 9)
+Q9LK64	Membrane; Multi-pass membrane protein.	TRUE	0	1.12	0	ABC transporter C family member 3 (ABC transporter ABCC.3) (AtABCC3) (EC 7.6.2.2) (ATP-energized glutathione S-conjugate pump 3) (Glutathione S-conjugate-transporting ATPase 3) (Multidrug resistance-associated protein 3)
+O80704	Unknown		0	-2.11	0	At1g61990/F8K4_18 (F8K4.18 protein) (Mitochondrial transcription termination factor family protein)
+Q9SLK0	Peroxisome.		0	2.14	0	Peroxisomal isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
+F4KC69	Nucleus.		0	-1.34	0	DNA polymerase (EC 2.7.7.7)
+Q9LEY1	Secreted.		0	-1.99	0	Serine carboxypeptidase-like 35 (EC 3.4.16.-)
+Q8LB54	Nucleus.		0	-0.86	0	Pre-mRNA-splicing factor 38
+Q9LX13	Cytoplasm.		0	0.86	0	3-hydroxyacyl-[acyl-carrier-protein] dehydratase (EC 4.2.1.59)
+Q8L850	Membrane; Peripheral membrane protein. Nucleus.		0	2.26	0	Phosphatidylinositol 4-phosphate 5-kinase 9 (AtPIP5K9) (EC 2.7.1.68) (1-phosphatidylinositol 4-phosphate kinase 9) (Diphosphoinositide kinase 9) (PtdIns(4)P-5-kinase 9)
+Q96330	Cytoplasm. Nucleus.		0	-2.72	0	Flavonol synthase/flavanone 3-hydroxylase (EC 1.14.11.9) (EC 1.14.20.6) (FLS 1)
+O49394	Membrane; Single-pass membrane protein.	TRUE	0	-0.97	0	Xanthotoxin 5-hydroxylase CYP82C2 (8-methoxypsoralen 5-hydroxylase CYP82C2) (EC 1.14.14.-) (Cytochrome P450 82C2) (Indole-3-carbonyl nitrile 4-hydroxylase CYP82C2) (EC 1.14.14.165)
+F4JN35	Cell membrane; Single-pass membrane protein. Endoplasmic reticulum membrane; Single-pass membrane protein. Nucleus. Localized primarily in plasma membrane or endoplasmic reticulum membrane as dormant form and, upon osmotic stress or pathogen attack, is processed into a transcriptionally active and nuclear form after a proteolytic cleavage through regulated intramembrane proteolysis (RIP).	TRUE	0	2.01	0	Protein NTM1-like 9 (Calmodulin-binding NAC protein)
+Q9C801	Nucleus.		0	-1.2	0	Protein MOS2
+Q9LTD8	Membrane; Multi-pass membrane protein.	TRUE	0	-1.64	0	DUF21 domain-containing protein At5g52790 (CBS domain-containing protein CBSDUF5)
+Q9LTT3	Nucleus.		0	-1.7	0	High mobility group B protein 10 (Nucleosome/chromatin assembly factor group D 10)
+Q84P17	Peroxisome.		0	-1.34	0	Probable acyl-activating enzyme 18, peroxisomal (EC 6.2.1.-)
+Q9C9U9	Extracellular		0	-1.09	0	Pathogenesis-related thaumatin superfamily protein (Thaumatin-like protein; 9376-10898)
+Q66GR1	Unknown		0	-1.44	0	At5g53090 (NAD(P)-binding Rossmann-fold superfamily protein)
+P21276	Cell membrane. Plastid, chloroplast membrane. Plastid, chloroplast stroma.		0	1.9	0	Superoxide dismutase [Fe] 1, chloroplastic (EC 1.15.1.1) (Protein FE SUPEROXIDE DISMUTASE 1) (FeSOD)
+O80358	Nucleus.		0	1.96	0	Formamidopyrimidine-DNA glycosylase (Fapy-DNA glycosylase) (EC 3.2.2.23) (EC 4.2.99.18) (DNA-(apurinic or apyrimidinic site) lyase FPG1) (Formamidopyrimidine-DNA glycosylase 1) (AtFPG-1) (Formamidopyrimidine-DNA glycosylase 2) (AtFPG-2) (Protein MutM homolog 1) (AtMMH-1) (Protein MutM homolog 2) (AtMMH-2)
+A0A1P8AMC6	Unknown		0	1.9	0	UDP-Glycosyltransferase superfamily protein
+Q8W1Y0	Nucleus. Chromosome, centromere.		0	1.28	0	Sister chromatid cohesion 1 protein 4 (AtRAD21-3) (AtRAD21.3)
+P04745	Secreted.		0	-2.24	0	Alpha-amylase 1A (EC 3.2.1.1) (1,4-alpha-D-glucan glucanohydrolase 1) (Salivary alpha-amylase), Alpha-amylase 1B (EC 3.2.1.1), Alpha-amylase 1C (EC 3.2.1.1)
+F4J3Q1	Unknown		0	2.07	0	Diphthine--ammonia ligase (EC 6.3.1.14) (Diphthamide synthase) (Diphthamide synthetase)
+O49617	Unknown		0	2.27	0	AT4g35110/M4E13_160 (Phospholipase-like protein (PEARLI 4) family protein) (Uncharacterized protein At4g35110) (Uncharacterized protein M4E13.160)
+Q9LVA5	Unknown		0	-1.73	0	At5g62340 (Plant invertase/pectin methylesterase inhibitor superfamily protein) (Similarity to ripening-related protein)
+F4I321	Unknown		0	-1.57	0	RNA-binding (RRM/RBD/RNP motifs) family protein
+Q96520	Secreted. Vacuole. Carboxy-terminal extension appears to target the protein to vacuoles.		0	1.29	0	Peroxidase 12 (Atperox P12) (EC 1.11.1.7) (ATP4a) (PRXR6)
+Q39211	Nucleus.		0	1.36	0	DNA-directed RNA polymerases II, IV and V subunit 3 (DNA-directed RNA polymerase II 36 kDa polypeptide A) (DNA-directed RNA polymerase II subunit RPB3-A) (RNA polymerase II subunit 3-A) (RNA polymerase II subunit B3-A)
+Q9FXB8	Unknown		0	-0.94	0	Chitinase family protein (Putative chitinase)
+Q8LAS8	Cytoplasm		0	1.66	0	S-formylglutathione hydrolase (AtSFGH) (EC 3.1.2.12) (Esterase D)
+F4J4N3	Secreted, extracellular space, apoplast.		0	-1.08	0	Dirigent protein 17 (AtDIR17)
+F4I4K5	Endoplasmic reticulum membrane; Peripheral membrane protein. Associates with PDR2 at the ER membrane.		0	-1.68	0	Multicopper oxidase LPR1 (EC 1.-.-.-) (Protein LOW PHOSPHATE ROOT 1)
+Q94A84	Nucleus. Colocalizes with SIS8 in the nucleus.		0	0	-4.05	UDP-glycosyltransferase 72E1 (EC 2.4.1.-)
+P25857	Plastid, chloroplast membrane; Peripheral membrane protein. Plastid, chloroplast stroma.		0	0	5.5	Glyceraldehyde-3-phosphate dehydrogenase GAPB, chloroplastic (EC 1.2.1.13) (NADP-dependent glyceraldehydephosphate dehydrogenase B)
+O64862	Cytoplasm.		0	0	-5.9	Cytoplasmic tRNA 2-thiolation protein 1 (EC 2.7.7.-) (Cytoplasmic tRNA adenylyltransferase 1)
+F4K5W3	Nucleus		0	0	6.64	Protein prenylyltransferase superfamily protein
+P92979	Plastid, chloroplast.		0	0	6.64	5'-adenylylsulfate reductase 1, chloroplastic (EC 1.8.4.9) (3'-phosphoadenosine-5'-phosphosulfate reductase homolog 19) (PAPS reductase homolog 19) (Prh-19) (Adenosine 5'-phosphosulfate 5'-adenylylsulfate sulfotransferase 1) (APS sulfotransferase 1) (Thioredoxin-independent APS reductase 1)
+F4IDB3	Nucleus		0	0	-6.64	COP1-interacting protein-like protein
+Q6NQK0	Cytoplasm. Membrane; Peripheral membrane protein.		0	0	-6.64	TOM1-like protein 4
+Q9M8K3	Unknown		0	0	-5.6	Cytochrome P450 family protein (F28L1.9 protein)
+F4JHN2	Cytoplasm, cytoskeleton. Cell membrane.		0	0	5.83	Protein IQ-DOMAIN 17 (AtIQD17)
+A8MRW6	Unknown		0	0	6.64	Calcium-dependent lipid-binding (CaLB domain) family protein
+Q9CAD8	Chloroplast		0	0	6.64	Disease resistance protein (TIR-NBS-LRR class) family (Putative disease resistance protein; 27010-23648)
+Q8W5R6	Mitochondrion.		0	0	-3.88	Kinesin-like protein KIN-7C, mitochondrial (Mitochondria-targeted kinesin-related protein 1)
+Q6DST1	Membrane; Single-pass membrane protein.	TRUE	0	0	2.91	Late embryogenesis abundant protein At1g64065
+A0A1P8AS27	Cell_membrane		0	0	-6.64	Ppx-GppA phosphatase
+Q84MA9	Cell membrane; Single-pass type I membrane protein.	TRUE	0	0	-6.64	Inactive leucine-rich repeat receptor-like serine/threonine-protein kinase At1g60630
+Q9SJP6	Golgi apparatus.		0	0	6.64	Putative fucosyltransferase 10 (AtFUT10) (EC 2.4.1.-)
+Q8RWY3	Nucleus.		0	0	2.19	ISWI chromatin-remodeling complex ATPase CHR11 (EC 3.6.4.-) (ISW2-like) (Protein CHROMATIN REMODELING 11) (Sucrose nonfermenting protein 2 homolog)
+F4J750	Extracellular		0	0	6.64	Eukaryotic aspartyl protease family protein
+Q9SJ91	Unknown		0	0	-6.64	Cysteine/Histidine-rich C1 domain family protein (Uncharacterized protein At2g04680)
+Q9FHN6	Cell membrane; Lipid-anchor, GPI-anchor.		0	0	6.64	Monocopper oxidase-like protein SKS2
+Q9SW40	Chloroplast	TRUE	0	0	-6.64	Major facilitator superfamily protein (Uncharacterized protein AT4g34950) (Uncharacterized protein T11I11.190)
+Q8L7U5	Nucleus.		0	0	5.51	Serine/threonine-protein phosphatase BSL1 (EC 3.1.3.16) (BSU1-like protein 1)
+Q8L748	Nucleus envelope. Nucleus, nuclear pore complex.		0	0	6.64	Nuclear pore complex protein NUP107 (Nucleoporin 107)
+O82330	Cytoplasm.		0	0	-6.64	Cytosolic sulfotransferase 10 (AtSOT10) (EC 2.8.2.-) (Sulfotransferase 4a) (AtST4a)
+Q9M2X5	Nucleus		0	0	6.64	RuvB-like helicase (EC 3.6.4.12)
+Q5XV72	Chloroplast		0	0	2.64	Caldesmon-like protein
+Q8LAZ7	Cytoplasm. Nucleus.		0	0	4.64	COP9 signalosome complex subunit 5a (Signalosome subunit 5a) (EC 3.4.-.-) (Jun activation domain-binding homolog 1)
+F4K3R8	Mitochondrion		0	0	-6.64	Voltage dependent anion channel 2
+Q9C9Q5	Golgi apparatus membrane; Single-pass type II membrane protein.	TRUE	0	0	6.64	Arabinosyltransferase RRA2 (EC 2.4.2.-) (Protein REDUCED RESIDUAL ARABINOSE 1)
+Q8L466	Unknown		0	0	-4.62	At1g24050/T23E23_11 (RNA-processing, Lsm domain-containing protein)
+F4ISB3	Extracellular	TRUE	0	0	6.64	Glycosyltransferase family 61 protein
+Q9LXZ4	Cytoplasm		0	0	1.79	GroES-like zinc-binding alcohol dehydrogenase family protein (Putative quinone reductase) (Quinone reductase-like protein)
+Q8LAD0	Cytoplasm.		0	0	-2.64	Probable pyridoxal 5'-phosphate synthase subunit PDX2 (AtPDX2) (EC 4.3.3.6) (Protein EMBRYO DEFECTIVE 2407) (Pyridoxal 5'-phosphate synthase glutaminase subunit) (EC 3.5.1.2)
+A0A1P8B6J9	Unknown		0	0	-3.96	Sensitive to freezing 6
+Q56YA5	Peroxisome.		0	0	-5.07	Serine--glyoxylate aminotransferase (EC 2.6.1.45) (Alanine--glyoxylate aminotransferase) (AGT) (EC 2.6.1.44) (Asparagine aminotransferase) (EC 2.6.1.-) (Serine--pyruvate aminotransferase) (EC 2.6.1.51)
+F4IUD7	Chloroplast		0	0	-4.51	protein-serine/threonine phosphatase (EC 3.1.3.16)
+Q9M1C9	Unknown		0	0	6.64	Beta-glucosidase 30 (AtBGLU30) (EC 3.2.1.21) (Protein DARK INDUCIBLE 2) (Protein SENESCENCE-RELATED GENE 2)
+Q94AM8	Unknown	TRUE	0	0	-2.14	Ubiquitin-associated protein (DUF1068) (Uncharacterized protein At4g30996)
+Q7Y232	Chloroplast		0	0	6.64	UDP-glycosyltransferase 73B4 (EC 2.4.1.-) (Flavonol 3-O-glucosyltransferase UGT73B4) (EC 2.4.1.91)
+Q9SIU2	Nucleus. Cytoplasm. Predominantly nuclear.		0	0	3	Nuclear cap-binding protein subunit 1 (80 kDa nuclear cap-binding protein) (AtCBP80) (NCBP 80 kDa subunit) (Abscisic acid-hypersensitive protein 1) (ABA-hypersensitive protein 1) (Protein ENSALADA)
+Q9FJK7	Nucleus		0	0	-3.59	Cyclin-C1-2 (CycC1;2)
+Q8VY59	Extracellular		0	0	-2.29	At3g27200 (Blue copper protein, putative) (Cupredoxin superfamily protein)
+O23339	Cytoplasm		0	0	-6.64	At4g14840 (Spindle assembly abnormal protein) (Uncharacterized protein AT4g14840) (Uncharacterized protein dl3460c)
+A0A1P8B4R8	Membrane; Single-pass membrane protein.	TRUE	0	0	6.64	Cysteine-rich RLK (RECEPTOR-like protein kinase) 12
+Q9SB75	Golgi apparatus membrane; Multi-pass membrane protein.	TRUE	0	0	5.36	Probable xyloglucan glycosyltransferase 5 (EC 2.4.1.-) (Cellulose synthase-like protein C5) (AtCslC5)
+Q941F1	Plastid, chloroplast.		0	0	-5.21	Phospholipase A1-Igamma1, chloroplastic (EC 3.1.1.-) (DAD1-like lipase 4)
+B6ETT4	Golgi apparatus membrane; Single-pass membrane protein.	TRUE	0	0	6.64	Synaptotagmin-2 (NTMC2T1.2) (Synaptotagmin B)
+Q93V62	Unknown		0	0	2.41	AT4g27450/F27G19_50 (Aluminum induced protein with YGL and LRDR motifs) (Uncharacterized protein At4g27450)
+Q8VXY1	Unknown		0	0	6.64	Glycine-rich protein (Uncharacterized protein At5g28630)
+Q9LZ83	Cytoplasm		0	0	6.64	AT5G04420 protein (At5g04420) (Galactose oxidase/kelch repeat superfamily protein) (Uncharacterized protein T32M21_20)
+Q9C7X7	Chloroplast		0	0	-4.13	Heat shock 70 kDa protein 18 (Heat shock protein 70-18) (AtHsp70-18) (Heat-shock protein 70T-1)
+Q9M0A0	Endoplasmic reticulum membrane; Peripheral membrane protein; Cytoplasmic side.		0	0	-3.54	AT4g30600/F17I23_60 (Signal recognition particle receptor alpha subunit family protein) (Signal recognition particle receptor-like protein)
+Q9FIC6	Secreted, extracellular space, apoplast.		0	0	3.86	Germin-like protein subfamily 1 member 17
+Q9FKM2	Cell membrane. Mitochondrion outer membrane. Also localized in other unidentified cellular compartments.		0	0	2.2	Mitochondrial outer membrane protein porin 4 (Voltage-dependent anion-selective channel protein 4) (AtVDAC4) (VDAC-4)
+F4HUA0	Cytoplasm		0	0	-2.42	GTP binding Elongation factor Tu family protein
+Q9XIG1	Nucleus		0	0	2.76	Sterol 3-beta-glucosyltransferase UGT80B1 (EC 2.4.1.173) (Protein TRANSPARENT TESTA 15) (UDP-glucose:sterol glucosyltransferase 80B1)
+A0A1I9LPI4	Chloroplast	TRUE	0	0	-6.64	Sodium Bile acid symporter family
+Q9SKI2	Endosome.		0	0	-3.99	Vacuolar protein sorting-associated protein 2 homolog 1 (AtVPS2-1) (Charged multivesicular body protein 2 homolog 1) (ESCRT-III complex subunit VPS2 homolog 1) (SNF7-like protein)
+Q84JF7	Plastid, chloroplast.		0	0	-4.06	Probable adenylate kinase 6, chloroplastic (EC 2.7.4.3) (ATP-AMP transphosphorylase 6) (ATP:AMP phosphotransferase) (Adenylate monophosphate kinase 6) (AMK6)
+O22287	Cytoplasm. Nucleus.		0	0	2.13	Mannose-1-phosphate guanylyltransferase 1 (EC 2.7.7.13) (GDP-mannose pyrophosphorylase 1) (Protein CYTOKINESIS DEFECTIVE 1) (Protein EMBRYO DEFECTIVE 101) (Protein HYPERSENSITIVE TO AMMONIUM ION 1) (Protein SENSITIVE TO OZONE 1) (Protein VITAMIN C DEFECTIVE 1)
+B3H7F6	Nucleus		0	0	3.61	Time for coffee
+Q8GXA4	Nucleus envelope. Nucleus membrane; Single-pass membrane protein; Cytoplasmic side. Targeted to the nuclear envelope (NE) during interphase. Associated to the cell plate during cytokinesis in root tips.	TRUE	0	0	6.27	WPP domain-interacting protein 1
+Q9LUZ6	Membrane; Single-pass type II membrane protein.	TRUE	0	0	6.64	Protein PMR5 (Powdery mildew resistance protein 5) (Protein trichome birefringence-like 44)
+O65398	Mitochondrion, Chloroplast		0	0	-2.94	Lactoylglutathione lyase GLX1 (EC 4.4.1.5) (Glyoxalase I) (AtGLX1) (GlyI)
+F4ICG2	Cytoplasm		0	0	6.64	Glutamine-tRNA ligase, putative / glutaminyl-tRNA synthetase, putative / GlnRS
+A0A1P8ATB0	Membrane; Multi-pass membrane protein.	TRUE	0	0	-5.03	ZIP metal ion transporter family
+Q9LQZ4	Nucleus.		0	0	-6.64	At1g75700 (F10A5.27) (Putative transcription initiation factor) (TFIIF-beta 2) (Transcription initiation factor IIF, beta subunit)
+F4HY56	Nucleus.		0	0	2.62	Homeobox-DDT domain protein RLT1 (Protein HOMEOBOX-1) (Protein RINGLET 1)
+F4IB81	Cell membrane; Single-pass membrane protein.	TRUE	0	0	-6.64	LysM domain receptor-like kinase 3 (LysM-containing receptor-like kinase 3) (EC 2.7.11.-)
+A0A1P8AY74	Nucleus		0	0	6.64	Flocculation FLO11-like protein
+Q9LIM8	Unknown		0	0	6.64	Powdery mildew resistance protein, RPW8 domain-containing protein
+Q9LPU6	Nucleus		0	0	3.42	Indole glucosinolate O-methyltransferase 3 (EC 2.1.1.-)
+Q2V3E2	Nucleus		0	0	-6.64	Protein yippee-like At4g27740
+O82647	Chloroplast		0	0	-1.85	Pyruvate decarboxylase 1 (AtPDC1) (EC 4.1.1.1)
+Q9SSQ9	Cytoplasm. Membrane; Peripheral membrane protein. Vacuole. Cytoplasmic vesicle, clathrin-coated vesicle. Found in vacuoles and also associated with plasma, microsomal and mitochondrial membranes and in clathrin-coated vesicles. Not found in chloroplast or nuclei. Activation increases association of preexisting enzyme with membranes. The distribution of this conventional PLD between membrane-associated and soluble fractions varied from organ to organ and is calcium-regulated.		0	0	-6.64	Phospholipase D alpha 2 (AtPLDalpha2) (PLD alpha 2) (EC 3.1.4.4) (Choline phosphatase 2) (Phosphatidylcholine-hydrolyzing phospholipase D 2)
+F4IWW1	Nucleus		0	0	-3.24	AP-3 complex subunit beta
+F4HX45	Cell_membrane		0	0	6.64	AAA-type ATPase family protein
+F4JTF6	Nucleus.		0	0	6.64	CHD3-type chromatin-remodeling factor CHR7 (EC 3.6.4.-) (Protein CHROMATIN REMODELING 7) (Protein PICKLE RELATED 2)
+Q8GZ87	Nucleus. Cytoplasm, cytoskeleton. Associates to cortical microtubules (MTs).		0	0	1.85	Protein IQ-DOMAIN 28 (AtIQD28)
+Q9ZQR4	Membrane; Multi-pass membrane protein.	TRUE	0	0	6.64	DUF21 domain-containing protein At2g14520 (CBS domain-containing protein CBSDUF3)
+Q9SRE4	Golgi apparatus membrane; Multi-pass membrane protein.	TRUE	0	0	-5.47	UDP-rhamnose/UDP-galactose transporter 1 (UDP-Rha/UDP-Gal transporter 1) (UDP-galactose transporter 2) (At-UDP-GalT2)
+Q6NPS1	Nucleus		0	0	6.36	At1g61690 (Phosphoinositide binding protein) (Uncharacterized protein At1g61690)
+A0A1I9LPC2	Cell_membrane		0	0	-6.64	Mitogen-activated protein kinase kinase kinase 6
+Q058G5	Unknown		0	0	6.64	At1g61410 (DNA double-strand break repair and VJ recombination XRCC4)
+Q9SUT5	Cytoplasm. Nucleus.		0	0	4.73	Protein SGT1 homolog B (AtSGT1b) (Protein ENHANCED DOWNY MILDEW 1) (Protein ENHANCER OF TIR1-1 AUXIN RESISTANCE 3) (Suppressor of G2 allele of SKP1 homolog B)
+A0A1P8ATC6	Extracellular	TRUE	0	0	6.64	Receptor-like serine/threonine-protein kinase (EC 2.7.11.1)
+O82221	Nucleus.		0	0	-6.64	Probable small nuclear ribonucleoprotein G (snRNP-G) (Sm protein G) (Sm-G) (SmG)
+Q7XA68	Unknown		0	0	-1.84	At1g01640 (Ribosomal protein L13 family protein) (Uncharacterized protein At3g01790)
+Q9SJW6	Cytoplasm, cytoskeleton.		0	0	-6.64	Actin-related protein 2/3 complex subunit 1B (Actin-related protein C1) (Actin-related protein C1B) (Arp2/3 complex 41 kDa subunit) (p41-ARC)
+Q39162	Nucleus.		0	0	6.64	Transcription factor TGA4 (Ocs element-binding factor 4) (OBF4) (bZIP transcription factor 57) (AtbZIP57)
+Q9LR65	Unknown		0	0	3.77	Probable protein phosphatase 2C 1 (AtPP2C01) (EC 3.1.3.16) (AtPPC6;6)
+A0A1P8AXX8	Nucleus		0	0	-3.99	PEST proteolytic signal-containing nuclear protein
+Q8VZL1	Unknown		0	0	-2.44	Myosin (Uncharacterized protein At5g13260)
+Q29Q26	Cytoplasm. Nucleus. Plastid, chloroplast outer membrane; Peripheral membrane protein; Cytoplasmic side.		0	0	-1.6	Ankyrin repeat domain-containing protein 2B
+Q8L831	Cytoplasm		0	0	3.24	Nudix hydrolase 3 (AtNUDT3) (EC 3.6.1.-)
+Q8GYC1	[Isoform 1]: Plastid, chloroplast.; [Isoform 2]: Nucleus.		0	0	-4.37	Protein indeterminate-domain 4, chloroplastic
+Q9FXA2	Cytoplasm. Nucleus.		0	0	-3.25	Polyadenylate-binding protein 8 (PABP-8) (Poly(A)-binding protein 8)
+Q84VZ5	Cell membrane; Lipid-anchor, GPI-anchor.		0	0	3.66	Uncharacterized GPI-anchored protein At5g19240
+Q9C5L6	Membrane; Multi-pass membrane protein.	TRUE	0	0	3.54	Major facilitator superfamily protein (Uncharacterized protein At5g10190)
+Q9FLB4	Nucleus		0	0	-3.35	Putative disease resistance protein At5g05400
+Q38903	Cytoplasm. Membrane; Peripheral membrane protein. Associated with the membrane when activated.		0	0	5.27	Rac-like GTP-binding protein ARAC2 (GTPase protein ROP7)
+Q681W7	Unknown		0	0	-3.56	SEC-C motif protein (Uncharacterized protein At3g04950)
+A0A1P8B863	Cytoplasm, Nucleus	TRUE	0	0	-3.12	Nucleoporin
+Q39230	Cytoplasm, cytosol.		0	0	-2.61	Serine--tRNA ligase, cytoplasmic (EC 6.1.1.11) (Seryl-tRNA synthetase) (SerRS) (Seryl-tRNA(Ser/Sec) synthetase)
+Q42534	Secreted, cell wall.		0	0	-3.04	Pectinesterase 2 (PE 2) (EC 3.1.1.11) (Pectin methylesterase 2) (AtPME2)
+Q93YQ5	Nucleus	TRUE	0	0	3.49	RING/U-box superfamily protein (Uncharacterized protein At3g61180; T20K12.80)
+F4I270	Unknown	TRUE	0	0	-6.55	ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase (EC 3.2.2.6)
+Q9C7H2	Unknown	TRUE	0	0	-3.18	Threonylcarbamoyladenosine tRNA methylthiotransferase (EC 2.8.4.5) (tRNA-t(6)A37 methylthiotransferase)
+Q8VWF5	Unknown		0	0	3.52	Protein MEI2-like 5 (AML5) (MEI2-like protein 5)
+A0A1P8B137	Unknown		0	0	3.26	Integrin-linked protein kinase family
+Q9LU74	Nucleus, Chloroplast		0	0	-2.97	AT5g57120/MUL3_6 (Nucleolar/coiled-body phosphoprotein)
+F4K1S1	Nucleus.		0	0	-2.7	Structural maintenance of chromosomes protein
+Q941R7	Nucleus		0	0	4.24	Major latex-like protein (Polyketide cyclase/dehydrase and lipid transport superfamily protein) (Putative Csf-2-related protein) (Uncharacterized protein At1g70880/F15H11_28)
+O82251	Plastid, chloroplast inner membrane; Multi-pass membrane protein.	TRUE	0	0	3.36	Protein TIC 20-II, chloroplastic (Translocon at the inner envelope membrane of chloroplasts 20-II) (AtTIC20-II)
+Q93V58	Cytoplasm. Nucleus. Restricted to the nucleus in cells infected by geminivirus.		0	0	-2.82	Serine/threonine-protein kinase GRIK1 (EC 2.7.11.1) (Protein GEMINIVIRUS REP INTERACTING KINASE 1) (Protein GRIK1) (SnRK1-activating protein kinase 2) (AtSnAK2)
+Q9ZPS9	Cell membrane; Single-pass type I membrane protein.	TRUE	0	0	-3.34	Serine/threonine-protein kinase BRI1-like 2 (EC 2.7.11.1) (BRASSINOSTEROID INSENSITIVE 1-like protein 2) (Protein VASCULAR HIGHWAY 1)
+Q7XA86	Vacuole membrane; Multi-pass membrane protein. Transient expression results in mistargeting of PAT10 to the Golgi apparatus, while the non-functional mutant is also localized in Golgi apparatus membranes.	TRUE	0	0	3.84	Protein S-acyltransferase 10 (EC 2.3.1.225) (Probable palmitoyltransferase At3g51390) (Zinc finger DHHC domain-containing protein At3g51390)
+A8MRF3	Cytoplasm	TRUE	0	0	-2.63	60S ribosomal protein L18A-1
+F4JV35	Membrane; Multi-pass membrane protein.	TRUE	0	0	-5	Potassium channel
+Q8GYM6	Nucleus		0	0	2.45	Cyclin-T1-4 (CycT1;4) (Protein AtCycT-like2)
+Q9SAE3	Membrane; Single-pass membrane protein.	TRUE	0	0	2.07	Cytochrome P450 71B28 (EC 1.14.-.-)
+Q93ZR3	Nucleus.		0	0	-2.63	Pre-mRNA-processing factor 39-1 (AtPRP39-1) (PRP39 homolog A) (Pre-mRNA-processing factor 39a)
+A9X4U2	Endoplasmic reticulum membrane; Multi-pass membrane protein.	TRUE	0	0	-2.67	3beta-hydroxysteroid-dehydrogenase/decarboxylase isoform 3 (At3BETAHSD/D3) (EC 1.1.1.170) (4alpha-carboxysterol-C3-dehydrogenase/C4-decarboxylase isoform 1-3) (Reticulon-like protein B20) (AtRTNLB20) (Sterol-4-alpha-carboxylate 3-dehydrogenase 3, decarboxylating)
+Q9LHN8	Cytoplasm		0	0	2.9	Feruloyl CoA ortho-hydroxylase 1 (EC 1.14.11.61)
+A0A1I9LQT2	Nucleus		0	0	-2.99	Anaphase-promoting complex subunit 8
+F4JXW2	Nucleus		0	0	-2.85	Coiled-coil protein
+Q93Z53	Plastid, chloroplast stroma.		0	0	2.63	Plastidial pyruvate kinase 3, chloroplastic (PKp3) (EC 2.7.1.40) (Pyruvate kinase I) (Pyruvate kinase isozyme B2, chloroplastic) (PKP-BETA2) (Plastidic pyruvate kinase beta subunit 2)
+A0A2H1ZEG1	Golgi apparatus membrane; Single-pass type II membrane protein.	TRUE	0	0	2.7	Hexosyltransferase (EC 2.4.1.-)
+A0A1P8AVK4	Nucleus, Mitochondrion		0	0	4.12	Disease resistance protein (CC-NBS-LRR class) family
+Q9SI49	Unknown	TRUE	0	0	-3.69	Cytochrome P450, family 705, subfamily A, polypeptide 13 (Putative cytochrome P450)
+O22823	Cytoplasm. Nucleus.		0	0	2.91	Sm-like protein LSM36B (AtLSM6B) (U6 snRNA-associated Sm-like protein LSM6B)
+Q4PSF4	Late endosome membrane; Multi-pass membrane protein.	TRUE	0	0	4.19	Protein DETOXIFICATION 52 (AtDTX52) (Multidrug and toxic compound extrusion protein 52) (MATE protein 52) (Protein ABNORMAL SHOOT 3-like 2)
+Q4V3A2	Membrane; Single-pass type II membrane protein.	TRUE	0	0	-2.72	At5g16170 (Core-2/I-branching beta-1,6-N-acetylglucosaminyltransferase family protein) (Glycosyltransferase)
+F4IDB2	Nucleus. Nucleus, nuclear body. Cytoplasmic granule. Cytoplasm. Circadian clock-regulated subcellular localization. During the night, mainly present in the cytoplasm. During the day, moves and accumulates progressively in the nuclei.		0	0	3.63	Protein PHYTOCHROME-DEPENDENT LATE-FLOWERING
+Q9LTS6	Mitochondrion. Plastid, chloroplast.		0	0	1.81	30S ribosomal protein S16-2, chloroplastic/mitochondrial
+Q9FFG5	Unknown		0	0	3.18	At5g05500 (Pollen Ole e 1 allergen and extensin family protein)
+F4JNM2	Nucleus		0	0	-2.01	Regulator of Vps4 activity in the MVB pathway protein
+F4IAN4	Membrane; Multi-pass membrane protein.	TRUE	0	0	-3.15	3-oxo-5-alpha-steroid 4-dehydrogenase (DUF1295)
+Q9SU83	Nucleus	TRUE	0	0	1.98	Alkaline-phosphatase-like family protein (Nucleotide pyrophosphatase-like protein (EC 3.6.1.9)) (Uncharacterized protein At4g29680)
+Q8VY01	Secreted.		0	0	2.57	Serine carboxypeptidase-like 46 (EC 3.4.16.-)
+Q9XF67	Cytoplasm. Membrane; Peripheral membrane protein. Membrane-associated after cell stimulation.		0	0	-2.68	3-phosphoinositide-dependent protein kinase 1 (AtPDK1) (EC 2.7.11.1)
+Q8VZ80	Cell membrane; Multi-pass membrane protein.	TRUE	0	0	-1.56	Polyol transporter 5 (Protein POLYOL TRANSPORTER 5) (AtPLT5) (Sugar-proton symporter PLT5)
+Q9SVC2	Membrane; Single-pass type IV membrane protein.	TRUE	0	0	-2.27	Syntaxin-122 (AtSYP122) (Synt4)
+F4I600	Mitochondrion		0	0	-2.97	Vacuolar ATP synthase catalytic subunit-related / V-ATPase-related / vacuolar proton pump-like protein
+Q9LUE5	Chloroplast		0	0	4.05	At5g50760 (Emb|CAB86483.1) (SAUR-like auxin-responsive protein family)
+F4K2Y3	Extracellular		0	0	-2.43	Alpha/beta-Hydrolases superfamily protein
+Q8VZF6	Endoplasmic reticulum membrane; Single-pass membrane protein. Cell membrane; Single-pass membrane protein. Endosome membrane; Single-pass membrane protein.	TRUE	0	0	1.68	Protein ENHANCED DISEASE RESISTANCE 2-like
+Q9FR95	Nucleus		0	0	-2.41	Arabidiol synthase (EC 4.2.1.124) (Pentacyclic triterpene synthase 1) (AtPEN1)
+Q94AL6	Unknown		0	0	3.26	Excitatory amino acid transporter (Uncharacterized protein At4g20150)
+Q9SCQ4	Unknown		0	0	5.12	Protein kinase ATN1-like protein (Protein kinase superfamily protein)
+Q9LUJ5	Nucleus, nucleolus.		0	0	-2.34	Probable rRNA-processing protein EBP2 homolog
+Q9FHA3	Nucleus.		0	0	2.11	DNA polymerase alpha catalytic subunit (EC 2.7.7.7)
+Q9SVZ8	Membrane; Single-pass type II membrane protein.	TRUE	0	0	-1.29	At4g25870 (Core-2/I-branching beta-1,6-N-acetylglucosaminyltransferase family protein) (Glycosyltransferase) (Uncharacterized protein AT4g25870)
+F4J298	Nucleus.		0	0	2.79	Fibronectin type III domain protein (DUF1423)
+Q9XHZ8	Cytoplasm		0	0	1.86	BTB/POZ domain-containing protein At1g21780
+F4IB95	Extracellular		0	0	1.84	Jacalin-related lectin 9
+F4ITL6	Endoplasmic reticulum membrane; Multi-pass membrane protein. Golgi apparatus membrane; Multi-pass membrane protein.	TRUE	0	0	-3.36	Protein REVERSION-TO-ETHYLENE SENSITIVITY1
+Q9FKA4	Secreted.		0	0	3.28	Peroxidase 62 (Atperox P62) (EC 1.11.1.7) (ATP24a)
+Q84JU6	Nucleus. Cytoplasm. Nuclear after cold treatment. Cytoplasmic when plant are grown or returned to normal growth temperatures.		0	0	2.18	E3 ubiquitin-protein ligase HOS1 (EC 2.3.2.27) (Protein HIGH EXPRESSION OF OSMOTICALLY RESPONSIVE GENE 1) (RING finger protein HOS1) (RING-type E3 ubiquitin transferase HOS1)
+O49213	Cytoplasm		0	0	-1.67	GDP-L-fucose synthase 1 (EC 1.1.1.271) (GDP-4-keto-6-deoxy-D-mannose-3,5-epimerase-4-reductase 1) (AtFX) (AtGER1)
+Q7Y1W1	Plastid, chloroplast inner membrane.		0	0	-1.14	Protein TIC 56, chloroplastic (Translocon at the inner envelope membrane of chloroplasts 56) (AtTIC56)
+F4I7I0	Mitochondrion.		0	0	2.25	Alanine aminotransferase 1, mitochondrial (AtAlaAT1) (AtAlaATc) (EC 2.6.1.2) (Alanine-2-oxoglutarate aminotransferase 4) (EC 2.6.1.-)
+A0A1I9LTA1	Nucleus.		0	0	2.56	BAH and TFIIS domain-containing protein
+Q9FKM8	Chloroplast	TRUE	0	0	-2.54	Similarity to disease resistance protein (Toll-Interleukin-Resistance (TIR) domain family protein)
+Q93ZI1	Unknown		0	0	-3.96	AT3g12300/F28J15_117 (Cilia/flagella-associated protein)
+O80625	Nucleus		0	0	2.82	Exocyst subunit Exo70 family protein
+A0A1P8AR36	Extracellular		0	0	2.45	Mannose-binding lectin superfamily protein
+Q7X6P3	Plastid, chloroplast membrane; Multi-pass membrane protein.	TRUE	0	0	-3.32	Protein root UVB sensitive 1, chloroplastic (Protein WEAK AUXIN RESPONSE 3)
+Q9M314	Chloroplast		0	0	-1.52	AT3g61540/F2A19_140 (Alpha/beta-Hydrolases superfamily protein) (Prolyl aminopeptidase-like protein)
+C0LGJ9	Membrane; Single-pass type I membrane protein.	TRUE	0	0	-2.55	Probable LRR receptor-like serine/threonine-protein kinase At2g02780 (EC 2.7.11.1)
+F4JU09	Unknown		0	0	3.45	Toll-Interleukin-Resistance (TIR) domain family protein
+Q94AI6	Cytoplasm, cytosol. Cell membrane. Cytoplasm, cytoskeleton, phragmoplast. Secreted, cell wall. Secreted, extracellular exosome. During cytokinesis, localizes to the nascent cell plate and later to the cell plate insertion site and along the post-cytokinetic wall (PubMed:20870962). Shuttles from the cytoplasm to the exocyst-positive organelle (EXPO) in the presence of EXO70E2 (PubMed:24307681).		0	0	1.91	Exocyst complex component SEC6 (AtSec6)
+Q9SF34	Nucleus		0	0	2.1	Alpha/beta-Hydrolases superfamily protein (At3g09690) (Uncharacterized protein At3g09690) (Uncharacterized protein F11F8_28)
+Q9FI39	Membrane; Single-pass membrane protein.	TRUE	0	0	2.13	Cytochrome P450 705A5 (EC 1.14.-.-) (Thalian-diol desaturase) (AtTHAD)
+Q8VYA5	Nucleus speckle.		0	0	-1.78	Serine/arginine-rich splicing factor RS2Z33 (RS-containing zinc finger protein 33) (At-RS2Z33) (At-RSZ33) (AtRSZ33)
+Q0WW84	Nucleus. Cytoplasmic granule.		0	0	-2.07	Polyadenylate-binding protein RBP47B (Poly(A)-binding protein RBP47B) (RNA-binding protein 47B) (AtRBP47B)
+Q9FKS8	Cell membrane; Multi-pass membrane protein.	TRUE	0	0	-1.41	Lysine histidine transporter 1
+Q9LMS7	Cytoplasm		0	0	-1.95	T10F20.8 protein (Translation elongation factor EF1A/initiation factor IF2gamma family protein)
+Q7PC79	Nucleus. Cytoplasm. Shuttles between the nucleus and the cytoplasm.		0	0	1.98	Exportin-T (Exportin(tRNA)) (Protein PAUSED) (tRNA exportin)
+Q9ZUW8	Unknown		0	0	2.74	Cysteine/Histidine-rich C1 domain family protein (Uncharacterized protein At2g27660)
+Q9FII7	Nucleus. Chromosome. Associates with chromatin.		0	0	2.57	Structural maintenance of chromosomes protein 6B (DNA repair protein RAD18) (AtRAD18)
+A8MSF9	Extracellular		0	0	-1.47	Expansin B3
+F4HSX1	Cytoplasm.		0	0	-1.1	adenine phosphoribosyltransferase (EC 2.4.2.7)
+Q9FDZ5	Golgi apparatus membrane; Multi-pass membrane protein.	TRUE	0	0	-2.16	UDP-rhamnose/UDP-galactose transporter 6 (UDP-Rha/UDP-Gal transporter 6) (Bi-functional UDP-rhamnose/UDP-galactose transporter)
+P93031	Nucleus		0	0	-1.97	GDP-mannose 4,6 dehydratase 2 (EC 4.2.1.47) (GDP-D-mannose dehydratase 2) (GMD 2)
+A0A1P8ASX9	Nucleus		0	0	2.36	Immunoglobulin
+F4INU4	Nucleus		0	0	-2.37	Phototropic-responsive NPH3 family protein
+Q9S9N4	Membrane; Multi-pass membrane protein.	TRUE	0	0	2.53	Magnesium transporter MRS2-1 (Magnesium Transporter 2) (AtMGT2)
+Q96291	Plastid, chloroplast.		0	0	2.28	2-Cys peroxiredoxin BAS1, chloroplastic (2-Cys Prx A) (2-Cys peroxiredoxin A) (EC 1.11.1.24) (Thiol-specific antioxidant protein A) (Thioredoxin-dependent peroxiredoxin BAS1)
+F4ITF9	Nucleus		0	0	-2.21	Regulator of Vps4 activity in the MVB pathway protein
+O23156	Unknown		0	0	2.38	Cytochrome P450, family 81, subfamily D, polypeptide 5 (Cytochrome P450-like protein) (Putative cytochrome p450 family protein)
+Q8GYC5	Mitochondrion	TRUE	0	0	2.55	At1g24268 (BZIP transcription factor, putative (DUF1664))
+Q6ICY4	Vacuole membrane; Multi-pass membrane protein. Tonoplast.	TRUE	0	0	-2.26	Metal tolerance protein C2 (AtMTPc2) (AtMTP5)
+Q9LZQ9	Nucleus		0	0	-1.77	Probable pre-mRNA-splicing factor ATP-dependent RNA helicase DEAH2 (EC 3.6.4.13) (DEAH RNA helicase homolog PRP43)
+Q9XGW1	Cytoplasm.		0	0	3.21	Protein argonaute 10 (Protein PINHEAD) (Protein ZWILLE)
+O22939	Unknown		0	0	2.14	Uncharacterized protein At2g41810
+Q9LU41	Membrane; Multi-pass membrane protein.	TRUE	0	0	-2.13	Calcium-transporting ATPase 9, plasma membrane-type (EC 7.2.2.10) (Ca(2+)-ATPase isoform 9)
+Q14525	Unknown		0	0	-2.72	Keratin, type I cuticular Ha3-II (Hair keratin, type I Ha3-II) (Keratin-33B) (K33B)
+F4HW04	Nucleus.		0	0	2.15	DNA polymerase epsilon catalytic subunit A (EC 2.7.7.7) (DNA polymerase 2 a) (AtPOL2a) (DNA polymerase II subunit a) (Protein ABA OVERLY SENSITIVE a) (Protein EARLY IN SHORT DAYS 7) (Protein EMBRYO DEFECTIVE 142) (Protein EMBRYO DEFECTIVE 2284) (Protein EMBRYO DEFECTIVE 529) (Protein TILTED 1)
+A0A2H1ZE60	Membrane; Multi-pass membrane protein.	TRUE	0	0	-2.11	S-acyltransferase (EC 2.3.1.225) (Palmitoyltransferase)
+Q9SD05	Vacuole.		0	0	2.22	Protein STRICTOSIDINE SYNTHASE-LIKE 6 (AtSSL6)
+Q9FRK5	Membrane; Multi-pass membrane protein.	TRUE	0	0	2.08	Uncharacterized membrane protein At1g75140
+Q147R7	Chloroplast		0	0	2.99	At5g44820 (Glycosyltransferase) (Nucleotide-diphospho-sugar transferase family protein)
+Q9LTC9	Unknown	TRUE	0	0	2.16	At3g23190 (HR-like lesion-inducing protein) (HR-like lesion-inducing protein-like protein)
+F4IIU4	Cytoplasm, cell cortex. Cytoplasm, cytoskeleton, phragmoplast. During interphase, binds cortical microtubules. In M-phase, locates to the preprophase band. During cytokinesis, binds the phragmoplast but not the forming cell plate at the midline, and at a later stage the cortical division site. After cell-plate insertion, enters the new cross-wall.		0	0	1.28	187-kDa microtubule-associated protein AIR9 (Auxin-induced in root cultures protein 9)
+Q9ZSU4	Secreted, cell wall. Secreted, extracellular space, apoplast.		0	0	3.26	Xyloglucan endotransglucosylase/hydrolase protein 14 (At-XTH14) (XTH-14) (EC 2.4.1.207)
+Q9SLM4	Chloroplast		0	0	1.69	Protein kinase superfamily protein (Uncharacterized protein At2g40980)
+O81816	Mitochondrion		0	0	1.65	Monooxygenase 2 (AtMO2) (EC 1.14.13.-)
+Q0WPK4	Cytoplasm, P-body.		0	0	1.44	Protein PAT1 homolog (AtPAT1)
+Q9M393	Membrane; Single-pass type II membrane protein.	TRUE	0	0	-2.28	O-fucosyltransferase 28 (O-FucT-28) (EC 2.4.1.-) (O-fucosyltransferase family protein)
+F4K5T4	Nucleus		0	0	-2.41	Probable transcription factor At5g28040 (Storekeeper-like protein At5g28040)
+O76011	Unknown		0	0	-3.67	Keratin, type I cuticular Ha4 (Hair keratin, type I Ha4) (Keratin-34) (K34)
+Q9M214	Nucleus		0	0	1.83	At3g60450 (Phosphoglycerate mutase family protein) (Uncharacterized protein T8B10_110)
+O80585	Nucleus		0	0	1.71	Methylenetetrahydrofolate reductase (NADH) 2 (AtMTHFR2) (EC 1.5.1.54)
+A0A1P8B591	Chloroplast, Cytoplasm		0	0	1.44	Disease resistance protein (TIR-NBS-LRR class) family
+Q9STM3	Nucleus.		0	0	2.16	Lysine-specific demethylase REF6 (EC 1.14.11.-) (Jumonji domain-containing protein 12) (AtJMJ12) (Protein JUMONJI 12) (Lysine-specific histone demethylase REF6) (Protein ENHANCER OF ETHYLENE INSENSITIVITY 6) (Protein ETHYLENE-INSENSITIVE 6) (Protein RELATIVE OF EARLY FLOWERING 6) ([histone H3]-trimethyl-L-lysine(27) monodemethylase JMJ12) ([histone H3]-trimethyl-L-lysine(36) monodemethylase JMJ12) ([histone H3]-trimethyl-L-lysine(4) monodemethylase JMJ12)
+A8MQE3	Chloroplast		0	0	3.88	Alpha/beta-Hydrolases superfamily protein
+Q9LVW7	Plastid, chloroplast.		0	0	2.67	Carbamoyl-phosphate synthase small chain, chloroplastic (EC 6.3.5.5) (Carbamoyl-phosphate synthetase glutamine chain) (Protein VENOSA 6)
+Q8RXL8	Golgi apparatus membrane; Multi-pass membrane protein.	TRUE	0	0	1.68	UDP-xylose transporter 3
+Q9XI07	Nucleus.		0	0	-1.78	SWI/SNF complex subunit SWI3C (AtSWI3C) (Transcription regulatory protein SWI3C)
+Q9M028	Membrane; Multi-pass membrane protein.	TRUE	0	0	2.68	LIMR family protein At5g01460
+Q8LG05	Nucleus.		0	0	-2.82	Transcription factor STKL1 (Protein Storekeeper-like 1)
+Q84TF0	Cytoplasm		0	0	3.12	Aldo-keto reductase family 4 member C10 (EC 1.1.1.-)
+F4KGW0	Endoplasmic reticulum membrane; Multi-pass membrane protein. Membrane; Multi-pass membrane protein.	TRUE	0	0	1.57	Very-long-chain (3R)-3-hydroxyacyl-CoA dehydratase (EC 4.2.1.134)
+Q9ZW84	Plastid, chloroplast stroma. Plastid.		0	0	-1.97	3-isopropylmalate dehydratase small subunit 2 (EC 4.2.1.33) (2-(omega-methylthio)alkylmalate dehydratase small subunit 2) (EC 4.2.1.170) (AtLEUD1) (Isopropylmalate isomerase 2) (Isopropylmalate isomerase small subunit 2) (IPMI SSU2) (Methylthioalkylmalate isomerase small subunit) (MAM-IS)
+Q9ASU6	Nucleus, nucleolus.		0	0	-1.37	At1g42440/F7F22_7 (Pre-rRNA-processing TSR1-like protein) (Uncharacterized protein At1g42440)
+Q84WW2	Plastid, chloroplast. Peroxisome.		0	0	-2.08	6-phosphogluconolactonase 3, chloroplastic (6PGL3) (EC 3.1.1.31) (Protein EMBRYO DEFECTIVE 2024)
+Q9SYQ8	Cell membrane; Single-pass type I membrane protein.	TRUE	0	0	-3.85	Receptor protein kinase CLAVATA1 (EC 2.7.11.1)
+F4K0R0	Nucleus		0	0	2.72	Transducin family protein / WD-40 repeat family protein
+Q9LJX4	Cytoplasm.		0	0	-1.58	Pumilio homolog 5 (APUM-5) (AtPUM5)
+Q9LIB3	Plastid, chloroplast.		0	0	1.87	BAG family molecular chaperone regulator 8, chloroplastic (Bcl-2-associated athanogene 8)
+F4HRS2	Nucleus		0	0	1.82	Protein SWEETIE
+F4I962	Nucleus.		0	0	-2.04	SIN3-like 3
+Q9XES1	Membrane; Multi-pass membrane protein.	TRUE	0	0	1.87	Calcium-transporting ATPase 4, endoplasmic reticulum-type (EC 7.2.2.10)
+Q945K9	Unknown		0	0	-2.26	AT4g34150/F28A23_90 (At4g34150) (Calcium-dependent lipid-binding (CaLB domain) family protein) (Uncharacterized protein At4g34150)
+Q9FMG4	Nucleus speckle.		0	0	-1.54	Serine/arginine-rich splicing factor SC35 (At-SC35) (AtSC35) (SC35-like splicing factor)
+Q39199	Plastid, chloroplast stroma.		0	0	-1.93	DNA repair protein recA homolog 1, chloroplastic (Recombinase A homolog 1)
+Q9LUD2	Unknown	TRUE	0	0	4.09	AT3g14620/MIE1_12 (Cytochrome P450) (Cytochrome P450, family 72, subfamily A, polypeptide 8)
+Q9FFW8	Chloroplast		0	0	2.38	Tryptophan synthase beta chain (Tryptophan synthase beta type 2)
+Q9LVA4	Unknown		0	0	1.92	Plant invertase/pectin methylesterase inhibitor superfamily protein (Ripening-related protein-like) (Ripening-related protein-like; contains similarity to pectinesterase)
+Q9LTI3	Membrane; Multi-pass membrane protein.	TRUE	0	0	2.99	Mannose-P-dolichol utilization defect 1 protein homolog 1
+Q9SJM7	Cytoplasm.		0	0	2.91	Uridine nucleosidase 1 (EC 3.2.2.3) (Adenosine nucleosidase) (EC 3.2.2.7) (Inosine nucleosidase) (EC 3.2.2.2) (Nucleoside hydrolase 1) (Uridine ribohydrolase 1) (Xanthosine nucleosidase) (EC 3.2.2.-)
+F4IE35	Membrane; Multi-pass membrane protein.	TRUE	0	0	-3.08	Phospholipid-transporting ATPase (EC 7.6.2.1)
+O49570	Cytoplasm		0	0	-2.04	At4g31200 (Predicted protein) (SWAP (Suppressor-of-White-APricot)/surp RNA-binding domain-containing protein)
+Q9SH30	Membrane; Multi-pass membrane protein.	TRUE	0	0	2.36	Probable copper-transporting ATPase HMA5 (EC 7.2.2.8) (Probable copper-transporting ATPase 3) (Protein HEAVY METAL ATPASE 5)
+Q9ZVA2	Secreted. Secreted, cell wall.		0	0	1.97	EP1-like glycoprotein 2 (Curculin-like (Mannose-binding) lectin family protein)
+Q9ZUN4	Cytoplasm		0	0	-2.89	1-aminocyclopropane-1-carboxylate oxidase 1 (ACC oxidase 1) (AtACO1) (EC 1.14.17.4)
+Q941R6	Chloroplast		0	0	-2.68	MLP-like protein 31
+P37106	Cytoplasm.		0	0	2.93	Signal recognition particle 54 kDa protein 1 (SRP54)
+Q43729	Secreted.		0	0	-1.63	Peroxidase 57 (Atperox P57) (EC 1.11.1.7) (ATP13a) (PRXR10)
+Q8RX67	Membrane; Multi-pass membrane protein.	TRUE	0	0	2.72	Protein NRT1/ PTR FAMILY 5.11 (AtNPF5.11)
+Q84VX7	Unknown		0	0	1.96	At1g51540 (Galactose oxidase/kelch repeat superfamily protein)
+Q3EBD3	Chloroplast, Nucleus		0	0	-1.63	DEAD-box ATP-dependent RNA helicase 41 (EC 3.6.4.13)
+Q9SB33	Cytoplasm, Chloroplast		0	0	3.21	2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein (SRG1-like protein)
+A0A1P8B8H5	Membrane; Single-pass membrane protein.	TRUE	0	0	1.76	Cysteine-rich RLK (RECEPTOR-like protein kinase) 11
+Q9M8U2	Mitochondrion		0	0	1.59	aminoacyl-tRNA hydrolase (EC 3.1.1.29)
+A0A1I9LN01	Membrane; Single-pass membrane protein. Cytoplasm, perinuclear region.	TRUE	0	0	-1.59	Protein LONG AFTER FAR-RED 3 (EC 3.5.-.-)
+Q9SV21	Cytoplasm. Golgi apparatus membrane; Peripheral membrane protein; Cytoplasmic side. Cytoplasmic vesicle, COPI-coated vesicle membrane; Peripheral membrane protein; Cytoplasmic side. The coatomer is cytoplasmic or polymerized on the cytoplasmic side of the Golgi, as well as on the vesicles/buds originating from it.		0	0	-1.3	Coatomer subunit beta-1 (Beta-coat protein 1) (Beta-COP 1)
+Q9SVV9	Unknown		0	0	3.29	Protein MEI2-like 3 (AML3) (MEI2-like protein 3)
+O23006	Cell membrane; Lipid-anchor, GPI-anchor.		0	0	-1.1	LysM domain-containing GPI-anchored protein 2 (Chitin elicitor-binding protein LYM2) (CEBiP LYM2)
+Q8L8V4	Unknown		0	0	2.89	At3g07640 (Period circadian protein) (Uncharacterized protein At3g07641)
+Q9SU63	Mitochondrion matrix.		0	0	-1.54	Aldehyde dehydrogenase family 2 member B4, mitochondrial (ALDH2a) (EC 1.2.1.3)
+Q9FZ27	Secreted, extracellular space, apoplast.		0	0	2.44	Germin-like protein subfamily 2 member 2
+Q9CAF9	Mitochondrion.		0	0	2.87	Protein Iojap-related, mitochondrial
+Q9M1Q9	Membrane; Multi-pass membrane protein.	TRUE	0	0	1.84	ABC transporter B family member 21 (ABC transporter ABCB.21) (AtABCB21) (Multidrug resistance protein 17) (P-glycoprotein 21)
+Q9FLD3	Cytoplasm		0	0	-1.57	AT5g05210/K2A11_8 (Gb|AAC73025.1) (Surfeit locus protein 6)
+O23238	Unknown		0	0	2.24	At4g36420/C7A10_940 (Putative ribosomal protein) (Ribosomal protein) (Ribosomal protein L12 family protein)
+Q8W5S1	Cytoplasm. Nucleus.		0	0	-1.37	Cyclin-H1-1 (CycH1;1)
+Q8VYK6	Cytoplasm.		0	0	-1.32	40S ribosomal protein S4-3
+Q94A05	Golgi apparatus membrane; Single-pass type II membrane protein.	TRUE	0	0	2.26	Hydroxyproline O-galactosyltransferase HPGT2 (EC 2.4.1.-) (Beta-1,3-galactosyltransferase 10)
+Q945L0	Mitochondrion.		0	0	3.83	Cytochrome c oxidase subunit 6b-2 (AtCOX6b-2)
+Q9LRJ9	Secreted.		0	0	2.19	Cysteine-rich repeat secretory protein 38
+F4IM56	Nucleus		0	0	2.21	Phototropic-responsive NPH3 family protein
+B3LF89	Unknown		0	0	-2	Pectate lyase (EC 4.2.2.2)
+Q9SSK5	Chloroplast		0	0	3.12	MLP-like protein 43
+Q9C8H0	Membrane; Multi-pass membrane protein.	TRUE	0	0	-2.18	ABC transporter C family member 12 (ABC transporter ABCC.12) (AtABCC12) (EC 7.6.2.2) (ATP-energized glutathione S-conjugate pump 13) (Glutathione S-conjugate-transporting ATPase 13) (Multidrug resistance-associated protein 13)
+A0A1P8BCS7	Nucleus		0	0	-2.2	DNA helicase (EC 3.6.4.12)
+Q8RWV9	Unknown		0	0	1.51	Uncharacterized protein At5g08450 (Zinc finger CCCH domain protein)
+Q9CAT7	Nucleus		0	0	-1.47	Nascent polypeptide-associated complex subunit beta
+Q9C587	Nucleus. Localizes to the chromosomes during zygotene and pachytene.		0	0	-1.23	Replication factor C subunit 1 (AtRFC1) (Activator 1 large subunit) (Activator 1 subunit 1)
+Q9SGP9	Unknown		0	0	1.87	At1g28510/F3M18_5 (F3M18.5) (Optic atrophy 3 protein (OPA3))
+F4JLJ2	Cell_membrane		0	0	-2.95	Non-lysosomal glucosylceramidase (NLGase) (EC 3.2.1.45)
+Q66GM8	Secreted, cell wall.		0	0	-2.19	Pectin acetylesterase 10 (EC 3.1.1.-)
+Q9FY64	Cytoplasm.		0	0	-1.7	40S ribosomal protein S15-4
+O23180	Chloroplast		0	0	1.73	Patatin-like protein 5 (AtPLP5) (EC 3.1.1.-) (Patatin-related phospholipase A IIdelta) (pPLAIId) (Phospholipase A IVB) (AtPLAIVB)
+F4J0D2	Cell membrane; Lipid-anchor.		0	0	1.88	Serine/threonine-protein kinase PBL36 (EC 2.7.11.1) (PBS1-like protein 36) (Receptor-like cytoplasmic kinase PBL36)
+F4HTI1	Cytoplasm		0	0	-2.83	Mannose-binding lectin superfamily protein
+O04308	Plastid, chloroplast stroma. Mitochondrion matrix. Mitochondrion inner membrane; Peripheral membrane protein; Matrix side.		0	0	1.69	Probable mitochondrial-processing peptidase subunit alpha-2, chloroplastic/mitochondrial (Alpha-MPP 2) (Complex III subunit II) (Core protein II) (Cytochrome b-c1 complex subunit 2-2, mitochondrial) (Inactive zinc metalloprotease alpha-2) (Ubiquinol-cytochrome c oxidoreductase core protein 2-2)
+Q9LM76	Nucleus		0	0	-1.36	U-box domain-containing protein 44 (EC 2.3.2.27) (Plant U-box protein 44) (Protein SENESCENCE-ASSOCIATED E3 UBIQUITIN LIGASE 1) (RING-type E3 ubiquitin transferase PUB44)
+Q9FX97	Golgi apparatus, Golgi stack membrane; Single-pass type II membrane protein. Membrane-bound form in trans cisternae of Golgi.	TRUE	0	0	-1.07	Putative fucosyltransferase-like protein (FucT2) (FucTB) (Fucosyltransferase 12) (AtFUT12)
+Q9SZV3	Mitochondrion.		0	0	-2.26	Folate synthesis bifunctional protein, mitochondrial [Includes: 6-hydroxymethyl-7,8-dihydropterin pyrophosphokinase (HPPK) (EC 2.7.6.3) (2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase) (7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase); Dihydropteroate synthase (DHPS) (EC 2.5.1.15)]
+Q9ZPX1	Cytoplasm.		0	0	1.89	ADP-ribosylation factor-like protein 2 (Protein ARF-like 2) (Protein HALLIMASCH) (Protein TITAN 5)
+Q9SIL7	Cell membrane; Lipid-anchor, GPI-anchor.		0	0	3.39	Fasciclin-like arabinogalactan protein 6
+Q9SZR1	Membrane; Multi-pass membrane protein.	TRUE	0	0	1.3	Calcium-transporting ATPase 10, plasma membrane-type (EC 7.2.2.10) (Ca(2+)-ATPase isoform 10)
+Q9LSM3	Unknown	TRUE	0	0	2.03	Tetratricopeptide repeat (TPR)-like superfamily protein (Uncharacterized protein At5g65520) (Uncharacterized protein At5g65520/K21L13_2)
+A0A1P8AXC4	Cytoplasm		0	0	-2.37	Jacalin-related lectin 23
+Q9SA18	Plastid, chloroplast.		0	0	-1.15	Bifunctional aspartokinase/homoserine dehydrogenase 1, chloroplastic (AK-HD 1) (AK-HSDH 1) (Beta-aspartyl phosphate homoserine 1) [Includes: Aspartokinase (EC 2.7.2.4); Homoserine dehydrogenase (EC 1.1.1.3)]
+Q39163	Nucleus.		0	0	-2.25	Transcription factor TGA5 (Ocs element-binding factor 5) (OBF5) (bZIP transcription factor 26) (AtbZIP26)
+F4IYR7	Unknown		0	0	1.92	Leucine-rich repeat (LRR) family protein
+F4J043	Cytoplasm		0	0	2.81	WUS-interacting protein 2
+O80946	Membrane; Multi-pass membrane protein.	TRUE	0	0	-1	ABC transporter G family member 1 (ABC transporter ABCG.1) (AtABCG1) (White-brown complex homolog protein 1) (AtWBC1)
+Q9SQG2	Golgi apparatus membrane; Single-pass type II membrane protein. Membrane; Single-pass type II membrane protein. As cell membrane protein, the functional domain could be at the extracellular side.	TRUE	0	0	1.65	Apyrase 1 (AtAPY1) (EC 3.6.1.5) (ATP-diphosphatase) (ATP-diphosphohydrolase) (Adenosine diphosphatase) (ADPase) (NTPDase) (Nucleoside triphosphate diphosphohydrolase 1)
+Q9C5E7	Plastid, chloroplast. Cytoplasm.		0	0	1.68	Pumilio homolog 6, chloroplastic (APUM-6) (AtPUM6)
+P56795	Plastid, chloroplast.		0	0	2.09	50S ribosomal protein L22, chloroplastic
+F4J381	Mitochondrion	TRUE	0	0	1.19	FG-GAP repeat-containing protein
+P0CB23	Cytoplasm		0	0	-1.75	Uncharacterized protein At4g38062
+Q9FNL3	Vacuole membrane; Multi-pass membrane protein.	TRUE	0	0	-1.34	Protein DMP6 (AtDMP6)
+Q9LPL6	Membrane; Peripheral membrane protein.		0	0	-1.57	TOM1-like protein 3
+Q9LIG9	Unknown	TRUE	0	0	1.32	Cytochrome P450, family 705, subfamily A, polypeptide 30 (Cytochrome P450-like protein) (Putative cytochrome P450)
+F4JKM2	Cytoplasm		0	0	-1.87	Cinnamyl alcohol dehydrogenase 5
+Q9ASS7	Vacuole membrane; Multi-pass membrane protein.	TRUE	0	0	2.45	Cationic amino acid transporter 2, vacuolar
+Q3MKM6	Nucleus, nucleolus.		0	0	3.26	U3 snoRNP-associated protein-like EMB2271 (Protein EMBRYO DEFECTIVE 2271) (Protein YAO-like)
+Q9FIJ0	Membrane; Multi-pass membrane protein.	TRUE	0	0	1.49	Respiratory burst oxidase homolog protein D (EC 1.11.1.-) (EC 1.6.3.-) (NADPH oxidase RBOHD) (AtRBOHD)
+Q8RY80	Membrane; Multi-pass membrane protein.	TRUE	0	0	2.87	MBOAT (Membrane bound O-acyl transferase) family protein (Uncharacterized protein At1g57600)
+Q9FJJ5	Cytoplasm, cytoskeleton, spindle pole. Cytoplasm, cytoskeleton, phragmoplast. Localizes both to the plus ends of microtubules and to the sites of nucleation during division and interphase.		0	0	-1.65	Microtubule-associated protein RP/EB family member 1B (APC-binding protein EB1B) (End-binding protein 1) (AtEB1) (End-binding protein 1B) (AtEB1B) (Protein ATEB1 homolog 2) (ATEB1H2)
+F4I259	Mitochondrion		0	0	2.58	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein
+Q84P25	Peroxisome.		0	0	-1.5	4-coumarate--CoA ligase-like 2 (EC 6.2.1.12)
+Q9M386	Unknown	TRUE	0	0	1.75	Late embryogenesis abundant (LEA) hydroxyproline-rich glycoprotein family (Uncharacterized protein At3g54200) (Uncharacterized protein F24B22.160)
+C0LGQ9	Cell membrane; Single-pass type I membrane protein.	TRUE	0	0	-2.14	LRR receptor-like serine/threonine-protein kinase GHR1 (EC 2.7.11.1) (Protein GUARD CELL HYDROGEN PEROXIDE-RESISTANT 1) (AtGHR1) (Protein RADICAL-INDUCED CELL DEATH 7)
+Q9LYS2	Membrane; Multi-pass membrane protein.	TRUE	0	0	1.96	ABC transporter C family member 10 (ABC transporter ABCC.10) (AtABCC10) (EC 7.6.2.2) (ATP-energized glutathione S-conjugate pump 14) (Glutathione S-conjugate-transporting ATPase 14) (Multidrug resistance-associated protein 14)
+Q9SDA2	Unknown		0	0	-2.28	Plant calmodulin-binding protein-like protein (Uncharacterized protein At5g07820) (Uncharacterized protein F13G24.20)
+Q42602	Membrane; Single-pass membrane protein.	TRUE	0	0	2.82	Cytochrome P450 89A2 (EC 1.14.-.-) (ATH 6-1) (CYPLXXXIX)
+Q9SGN8	Unknown		0	0	-2.16	F3M18.16 (GATA zinc finger protein) (Uncharacterized protein At1g28400)
+Q9C9Z9	Secreted, cell wall. Cytoplasm. Cell membrane. The cell membrane subcellular localization first observed (PubMed:12215501) and the punctate pattern within the cytoplasm (PubMed:14742875) could not be confirmed (PubMed:15010620).		0	0	-1.31	Glycosyltransferase-like KOBITO 1 (EC 2.4.1.-) (Protein ABA INSENSITIVE 8) (Protein ELONGATION DEFECTIVE 1)
+Q9LX15	Secreted.		0	0	1.88	Protein DOWNSTREAM OF FLC (AtDFC) (Pollen allergen-like protein)
+Q9SD86	Nucleus		0	0	-1.78	Dentin sialophosphoprotein-like protein (Uncharacterized protein F13G24.180)
+A8MQN4	Membrane; Multi-pass membrane protein.	TRUE	0	0	2.19	Calcineurin-like metallo-phosphoesterase superfamily protein
+Q9LDA4	Secreted. Vacuole. Carboxy-terminal extension appears to target the protein to vacuoles.		0	0	1.87	Peroxidase 38 (Atperox P38) (EC 1.11.1.7)
+Q5XF81	Cytoplasm. Nucleus.		0	0	-1.29	BRISC and BRCA1-A complex member 2 (BRCA1-A complex subunit BRE) (BRCA1/BRCA2-containing complex subunit 45) (Brain and reproductive organ-expressed protein)
+P93017	Nucleus		0	0	-2.39	Dormancy-associated protein homolog 1 (Auxin-repressed protein 1) (AtARP1) (DRM1 homolog 1) (Dormancy-associated protein 2) (AtDRM2)
+P0C1T5	Mitochondrion		0	0	-1.25	Elicitor peptide 7
+Q42342	Cell membrane. Endoplasmic reticulum membrane; Single-pass membrane protein.	TRUE	0	0	1.04	Cytochrome b5 isoform E (AtCb5-E) (Cytochrome b5 isoform 1) (Cytochrome b5 isoform A) (AtCb5-A)
+Q9SYZ9	Nucleus.		0	0	-2.81	Transcription initiation factor TFIID subunit 8 (TBP-associated factor 8) (AtTAF8)
+P48421	Endoplasmic reticulum membrane; Single-pass membrane protein.	TRUE	0	0	-1.02	Cytochrome P450 83A1 (EC 1.14.14.43) (CYPLXXXIII) (Protein REDUCED EPIDERMAL FLUORESCENCE 2)
+Q944H0	Cytoplasm.		0	0	-0.94	Phosphomethylethanolamine N-methyltransferase (AtPMEAMT) (EC 2.1.1.-) (Phosphoethanolamine N-methyltransferase 2)
+C0LGU1	Membrane; Single-pass type I membrane protein.	TRUE	0	0	1.21	Probable LRR receptor-like serine/threonine-protein kinase At5g37450 (EC 2.7.11.1)
+Q9SZR6	Nucleus	TRUE	0	0	3.14	Transmembrane protein (Uncharacterized protein At4g29960) (Uncharacterized protein F27B13.200)
+Q9SKL6	Extracellular		0	0	3.16	At2g15220/F15A23.4 (Expressed protein) (Plant basic secretory protein (BSP) family protein) (Uncharacterized protein F15A23.4/At2g15220)
+Q9T051	Cytoplasm. Membrane; Peripheral membrane protein. Found mainly associated with intracellular membranes but also with mitochondrial membranes, nuclei and clathrin-coated vesicles. Not found in chloroplast.		0	0	-1.81	Phospholipase D gamma 2 (AtPLDgamma2) (PLD gamma 2) (EC 3.1.4.4)
+Q9SN38	Cell membrane; Single-pass type I membrane protein.	TRUE	0	0	-1.11	Receptor-like protein 51 (AtRLP51) (Protein PUTATIVE DEVELOPMENTAL ORTHOLOG 1) (AtPDO1) (Protein SUPPRESSOR OF NPR1-1, CONSTITUTIVE 2)
+Q9SA87	Secreted, cell wall.		0	0	1.81	Berberine bridge enzyme-like 10 (AtBBE-like 10) (EC 1.1.1.-)
+F4IQ05	Secreted.		0	0	-1.08	Peroxidase (EC 1.11.1.7)
+A0A1P8BEG1	Chloroplast		0	0	-1.67	Insulinase (Peptidase family M16) family protein
+A0A1R7T3D6	Unknown	TRUE	0	0	-1.53	Zn-dependent exopeptidases superfamily protein
+F4JJ27	Unknown	TRUE	0	0	1.53	Peroxisomal ABC transporter 1
+Q0WPQ2	Endoplasmic reticulum membrane; Multi-pass membrane protein.	TRUE	0	0	-1.36	Ethylene receptor 2 (AtETR2) (EC 2.7.11.-) (Protein ETHYLENE RESPONSE 2) (Protein ETR2)
+Q67YL8	Unknown	TRUE	0	0	1.71	Myb-like protein X (mRNA, clone: RAFL24-22-E06)
+A0A1P8B454	Nucleus		0	0	1.52	Myosin
+Q8LG42	Mitochondrion		0	0	-1.35	At2g37975 (Uncharacterized protein At2g37975) (Yos1-like protein)
+A0A1P8B1L7	Membrane; Multi-pass membrane protein.	TRUE	0	0	2.93	Protein DETOXIFICATION (Multidrug and toxic compound extrusion protein)
+Q8RWH9	Nucleus envelope. Nucleus, nuclear pore complex.		0	0	2.45	Nuclear pore complex protein NUP58 (Nucleoporin 58) (Protein TRANSCURVATA1)
+Q8W4I4	Cell membrane; Multi-pass membrane protein.	TRUE	0	0	1.82	Potassium transporter 6 (AtHAK6) (AtPOT6)
+Q9FNZ1	Unknown		0	0	1.59	Zinc finger CCCH domain-containing protein 63 (AtC3H63) (Zinc finger CCCH domain and WD40 repeat-containing protein 2)
+F4HV06	Nucleus	TRUE	0	0	1.67	Transmembrane protein (DUF616)
+Q8GWQ6	Nucleus speckle.		0	0	-2.09	UPF0235 protein At5g63440
+Q84WU8	Mitochondrion inner membrane; Single-pass membrane protein; Matrix side.	TRUE	0	0	1.25	ATP-dependent zinc metalloprotease FTSH 3, mitochondrial (AtFTSH3) (EC 3.4.24.-)
+Q9STY7	Membrane; Single-pass type II membrane protein.	TRUE	0	0	2.61	11-beta-hydroxysteroid dehydrogenase-like 3 (EC 1.1.1.-) (17-beta-hydroxysteroid dehydrogenase-like 3) (EC 1.1.1.-) (Hydroxysteroid dehydrogenase 3) (AtHSD3)
+F4K6N3	Unknown		0	0	2.2	Amidase family protein
+Q9M146	Golgi apparatus membrane; Single-pass type II membrane protein.	TRUE	0	0	1.72	UDP-D-xylose:L-fucose alpha-1,3-D-xylosyltransferase MGP4 (EC 2.4.2.-) (Protein MALE GAMETOPHYTE DEFECTIVE 4) (Rhamnogalacturonan xylosyltransferase MGP4)
+Q9FE78	Cytoplasm		0	0	-0.9	Eukaryotic translation initiation factor 2 subunit alpha (eIF2-alpha)
+Q9SRM4	Nucleus.		0	0	1.71	PHD finger protein ALFIN-LIKE 2 (Protein AL2) [Cleaved into: PHD finger protein ALFIN-LIKE 2, N-terminally processed]
+Q9LM13	Plastid, chloroplast.		0	0	-1.35	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase 1 (BPG-dependent PGAM 1) (PGAM 1) (Phosphoglyceromutase 1) (dPGM 1) (EC 5.4.2.11)
+P14891	[Isoform Short]: Endoplasmic reticulum membrane; Multi-pass membrane protein. Also observed within spherical structures located along the endoplasmic reticulum strands.; [Isoform Long]: Endoplasmic reticulum membrane; Multi-pass membrane protein.	TRUE	0	0	-1.08	3-hydroxy-3-methylglutaryl-coenzyme A reductase 1 (AtHMGR1) (HMG-CoA reductase 1) (EC 1.1.1.34)

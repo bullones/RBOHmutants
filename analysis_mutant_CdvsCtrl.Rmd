@@ -1,0 +1,845 @@
+---
+title: "`r MY_TITLE`"
+subtitle: "Data mining on differentially expressed proteins, v240126"
+author: "Amanda Bullones"
+date: "`r format(Sys.time(), '%A %d, %B %Y. %H.%M.%S')`"
+output:
+  html_document:
+    keep_md: no
+    toc: yes
+    toc_float: yes
+    code_folding: hide
+---
+
+```{r setup, include=FALSE}
+opts_chunk$set(echo = VERBOSE_MODE) # para mostrar el código o no
+
+# message(), warning() and stop() result in alert markdown text
+# https://www.r-bloggers.com/2017/06/pretty-errors-warnings-and-messages-in-r-markdown/
+# https://yihui.org/knitr/hooks/
+knitr::knit_hooks$set(
+   error = function(x, options) {
+     paste('\n\n<div class="alert alert-danger">',
+           gsub('##', '\n', gsub('^##\ Error', '***Error!*** ', x)),
+           '</div>', sep = '\n')
+   },
+   warning = function(x, options) {
+     paste('\n\n<div class="alert alert-warning">',
+           gsub('##', '\n', gsub('^##\ Warning:', '***Warning!*** ', x)),
+           '</div>', sep = '\n')
+   },
+   message = function(x, options) {
+     paste('\n\n<div class="alert alert-success">',
+           gsub('##', '\n', paste("***Note:*** ", "\n", x)),
+           '</div>', sep = '\n')
+   }
+)
+
+# Pre-calculations from configuration ####
+FILE <- c(FILE_rbohC, FILE_rbohF, FILE_WT)
+rm(FILE_rbohC, FILE_rbohF, FILE_WT)
+```
+
+[DEP]: "differentially expressed protein"
+
+# Customized variables
+
+The analysis depends on the following variables defined in `configure.R`
+
+Variable | Value
+:---     | :---
+Experimental conditions | `r FILE_NAME`
+Data file(s) | `r FILE`
+Total proteins file | `r FILE_TOTAL`
+Subcellular location file with annotations | `r LOCATION`
+Subcellular location ontology | `r LOCATION_CAT`
+
+
+# Load data files
+
+Read proteomic results of [DEP]s for different analyses.
+
+```{r load}
+# DEP counts ####
+counts <- list()
+for (i in 1:length(FILE)) {
+  counts[[FILE_NAME[i]]] <-  read.table(file = FILE[i],
+                                        sep = "\t",
+                                        header = TRUE,
+                                        row.names = 1,
+                                        check.names = FALSE,
+                                        comment.char = "") # turn off the interpretation of comments
+}
+
+# all proteins ####
+all_proteins <- read.delim(file = FILE_TOTAL,
+                           sep = "\t",
+                           header = TRUE,
+                           row.names = 1)
+
+# subcellular location file ####
+location <- read.delim(file = LOCATION,
+                       sep = "\t",
+                       header = TRUE,
+                       row.names = 1)
+
+# subcellular location ontology ####
+location_cat <- scan(file = LOCATION_CAT,
+                     what = character(),
+                     sep = "\n")
+
+# construct final datatable
+final_datatable <- data.frame()
+# merge data from counts
+for (i in 1:length(counts)) {
+  tmp <- counts[[i]][, grep("Abundance Ratio \\(log2\\)", colnames(counts[[i]])), drop = FALSE]
+  colnames(tmp)[1] <- paste0("log2_", names(counts[i]))
+  tmp$Protein <- rownames(tmp)
+  tmp <- tmp[, c(2,1)]
+  if (length(final_datatable) == 0) {
+    final_datatable <- tmp
+  } else {
+    final_datatable <- merge(final_datatable,
+                             tmp,
+                             by = 1,
+                             all = TRUE,
+                             sort = FALSE)
+  }
+}
+# merge data from location
+final_datatable <- merge(final_datatable,
+                         location,
+                         by.x = 1,
+                         by.y = "row.names",
+                         sort = FALSE)
+final_datatable <- final_datatable[, c(1, 7, 8, 2, 3, 4, 5)]
+final_datatable$Transmembrane <- gsub("TRANSMEM.*", "TRUE",
+                                      final_datatable$Transmembrane)
+final_datatable[is.na(final_datatable)] <- 0
+```
+
+# Heatmap
+
+Expression of [DEP]s in WT, _rbohC_ and _rbohF_ as normalised abundances.
+
+```{r heatmap_DEPs}
+heatmap_list <- list()
+col_min_max <- c("white", "#4292C6")
+my_palette <- colorRampPalette(col_min_max)(50)
+for (i in 1:length(counts)) {
+  tmp <- counts[[i]]
+  # keep only abundances columns
+  tmp <- tmp[-c(1, 8, 9)]
+  # change colnames
+  cols <- colnames(tmp)
+  cols <- gsub(".*Sample..", "", cols)
+  colnames(tmp) <- cols
+  name <- names(counts[i])
+  tmp <- as.matrix(tmp)
+  heatmap_list[[name]] <- tmp
+  distance <- dist(tmp, method = "euclidean")
+  tmp_hc <- hclust(distance, method = "ward.D2")
+  heatmap(tmp,
+          Colv = NA,
+          Rowv = as.dendrogram(tmp_hc),
+          scale = "row",
+          cexRow = 0.5, # nombres pequeños para que quepan
+          cexCol = 0.8,
+          col = my_palette, # va de 0 a infinito, no hay negativos
+          main = paste0(names(counts[i]), " (", nrow(counts[[i]]), " DEPs)")
+  )
+  legend(x = "topright", 
+         inset = c(-0.01, 0),
+         legend = c("Low", "High"),
+         cex = 0.8, 
+         fill = col_min_max,
+         bty = "n"    # no box around
+  )
+}
+```
+
+# Mutant comparison
+
+We compare the differentially expressed proteins ([DEP]s) that are common between WT, rbohC and rbohF.
+
+## DEP intersections: Venn diagram
+
+```{r venn_diagrams, out.width=c('50%', '50%'), results='hold'}
+# list to save the ids of DEP
+proteins_ids <- list()
+
+# DEPs including up- and down-regulated (All-DEPs)
+# The first level of the list are the rbohC, rbohF and WT genotypes
+proteins_ids[["all"]] <- list()
+for (i in 1:length(counts)) {
+  tmp <- rownames(counts[[i]])                # get only names
+  proteins_ids$all[[names(counts[i])]] <- tmp # assign protein ids to genotypes
+}
+
+# up- and down- DEPs split ####
+proteins_ids[["up"]] <- list()   # empty list for UP
+proteins_ids[["down"]] <- list() # empty list for DOWN
+
+# recorrer los tres elementos de la lista (los tres genotipos)
+# y dividir los DEP entre UP y DOWN
+for (i in 1:length(counts)) {
+  # Qudarse con el valor de la columna que dice si es una DEP UP o DOWN
+  tmp <- counts[[i]][, grep("Abundance Ratio \\(log2\\)", colnames(counts[[i]])), drop = FALSE]
+  tmp_up <- tmp[tmp[1] > 0, , drop = FALSE]       # seleccionar los UP. drop=FALSE para conservar nombre
+  tmp_down <- tmp[tmp[1] < 0, , drop = FALSE]     # seleccionar los DOWN
+  name <- names(counts[i])                        # nombre de genotipo para la lista
+  proteins_ids$up[[name]] <- rownames(tmp_up)     # subllista de UP para cada genotipo
+  proteins_ids$down[[name]] <- rownames(tmp_down) # sublista de DOWN para cada genotipo
+}
+
+# venn diagrams for all-DEPs, up and down ####
+venn_intersections <- list()       # para guardar las intersecciones para tabla de discordancias
+venn_data <- data.frame()
+for (i in 1:length(proteins_ids)) {
+  ## Venn #####
+  venn_plot <- venn(proteins_ids[[i]],
+                    ilabels = "counts",
+                    zcolor = "style",
+                    box = FALSE)
+  title(paste0(names(proteins_ids[i]), "-DEPs"),  # toma el nombre del id de la lista
+        line = -1)                                # para que no se pegue a la imagen
+  if (length(venn_data) == 0) {                   # Añadir el primer elemento
+    venn_data <- venn_plot[2:8, 4, drop = FALSE]
+    venn_data$intersections <- rownames(venn_data)
+    venn_data <- venn_data[, c(2,1)]
+    colnames(venn_data)[i+1] <- names(proteins_ids[i])
+  } else {                                        # merge los demás elementos por ID de prot
+    tmp_venn <- venn_plot[2:8, 4, drop = FALSE]
+    tmp_venn$intersections <- rownames(tmp_venn)
+    tmp_venn <- tmp_venn[, c(2,1)]
+    colnames(tmp_venn)[2] <- names(proteins_ids[i])
+    venn_data <- merge(venn_data, tmp_venn, by = 1, sort = FALSE)
+  }
+  
+  intersections <- calculate.overlap(proteins_ids[[i]])
+  ## define names for the intersections ####
+  a123 <- paste0(names(proteins_ids[[i]][1]),
+                 "-",
+                 names(proteins_ids[[i]][2]),
+                 "-",
+                 names(proteins_ids[[i]][3]))
+  a12 <- paste0(names(proteins_ids[[i]][1]),
+                 "-",
+                 names(proteins_ids[[i]][2]))
+  a13 <- paste0(names(proteins_ids[[i]][1]),
+                 "-",
+                 names(proteins_ids[[i]][3]))
+  a23 <- paste0(names(proteins_ids[[i]][2]),
+                 "-",
+                 names(proteins_ids[[i]][3]))
+  a1 <- paste0(names(proteins_ids[[i]][1]))
+  a2 <- paste0(names(proteins_ids[[i]][2]))
+  a3 <- paste0(names(proteins_ids[[i]][3]))
+  
+  names(intersections) <- c(a123, a12, a13, a23, a1, a2, a3) # give the new names to intersections
+  # asingar los solapamientos entre fenotipos al elemento de la lista all, up o down
+  venn_intersections[[names(proteins_ids[i])]] <- intersections
+}
+```
+
+## Save DEP intersections
+
+```{r writeVennIntersections}
+filenames <- ""  # empty variable for filenames
+for (i in 1:length(venn_intersections)) {
+  ## modify intersection results ready to save
+  tmp <- venn_intersections[[i]]
+  tmp <- do.call(rbind, lapply(tmp, data.frame)) # convert list in table
+  tmp$intersections <- rownames(tmp)                  # add a column with the comparisons
+  colnames(tmp)[1] <- "protein"                 # change column name to 'protein'
+  tmp$intersections <- gsub("\\..*", "", tmp$intersections) # remove the .Number
+  tmp <- tmp[,c(2,1)]                           # change column order
+  file_name <- paste0(SUB_DIR,
+                      "DEP_",
+                      names(venn_intersections[i]),
+                      ".tsv")
+  write.table(tmp,                              # save the table
+              file = file_name,
+              quote = FALSE,
+              sep = "\t",
+              row.names = FALSE,
+              col.names = TRUE)
+ filenames <- c(filenames, paste0("**", names(venn_intersections[i]), "** : ", file_name, "\n"))
+}
+message("Files with DEPs intersections were saved in \n", filenames)
+```
+
+
+## DEP expression divergences 
+
+We will **remove** from every intersection of `r names(counts[1])` Venn diagram the protein IDs that are UP or DOWN in the same intersection region in the other UP and DOWN Venn diagrams.
+
+```{r intersections_table}
+# define empty variables
+proteins_divergent <- list()
+discrep_prot <- data.frame(matrix(ncol = 2, nrow = 0))
+
+# fill the variables with $all data
+for (i in 1:length(venn_intersections[[i]])) {
+  # remove from the intersection in $all those that are all UP DEPs
+  tmp <- setdiff(venn_intersections$all[[i]], venn_intersections$up[[i]])
+  # remove from remaining ids in the intersection in $all those that are all DOWN DEPs
+  tmp <- setdiff(tmp, venn_intersections$down[[i]])
+  proteins_divergent[[names(venn_intersections$all[i])]] <- tmp  # will be used below
+  discrep_prot[nrow(discrep_prot) +1,] <- c(names(venn_intersections$all[i]),
+                                            length(tmp))
+}
+```
+
+The summary of divergences must be read as follows:
+
+* **Intersection** is the intersection region from the `r names(counts[1])` Venn diagram.
+* **up** refers to [DEP]s that are up-regulated in all genotypes compared in the intersection
+* **down** refers to [DEP]s that are down-regulated in all genotypes compared in the intersection
+* **Divergent** refers to [DEP]s that are down- or up-regulated in one genotype and up- or down-regulated in the others in the intersection.
+
+```{r}
+# customize data to present as a kable
+venn_data$intersections <- gsub(":", "-", venn_data$intersections) # change : to -
+venn_data <- merge(discrep_prot, venn_data, by = 1, sort = FALSE)
+colnames(venn_data)[1] <- "intersections"
+colnames(venn_data)[2] <- "divergent"
+venn_data <- venn_data[, -3]
+venn_data <- venn_data[,c(1, 3, 4, 2)]
+
+kable(venn_data,
+      align = "lccc")
+message("The normal situation is that no _divergent_ DEP is found in single comparisons")
+```
+
+
+```{r rmvar1, echo=VERBOSE_MODE}
+# remove useless variables
+rm(tmp, tmp_up, tmp_down, name, intersections, proteins_ids, venn_data, discrep_prot)
+rm(list=ls(pattern="^a[0-9]"))
+```
+
+## Comparison of key [DEP]s
+
+We represent a heatmap with the [DEP] that are common at least to two of the three conditions (WT, rbohC and rbohF) and are divergent.
+
+```{r heatmap_key, fig.show="hold", fig.height=6, out.width="50%"}
+proteins_intersections <- unlist(proteins_divergent, use.names = TRUE)
+
+# prepare data for heatmap
+heatmap_intersections <- list()
+for (i in 1:length(counts)) {
+  tmp <- counts[[i]][proteins_intersections,
+                     grep("Abundance Ratio \\(log2\\)", colnames(counts[[i]])),
+                     drop = FALSE]
+  tmp <- na.omit(tmp)
+  tmp$proteins <- rownames(tmp)
+  tmp <- tmp[,c(2,1)]
+  colnames(tmp)[2] <- "log2"
+  heatmap_intersections[[names(counts[i])]] <- tmp
+}
+
+heatmap_intersections <- do.call(rbind, heatmap_intersections)
+heatmap_intersections$condition <- rownames(heatmap_intersections)
+heatmap_intersections$condition <- gsub("\\..*", "", heatmap_intersections$condition)
+
+# represent heatmap
+order <- as.data.frame(proteins_intersections)
+order$intersections <- rownames(order)
+order$intersections <- gsub("[0-9]", "", order$intersections)
+order_name <- unique(order$intersections)
+
+for (i in 1:length(order_name)) {
+  order_proteins <- order$proteins_intersections[grep(paste0("^",
+                                                       order_name[i],
+                                                       "$"),
+                                                order$intersections)]
+  tmp2 <- data.frame()
+  for (j in 1:length(order_proteins)) {
+    tmp <- heatmap_intersections[grep(order_proteins[j],
+                              heatmap_intersections$proteins),]
+    tmp2 <- rbind(tmp2, tmp)
+} # end for j
+  heatmap_plot <- ggplot(tmp2,
+                         aes(x = condition,
+                             y = proteins,
+                             fill = log2)) +
+    geom_tile() + # rectangles with log2 values
+    coord_equal() + # to make them squares
+    scale_fill_gradient2(low = "#F8766D",
+                         high = "#00BFC4",
+                         mid = "white",
+                         midpoint = 0,
+                         na.value = "white") +
+    scale_y_discrete(limits = rev) + # reverse order for y axis
+    theme(#text = element_text(size = 5),
+          # axis.text.x = element_text(angle = 90), # x labels vertical
+          panel.grid.major = element_blank(), # remove major grid
+          panel.grid.minor = element_blank(), # remove minor grid
+          panel.background = element_blank()) + # remove background
+    ggtitle(paste0("Divergent in ",
+                   order_name[i]))
+  print(heatmap_plot)
+  } # end for i
+  
+```
+
+> Note that a **white** color indicates that the protein was not [DEP] for this condition.
+
+```{r rmvar2, echo=VERBOSE_MODE}
+# remove useless variables
+rm(heatmap_intersections, heatmap_plot, tmp, proteins_intersections, order)
+```
+
+## Common [DEP]s in rbohC and rbohF
+
+We represent a heatmap with the [DEP] that are common to the two mutants (rbohC and rbohF) and are **up** or **down**.
+
+```{r heatmap_common, fig.height=8}
+proteins_common <- venn_intersections[c("up", "down")]
+proteins_common_up <- proteins_common$up$`rbohC-rbohF`
+proteins_common_down <- proteins_common$down$`rbohC-rbohF`
+proteins_common <- c(proteins_common_up, proteins_common_down)
+
+# prepare data for heatmap
+heatmap_common <- list()
+for (i in 1:length(counts)) {
+  tmp <- counts[[i]][proteins_common,
+                     grep("Abundance Ratio \\(log2\\)", colnames(counts[[i]])),
+                     drop = FALSE]
+  tmp <- na.omit(tmp)
+  tmp$proteins <- rownames(tmp)
+  tmp <- tmp[,c(2,1)]
+  colnames(tmp)[2] <- "log2"
+  heatmap_common[[names(counts[i])]] <- tmp
+}
+
+heatmap_common <- do.call(rbind, heatmap_common)
+heatmap_common$condition <- rownames(heatmap_common)
+heatmap_common$condition <- gsub("\\..*", "", heatmap_common$condition)
+
+# represent heatmap
+order <- heatmap_common[order(heatmap_common$log2,
+                              decreasing = TRUE),]
+order <- order[grep("rbohC", order$condition),]
+order <- unique(order$proteins)
+heatmap_common$proteins <- factor(heatmap_common$proteins,
+                                  levels = order)
+
+heatmap_plot <- ggplot(heatmap_common,
+                       aes(x = condition,
+                           y = proteins,
+                           fill = log2)) +
+  geom_tile() + # rectangles with log2 values
+  coord_equal() + # to make them squares
+  scale_fill_gradient2(low = "#F8766D",
+                       high = "#00BFC4",
+                       mid = "white",
+                       midpoint = 0,
+                       na.value = "white") +
+  scale_y_discrete(limits = rev) + # reverse order for y axis
+  theme(#text = element_text(size = 5),
+        axis.text.x = element_text(angle = 90), # x labels vertical
+        panel.grid.major = element_blank(), # remove major grid
+        panel.grid.minor = element_blank(), # remove minor grid
+        panel.background = element_blank()) # remove background
+print(heatmap_plot)
+```
+
+```{r rmvar3, echo=VERBOSE_MODE}
+# remove useless variables
+rm(proteins_common, proteins_common_up, proteins_common_down, heatmap_common, heatmap_plot, tmp)
+```
+
+# Transmembrane proteins
+
+Let's check how many of our [DEP]s are transmembrane.
+
+```{r transmembrane}
+transmembrane <- data.frame(matrix(ncol = 4, nrow = 0))
+colnames(transmembrane) <- c("condition", "total", "trans", "perc")
+for (i in 1:length(counts)) {
+  tmp <- merge(x = counts[[i]],
+               y = location,
+               by = "row.names",
+               all = FALSE,
+               sort = FALSE)
+  tmp <- tmp[c("Row.names", "Transmembrane")]
+  total_prot <- length(rownames(tmp))
+  keep <- grep("TRANSMEM", tmp$Transmembrane, ignore.case = TRUE)
+  tmp <- tmp[keep,]
+  transmembrane_prot <- length(rownames(tmp))
+  transmembrane_perc <- round((transmembrane_prot/total_prot)*100,
+                              digits = 0)
+  
+  transmembrane[nrow(transmembrane) +1,] <- c(names(counts[i]),
+                                              total_prot,
+                                              transmembrane_prot,
+                                              transmembrane_perc)
+  
+  helical <- length(grep("Helical", tmp$Transmembrane, ignore.case = TRUE))
+  not_helical <- FALSE
+  if (helical != transmembrane_prot) {
+    message(paste0("For ",
+                 names(counts[i]),
+                 " not all transmembrane proteins are helical type."))
+    not_helical <- TRUE
+  }
+}
+
+kable(transmembrane,
+      col.names = c("Condition",
+                    "Total",
+                    "Transmemb.",
+                    "Percent. (%)"),
+      align = "lcccc")
+```
+
+Let's see if there are transmembrane proteins that are not $\alpha$-helical.
+
+```{r ask_helical}
+if(not_helical == FALSE) {
+  message("All transmembrane proteins are helical type.")
+}
+```
+
+
+```{r rmvar4, echo=VERBOSE_MODE}
+# remove useless variables
+rm(tmp, total_prot, transmembrane_prot, transmembrane_perc, helical, transmembrane)
+```
+
+# Location distributions
+
+Let's see the distribution of [DEP]s by cellular location. Since there are many transmembrane proteins, two representations will be considered: one including all locations and another only for membrane locations. The last one will be analyzed with and without the non-specific `membrane` location.
+
+## All proteins, all locations
+
+We show the all location for all proteins deteted in the experiment, being [DEP]s or not.
+
+```{r location_total}
+# assign location to all proteins
+all_proteins_location <- merge(x = all_proteins,
+                               y = location,
+                               by = "row.names",
+                               all = FALSE,
+                               sort = FALSE)
+all_proteins_location <- all_proteins_location[c("Row.names", "Subcellular.location")]
+colnames(all_proteins_location)[1] <- "Protein.ID"
+
+# split those proteins according to their location
+subcell_all_proteins <- list()
+data_barplot <- data.frame(matrix(ncol = 2, nrow = 0))
+colnames(data_barplot) <- c("location", "count")
+for (i in 1:length(location_cat)) {
+  keep <- grep(location_cat[i],
+               all_proteins_location$Subcellular.location,
+               ignore.case = TRUE)
+  tmp <- all_proteins_location[keep,]
+  tmp <- tmp$Protein.ID
+  empty <- length(tmp) == 0
+  if (empty == FALSE) {
+    subcell_all_proteins[[location_cat[i]]] <- tmp
+    data_barplot[nrow(data_barplot) +1,] <- c(location_cat[i], length(tmp))
+  }
+}
+data_barplot$count <- as.numeric(data_barplot$count)
+# for membrane proteins
+data_barplot_mem <- data_barplot[grep("membrane",
+                                      data_barplot$location,
+                                      ignore.case = TRUE),]
+#
+barplot_order <- data_barplot[order(data_barplot$count,
+                                   decreasing = TRUE),]
+barplot_order <- barplot_order$location
+data_barplot$location <- factor(data_barplot$location,
+                                levels = barplot_order)
+
+# represent the results
+barplot_plot <- ggplot(data_barplot,
+                       aes(x = location,
+                           y = count)) +
+  geom_bar(stat = "identity") +
+  theme(axis.text.x = element_text(angle = 90, # x label vertical 
+                                   hjust = 1,
+                                   vjust = 0.5)) +
+  theme(panel.grid.major = element_blank(), # remove major grid
+        panel.grid.minor = element_blank(), # remove minor grid
+        panel.background = element_blank()) + # remove background
+  ylim(0, 3000) # limits for y axis
+
+ggplotly(barplot_plot)
+```
+
+> It can be seen that the non-specific `membrane` location is the major location.
+
+```{r rmvar5, echo=VERBOSE_MODE}
+# remove useless variables
+rm(tmp, all_proteins, all_proteins_location, subcell_all_proteins, data_barplot, barplot_order, barplot_plot)
+```
+
+## All proteins, only membrane locations
+
+```{r location_total_membrane}
+barplot_order <- data_barplot_mem[order(data_barplot_mem$count,
+                                        decreasing = TRUE),"location"]
+data_barplot_mem$location <- factor(data_barplot_mem$location,
+                                    levels = barplot_order)
+
+# represent the results
+barplot_plot <- ggplot(data_barplot_mem,
+                       aes(x = location,
+                           y = count)) +
+  geom_bar(stat = "identity") +
+  theme(axis.text.x = element_text(angle = 90, # x label vertical 
+                                   hjust = 1,
+                                   vjust = 0.5)) +
+  theme(panel.grid.major = element_blank(), # remove major grid
+        panel.grid.minor = element_blank(), # remove minor grid
+        panel.background = element_blank()) + # remove background
+  ylim(0, 3000) # limits for y axis
+
+ggplotly(barplot_plot)
+```
+
+```{r rmvar6, echo=VERBOSE_MODE}
+# remove useless variables
+rm(barplot_order, data_barplot_mem, barplot_plot)
+```
+
+## Membrane [DEP]s
+
+We check the location of the membrane proteins of the comparisons made with the Venn diagram.
+
+```{r location_membrane}
+# assign location to the Venn diagram proteins
+membrane_proteins_location <- list()
+for (i in 1:length(venn_intersections)) {
+  membrane_proteins_location[[names(venn_intersections[i])]] <- list()
+  for (j in 1:length(venn_intersections[[i]])) {
+    tmp <- venn_intersections[[i]][[j]]
+    tmp <- merge(x = tmp,
+                 y = location,
+                 by.x = 1,
+                 by.y = "row.names",
+                 all = FALSE,
+                 sort = FALSE)
+    tmp <- tmp[c("x", "Subcellular.location")]
+    colnames(tmp)[1] <- "Protein.ID"
+    # keep only membrane proteins
+    tmp <- tmp[grep("membrane",
+                    tmp$Subcellular.location,
+                    ignore.case = TRUE),]
+    if(length(tmp) != 0) {
+      name <- names(venn_intersections[[i]][j])
+      membrane_proteins_location[[names(venn_intersections[i])]][[name]] <- tmp
+    }
+  }
+}
+
+# split those proteins according to their location
+location_membrane <- location_cat[grep("membrane",
+                                       location_cat,
+                                       ignore.case = TRUE)]
+
+subcell_membrane_proteins <- list()
+subcell_save <- list()
+for (i in 1:length(membrane_proteins_location)) {
+  name <- names(membrane_proteins_location[i])
+  subcell_membrane_proteins[[name]] <- data.frame(matrix(ncol = 3, nrow = 0))
+  colnames(subcell_membrane_proteins[[name]]) <- c("location", "count", "intersections")
+  subcell_save[[name]] <- data.frame(matrix(ncol = 3, nrow = 0))
+  colnames(subcell_save[[name]]) <- c("protein", "intersections", "location")
+  tmp <- membrane_proteins_location[[i]]
+  tmp <- do.call(rbind, tmp)
+  tmp$intersections <- rownames(tmp)
+  tmp$intersections <- gsub("\\..*", "", tmp$intersections)
+  for (j in 1:length(location_membrane)) {
+    keep <- grep(location_membrane[j],
+                 tmp$Subcellular.location,
+                 ignore.case = TRUE)
+    if (length(keep) != 0) {
+      tmp2 <- tmp[keep,]
+      tmp2_intersections <- tmp2$intersections
+      tmp2_intersections <- unique(tmp2_intersections)
+      for (k in 1:length(tmp2_intersections)) {
+        tmp3 <- tmp2[grep(paste0("^", tmp2_intersections[k], "$"),
+                          tmp2$intersections),]
+        subcell_membrane_proteins[[i]][nrow(subcell_membrane_proteins[[i]]) +1,] <- c(location_membrane[j], length(rownames(tmp3)), tmp2_intersections[k])
+        tmp3$location_membrane <- location_membrane[j]
+        tmp3 <- tmp3[,-2]
+        subcell_save[[i]] <- rbind(subcell_save[[i]], tmp3)
+      } # end for k
+    } # end if
+  } # end for j
+} # end for i
+
+# for no membrane general location
+subcell_membrane_no_proteins <- list()
+for (i in 1:length(subcell_membrane_proteins)) {
+  tmp <- subcell_membrane_proteins[[i]]
+  tmp <- tmp[-grep("^membrane$", tmp$location, ignore.case = TRUE),]
+  name <- names(subcell_membrane_proteins[i])
+  subcell_membrane_no_proteins[[name]] <- tmp
+}
+
+# remove useless variables
+rm(membrane_proteins_location, tmp, tmp2, tmp3, tmp2_intersections)
+
+# with membrane general term
+data_barplot <- list()
+# represent the results
+plt <- htmltools::tagList()
+for (i in 1:length(subcell_membrane_proteins)) {
+  data_barplot[[names(subcell_membrane_proteins[i])]] <- list()
+  tmp <- subcell_membrane_proteins[[i]]
+  tmp_intersections <- unique(tmp$intersections)
+  l <- list()
+  for (j in 1:length(tmp_intersections)) {
+    l[[tmp_intersections[j]]] <- tmp[grep(paste0("^", tmp_intersections[j], "$"),
+                                    tmp$intersections),c(1,2)]
+  } # end for j
+  df <- data.frame()
+  for (k in 1:length(l)) {
+    tmp2 <- l[[k]]
+    colnames(tmp2)[2] <- tmp_intersections[k]
+    if (k == 1){
+      df <- tmp2
+    } else {
+      df <- merge(x = df,
+                  y = tmp2,
+                  by = 1,
+                  all = TRUE,
+                  sort = FALSE)
+    } # end else
+  } # end for k
+  df[is.na(df)] <- 0
+  mm <- melt(df, id.vars = "location")
+  mm$value <- as.numeric(mm$value)
+  
+  gg_barplot<- ggplot(mm, aes(x = location, y = value)) +
+    geom_bar(stat = "identity") + # can add width = 0.2 to change it
+    facet_grid(.~variable) +
+    coord_flip() +
+    ggtitle(paste0(names(subcell_membrane_proteins[i]), " proteins")) +
+    theme(panel.grid.major = element_blank(), # remove major grid
+          panel.grid.minor = element_blank(), # remove minor grid
+          panel.background = element_blank()) + # remove background
+    theme(text = element_text(size = 8))
+    
+  plt[[i]] <- as_widget(ggplotly(gg_barplot))
+} # end for i
+```
+
+```{r location_membrane_plot, echo=FALSE}
+plt
+```
+
+Now, we represent the same results without the non-specific `membrane` location to highligth the abundance of [DEP]s in other membrane locations.
+
+```{r location_membrane_no_general}
+# no membrane general term
+data_barplot <- list()
+# represent the results
+plt <- htmltools::tagList()
+for (i in 1:length(subcell_membrane_no_proteins)) {
+  data_barplot[[names(subcell_membrane_no_proteins[i])]] <- list()
+  tmp <- subcell_membrane_no_proteins[[i]]
+  tmp_intersections <- unique(tmp$intersections)
+  l <- list()
+  for (j in 1:length(tmp_intersections)) {
+    l[[tmp_intersections[j]]] <- tmp[grep(paste0("^", tmp_intersections[j], "$"),
+                                    tmp$intersections),c(1,2)]
+  } # end for j
+  df <- data.frame()
+  for (k in 1:length(l)) {
+    tmp2 <- l[[k]]
+    colnames(tmp2)[2] <- tmp_intersections[k]
+    if (k == 1){
+      df <- tmp2
+    } else {
+      df <- merge(x = df,
+                  y = tmp2,
+                  by = 1,
+                  all = TRUE,
+                  sort = FALSE)
+    } # end else
+  } # end for k
+  df[is.na(df)] <- 0
+  mm <- melt(df, id.vars = "location")
+  mm$value <- as.numeric(mm$value)
+  
+  gg_barplot<- ggplot(mm, aes(x = location, y = value)) +
+    geom_bar(stat = "identity") + # can add width = 0.2 to change it
+    facet_grid(.~variable) +
+    coord_flip() +
+    ggtitle(paste0(names(subcell_membrane_no_proteins[i]), " proteins")) +
+    theme(panel.grid.major = element_blank(), # remove major grid
+          panel.grid.minor = element_blank(), # remove minor grid
+          panel.background = element_blank()) + # remove background
+    theme(text = element_text(size = 8))
+    
+  plt[[i]] <- as_widget(ggplotly(gg_barplot))
+} # end for i
+```
+
+```{r location_membrane_no_general_plot, echo=FALSE}
+plt
+```
+
+Saving membrane DEPs.
+
+```{r save_location, echo=FALSE}
+filenames <- ""
+for (i in 1:length(subcell_save)) {
+  file_name <- paste0(SUB_DIR,
+                        "DEP_",
+                        names(subcell_save[i]),
+                        "_membrane.tsv")
+  write.table(subcell_save[[i]],
+            file = file_name,
+            quote = FALSE,
+            sep = "\t",
+            row.names = FALSE,
+            col.names = TRUE)
+  filenames <- c(filenames, paste0("**", names(subcell_save[i]), "** : ", file_name, "\n"))
+}
+message("Files with membrane DEPs were saved in \n", filenames)
+```
+
+# Summary table
+
+A summary table with the protein ID, its subcellular location, if they are transmembrane (TRUE) or not (empty cell), the log2 value for the three conditions (rbohC, rbohF and WT) and the protein name.
+
+```{r show_final_datatable}
+datatable(final_datatable[, c(7, 1, 2, 3, 4, 5, 6)],  # reorder table
+          options = list(pageLength = 5),  # number of lines by default
+          caption = "Summary table of all the DEPs")
+
+# save final_datatable
+file_name <- paste0(SUB_DIR,
+                    "summary_table.tsv")
+write.table(final_datatable,
+            file = file_name,
+            quote = FALSE,
+            sep = "\t",
+            row.names = FALSE,
+            col.names = TRUE)
+message("The summary table was saved at \n", file_name, "\n")
+```
+
+# About this session
+
+```{r tiempo_total, results='hold', echo=FALSE}
+# total time is current proc.time minus initial time (T00)
+T_total <- proc.time() - T00
+```
+
+Elapsed time: **`r round(T_total[[3]]/60, digits = 2)` min**.
+
+```{r sessionInfo, results='hold', echo=FALSE}
+cat("Variables in memory:\n")
+ls()
+cat("\n")
+sessionInfo()
+```
