@@ -37,6 +37,7 @@ Minimum **RAM** required (depending on dataset size): 16 GB. Recommended RAM: 32
 - `rmarkdown`
 - `venn`
 - `VennDiagram`
+- `ggplot2`
 - `plotly`
 - `DT`
 - `pheatmap`
