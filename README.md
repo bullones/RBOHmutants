@@ -18,12 +18,12 @@ The GitHub repository and your local version will contain the following files an
 
 - `data`: a folder containing the input data files
 - `location`: a folder containing the subcellular location files
-- `configure_mutant_CdvsCtrl.R`: a file containing all parameters necessary to execute _RBOHmutants_ for the analysis after Cd exposure in WT and mutants _rbohC_ and _rbohF_
+- `configure_mutant_CdvsCtrl.R`: a file containing all parameters necessary to execute _RBOHmutants_ for the analysis after **Cd exposure** in wild type (WT) and mutants _rbohC_ and _rbohF_ using the `analysis_mutant_CdvsCtrl.Rmd` script
 - `analysis_mutant_CdvsCtrl.Rmd`: a markdown file to plot the expression of DEPs as normalised abundances with heatmaps, compare the common DEPs between the mutants and the WT with Venn diagrams, and check the cellular location of the DEPs
-- `Cd_Results`: a folder containing the output file generated in the execution of `analysis_mutant_CdvsCtrl.Rmd` script
-- `configure_WTvsMutant.R`: a file containing all parameters necessary to execute _RBOHmutants_ for the analysis between controls in WT and mutants _rbohC_ and _rbohF_
+- `Cd_Results`: a folder containing the output file generated in the execution of `analysis_mutant_CdvsCtrl.R` configuration file
+- `configure_WTvsMutant.R`: a file containing all parameters necessary to execute _RBOHmutants_ for the analysis between **controls** in wild type (WT) and mutants _rbohC_ and _rbohF_ using the `analysis_WTvsMutant.Rmd` script
 - `analysis_WTvsMutant.Rmd`: a markdown file to compare the DEPs that change after Cd treatment and also change in respect to WT, plot the expression of DEPs as normalised abundances with heatmaps, and check the cellular location of the DEPs
-- `Control_Results`: a folder containing the output file generated in the execution of `analysis_WTvsMutant.Rmd` script
+- `Control_Results`: a folder containing the output file generated in the execution of `analysis_WTvsMutant.R` configuration file
 
 ***
 
